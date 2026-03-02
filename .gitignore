@@ -37,4 +37,7 @@ venv/
 
 # Fixture save point
 database_savepoint.json
-client_secret_development.json client_secret.json
+
+# Google Cloud credentials (secrets - never commit)
+client_secret.json
+client_secret_development.json
