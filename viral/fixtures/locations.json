@@ -1,0 +1,824 @@
+[
+  {
+    "model": "viral.location",
+    "pk": 1,
+    "fields": {
+      "created_at": "2018-09-24T04:43:27.062",
+      "updated_at": "2018-09-24T04:43:27.062",
+      "formatted_address": "Porto, Portugal",
+      "latitude": 41.1579438,
+      "longitude": -8.62910529999999,
+      "city": "Porto",
+      "region": "Porto District",
+      "region_abbreviation": "Porto",
+      "country": "Portugal",
+      "continent": "Europe",
+      "groups": [
+        1
+      ]
+    }
+  },
+  {
+    "model": "viral.location",
+    "pk": 2,
+    "fields": {
+      "created_at": "2018-09-24T04:43:27.062",
+      "updated_at": "2018-09-24T04:43:27.062",
+      "formatted_address": "1101 K St NW, Washington, DC 20005, USA",
+      "latitude": 38.902861000000001,
+      "longitude": -77.027752699999994,
+      "city": "Washington",
+      "region": "District of Columbia",
+      "region_abbreviation": "DC",
+      "country": "United States",
+      "continent": "North America"
+    }
+  },
+  {
+    "model": "viral.location",
+    "pk": 3,
+    "fields": {
+      "created_at": "2018-09-24T04:43:27.062",
+      "updated_at": "2018-09-24T04:43:27.062",
+      "formatted_address": "30 Novick Plaza",
+      "latitude": 37.832557,
+      "longitude": -8.2423289,
+      "city": "Messejana",
+      "region": "Beja",
+      "region_abbreviation": "02",
+      "country": "Portugal",
+      "continent": "Europe"
+    }
+  },
+  {
+    "model": "viral.location",
+    "pk": 4,
+    "fields": {
+      "created_at": "2018-09-24T04:43:27.062",
+      "updated_at": "2018-09-24T04:43:27.062",
+      "formatted_address": "78466 5th Parkway",
+      "latitude": 41.4023768,
+      "longitude": -8.3684974,
+      "city": "Serzedelo",
+      "region": "Braga",
+      "region_abbreviation": "03",
+      "country": "Portugal",
+      "continent": "Europe"
+    }
+  },
+  {
+    "model": "viral.location",
+    "pk": 5,
+    "fields": {
+      "created_at": "2018-09-24T04:43:27.062",
+      "updated_at": "2018-09-24T04:43:27.062",
+      "formatted_address": "65 Briar Crest Alley",
+      "latitude": 47.6060781,
+      "longitude": -122.3329957,
+      "city": "Seattle",
+      "region": "Washington",
+      "region_abbreviation": "WA",
+      "country": "United States",
+      "continent": "North America"
+    }
+  },
+  {
+    "model": "viral.location",
+    "pk": 6,
+    "fields": {
+      "created_at": "2018-09-24T04:43:27.062",
+      "updated_at": "2018-09-24T04:43:27.062",
+      "formatted_address": "52457 Prairie Rose Place",
+      "latitude": 26.4068381,
+      "longitude": -80.1058665,
+      "city": "Boca Raton",
+      "region": "Florida",
+      "region_abbreviation": "FL",
+      "country": "United States",
+      "continent": "North America"
+    }
+  },
+  {
+    "model": "viral.location",
+    "pk": 7,
+    "fields": {
+      "created_at": "2018-09-24T04:43:27.062",
+      "updated_at": "2018-09-24T04:43:27.062",
+      "formatted_address": "40 Mallard Center",
+      "latitude": 39.6883601,
+      "longitude": -8.9606173,
+      "city": "Martingança",
+      "region": "Leiria",
+      "region_abbreviation": "10",
+      "country": "Portugal",
+      "continent": "Europe"
+    }
+  },
+  {
+    "model": "viral.location",
+    "pk": 8,
+    "fields": {
+      "created_at": "2018-09-24T04:43:27.062",
+      "updated_at": "2018-09-24T04:43:27.062",
+      "formatted_address": "452 Lukken Lane",
+      "latitude": 28.1434318,
+      "longitude": -82.3343375,
+      "city": "Tampa",
+      "region": "Florida",
+      "region_abbreviation": "FL",
+      "country": "United States",
+      "continent": "North America"
+    }
+  },
+  {
+    "model": "viral.location",
+    "pk": 9,
+    "fields": {
+      "created_at": "2018-09-24T04:43:27.062",
+      "updated_at": "2018-09-24T04:43:27.062",
+      "formatted_address": "143 Norway Maple Way",
+      "latitude": 37.9715592,
+      "longitude": -87.5710898,
+      "city": "Evansville",
+      "region": "Indiana",
+      "region_abbreviation": "IN",
+      "country": "United States",
+      "continent": "North America"
+    }
+  },
+  {
+    "model": "viral.location",
+    "pk": 10,
+    "fields": {
+      "created_at": "2018-09-24T04:43:27.062",
+      "updated_at": "2018-09-24T04:43:27.062",
+      "formatted_address": "01458 Brickson Park Point",
+      "latitude": 34.9128121,
+      "longitude": -116.6492954,
+      "city": "Nashville",
+      "region": "Tennessee",
+      "region_abbreviation": "TN",
+      "country": "United States",
+      "continent": "North America"
+    }
+  },
+  {
+    "model": "viral.location",
+    "pk": 11,
+    "fields": {
+      "created_at": "2018-09-24T04:43:27.062",
+      "updated_at": "2018-09-24T04:43:27.062",
+      "formatted_address": "847 Walton Alley",
+      "latitude": 41.3888512,
+      "longitude": -8.4334674,
+      "city": "Novais",
+      "region": "Braga",
+      "region_abbreviation": "03",
+      "country": "Portugal",
+      "continent": "Europe"
+    }
+  },
+  {
+    "model": "viral.location",
+    "pk": 12,
+    "fields": {
+      "created_at": "2018-09-24T04:43:27.062",
+      "updated_at": "2018-09-24T04:43:27.062",
+      "formatted_address": "12 Grim Point",
+      "latitude": 39.4546797,
+      "longitude": -8.398033,
+      "city": "Arrepiado",
+      "region": "Santarém",
+      "region_abbreviation": "14",
+      "country": "Portugal",
+      "continent": "Europe"
+    }
+  },
+  {
+    "model": "viral.location",
+    "pk": 13,
+    "fields": {
+      "created_at": "2018-09-24T04:43:27.062",
+      "updated_at": "2018-09-24T04:43:27.062",
+      "formatted_address": "73 Shelley Pass",
+      "latitude": 38.365641,
+      "longitude": -7.4731029,
+      "city": "Campinho",
+      "region": "Évora",
+      "region_abbreviation": "07",
+      "country": "Portugal",
+      "continent": "Europe"
+    }
+  },
+  {
+    "model": "viral.location",
+    "pk": 14,
+    "fields": {
+      "created_at": "2018-09-24T04:43:27.062",
+      "updated_at": "2018-09-24T04:43:27.062",
+      "formatted_address": "48 Bowman Place",
+      "latitude": 43.0751316,
+      "longitude": -88.0379517,
+      "city": "Milwaukee",
+      "region": "Wisconsin",
+      "region_abbreviation": "WI",
+      "country": "United States",
+      "continent": "North America"
+    }
+  },
+  {
+    "model": "viral.location",
+    "pk": 15,
+    "fields": {
+      "created_at": "2018-09-24T04:43:27.062",
+      "updated_at": "2018-09-24T04:43:27.062",
+      "formatted_address": "85 Lakewood Street",
+      "latitude": 30.27,
+      "longitude": -97.74,
+      "city": "Austin",
+      "region": "Texas",
+      "region_abbreviation": "TX",
+      "country": "United States",
+      "continent": "North America"
+    }
+  },
+  {
+    "model": "viral.location",
+    "pk": 16,
+    "fields": {
+      "created_at": "2018-09-24T04:43:27.062",
+      "updated_at": "2018-09-24T04:43:27.062",
+      "formatted_address": "918 Becker Alley",
+      "latitude": 38.7204364,
+      "longitude": -9.425542,
+      "city": "Alvide",
+      "region": "Lisboa",
+      "region_abbreviation": "11",
+      "country": "Portugal",
+      "continent": "Europe"
+    }
+  },
+  {
+    "model": "viral.location",
+    "pk": 17,
+    "fields": {
+      "created_at": "2018-09-24T04:43:27.062",
+      "updated_at": "2018-09-24T04:43:27.062",
+      "formatted_address": "6904 Eagle Crest Park",
+      "latitude": 41.3929185,
+      "longitude": -8.5496995,
+      "city": "Vilarinho das Cambas",
+      "region": "Braga",
+      "region_abbreviation": "03",
+      "country": "Portugal",
+      "continent": "Europe"
+    }
+  },
+  {
+    "model": "viral.location",
+    "pk": 18,
+    "fields": {
+      "created_at": "2018-09-24T04:43:27.062",
+      "updated_at": "2018-09-24T04:43:27.062",
+      "formatted_address": "6674 Pearson Lane",
+      "latitude": 36.9262849,
+      "longitude": -76.0203323,
+      "city": "Virginia Beach",
+      "region": "Virginia",
+      "region_abbreviation": "VA",
+      "country": "United States",
+      "continent": "North America"
+    }
+  },
+  {
+    "model": "viral.location",
+    "pk": 19,
+    "fields": {
+      "created_at": "2018-09-24T04:43:27.062",
+      "updated_at": "2018-09-24T04:43:27.062",
+      "formatted_address": "171 Mcbride Alley",
+      "latitude": "49.08938",
+      "longitude": "-123.08241",
+      "city": "Ladner",
+      "region": "British Columbia",
+      "region_abbreviation": "BC",
+      "country": "Canada",
+      "continent": "North America"
+    }
+  },
+  {
+    "model": "viral.location",
+    "pk": 20,
+    "fields": {
+      "created_at": "2018-09-24T04:43:27.062",
+      "updated_at": "2018-09-24T04:43:27.062",
+      "formatted_address": "89 Debs Road",
+      "latitude": 41.5217223,
+      "longitude": -8.4574423,
+      "city": "Aveleda",
+      "region": "Braga",
+      "region_abbreviation": "03",
+      "country": "Portugal",
+      "continent": "Europe"
+    }
+  },
+  {
+    "model": "viral.location",
+    "pk": 21,
+    "fields": {
+      "created_at": "2018-09-24T04:43:27.062",
+      "updated_at": "2018-09-24T04:43:27.062",
+      "formatted_address": "2 Sloan Way",
+      "latitude": "46.22652",
+      "longitude": "-63.21809",
+      "city": "Cornwall",
+      "region": "Prince Edward Island",
+      "region_abbreviation": "PE",
+      "country": "Canada",
+      "continent": "North America"
+    }
+  },
+  {
+    "model": "viral.location",
+    "pk": 22,
+    "fields": {
+      "created_at": "2018-09-24T04:43:27.062",
+      "updated_at": "2018-09-24T04:43:27.062",
+      "formatted_address": "8088 Division Pass",
+      "latitude": 37.9416306,
+      "longitude": -77.3484049,
+      "city": "Richmond",
+      "region": "Virginia",
+      "region_abbreviation": "VA",
+      "country": "United States",
+      "continent": "North America"
+    }
+  },
+  {
+    "model": "viral.location",
+    "pk": 23,
+    "fields": {
+      "created_at": "2018-09-24T04:43:27.062",
+      "updated_at": "2018-09-24T04:43:27.062",
+      "formatted_address": "1424 Aberg Court",
+      "latitude": "45.97927",
+      "longitude": "-81.9248",
+      "city": "Little Current",
+      "region": "Ontario",
+      "region_abbreviation": "ON",
+      "country": "Canada",
+      "continent": "North America"
+    }
+  },
+  {
+    "model": "viral.location",
+    "pk": 24,
+    "fields": {
+      "created_at": "2018-09-24T04:43:27.062",
+      "updated_at": "2018-09-24T04:43:27.062",
+      "formatted_address": "39 Bunting Court",
+      "latitude": 38.6681004,
+      "longitude": -27.0897051,
+      "city": "São Sebastião",
+      "region": "Ilha Terceira",
+      "region_abbreviation": "43",
+      "country": "Portugal",
+      "continent": "Europe"
+    }
+  },
+  {
+    "model": "viral.location",
+    "pk": 25,
+    "fields": {
+      "created_at": "2018-09-24T04:43:27.062",
+      "updated_at": "2018-09-24T04:43:27.062",
+      "formatted_address": "7303 Starling Crossing",
+      "latitude": 41.2106113,
+      "longitude": -8.5404451,
+      "city": "Barreira",
+      "region": "Viana do Castelo",
+      "region_abbreviation": "16",
+      "country": "Portugal",
+      "continent": "Europe"
+    }
+  },
+  {
+    "model": "viral.location",
+    "pk": 26,
+    "fields": {
+      "created_at": "2018-09-24T04:43:27.062",
+      "updated_at": "2018-09-24T04:43:27.062",
+      "formatted_address": "6229 Mcguire Drive",
+      "latitude": 43.153975,
+      "longitude": -77.6120835,
+      "city": "Rochester",
+      "region": "New York",
+      "region_abbreviation": "NY",
+      "country": "United States",
+      "continent": "North America"
+    }
+  },
+  {
+    "model": "viral.location",
+    "pk": 27,
+    "fields": {
+      "created_at": "2018-09-24T04:43:27.062",
+      "updated_at": "2018-09-24T04:43:27.062",
+      "formatted_address": "1 Graceland Drive",
+      "latitude": 38.7004199,
+      "longitude": -9.2419409,
+      "city": "Dafundo",
+      "region": "Lisboa",
+      "region_abbreviation": "11",
+      "country": "Portugal",
+      "continent": "Europe"
+    }
+  },
+  {
+    "model": "viral.location",
+    "pk": 28,
+    "fields": {
+      "created_at": "2018-09-24T04:43:27.062",
+      "updated_at": "2018-09-24T04:43:27.062",
+      "formatted_address": "20024 Oakridge Trail",
+      "latitude": 33.6952452,
+      "longitude": -117.7639765,
+      "city": "Garden Grove",
+      "region": "California",
+      "region_abbreviation": "CA",
+      "country": "United States",
+      "continent": "North America"
+    }
+  },
+  {
+    "model": "viral.location",
+    "pk": 29,
+    "fields": {
+      "created_at": "2018-09-24T04:43:27.062",
+      "updated_at": "2018-09-24T04:43:27.062",
+      "formatted_address": "5331 Green Ridge Road",
+      "latitude": 38.9374808,
+      "longitude": -77.0852258,
+      "city": "Washington",
+      "region": "District of Columbia",
+      "region_abbreviation": "DC",
+      "country": "United States",
+      "continent": "North America"
+    }
+  },
+  {
+    "model": "viral.location",
+    "pk": 30,
+    "fields": {
+      "created_at": "2018-09-24T04:43:27.062",
+      "updated_at": "2018-09-24T04:43:27.062",
+      "formatted_address": "7950 Fulton Trail",
+      "latitude": "49.44998",
+      "longitude": "-112.65185",
+      "city": "Raymond",
+      "region": "Alberta",
+      "region_abbreviation": "AB",
+      "country": "Canada",
+      "continent": "North America"
+    }
+  },
+  {
+    "model": "viral.location",
+    "pk": 31,
+    "fields": {
+      "created_at": "2018-09-24T04:43:27.062",
+      "updated_at": "2018-09-24T04:43:27.062",
+      "formatted_address": "63545 7th Street",
+      "latitude": 53.2214074,
+      "longitude": -114.9766785,
+      "city": "Drayton Valley",
+      "region": "Alberta",
+      "region_abbreviation": "AB",
+      "country": "Canada",
+      "continent": "North America"
+    }
+  },
+  {
+    "model": "viral.location",
+    "pk": 32,
+    "fields": {
+      "created_at": "2018-09-24T04:43:27.062",
+      "updated_at": "2018-09-24T04:43:27.062",
+      "formatted_address": "63 Meadow Ridge Alley",
+      "latitude": 29.6793128,
+      "longitude": -82.3723105,
+      "city": "Gainesville",
+      "region": "Florida",
+      "region_abbreviation": "FL",
+      "country": "United States",
+      "continent": "North America"
+    }
+  },
+  {
+    "model": "viral.location",
+    "pk": 33,
+    "fields": {
+      "created_at": "2018-09-24T04:43:27.062",
+      "updated_at": "2018-09-24T04:43:27.062",
+      "formatted_address": "650 Forest Parkway",
+      "latitude": 41.1461878,
+      "longitude": -8.6107389,
+      "city": "Santo António",
+      "region": "Viseu",
+      "region_abbreviation": "18",
+      "country": "Portugal",
+      "continent": "Europe"
+    }
+  },
+  {
+    "model": "viral.location",
+    "pk": 34,
+    "fields": {
+      "created_at": "2018-09-24T04:43:27.062",
+      "updated_at": "2018-09-24T04:43:27.062",
+      "formatted_address": "8951 Buena Vista Center",
+      "latitude": 40.44,
+      "longitude": -79.9599999,
+      "city": "Pittsburgh",
+      "region": "Pennsylvania",
+      "region_abbreviation": "PA",
+      "country": "United States",
+      "continent": "North America"
+    }
+  },
+  {
+    "model": "viral.location",
+    "pk": 35,
+    "fields": {
+      "created_at": "2018-09-24T04:43:27.062",
+      "updated_at": "2018-09-24T04:43:27.062",
+      "formatted_address": "245 Roxbury Terrace",
+      "latitude": 32.3324642,
+      "longitude": -111.2129616,
+      "city": "Tucson",
+      "region": "Arizona",
+      "region_abbreviation": "AZ",
+      "country": "United States",
+      "continent": "North America"
+    }
+  },
+  {
+    "model": "viral.location",
+    "pk": 36,
+    "fields": {
+      "created_at": "2018-09-24T04:43:27.062",
+      "updated_at": "2018-09-24T04:43:27.062",
+      "formatted_address": "584 High Crossing Plaza",
+      "latitude": 39.5435798,
+      "longitude": -8.0379136,
+      "city": "Penhascoso",
+      "region": "Santarém",
+      "region_abbreviation": "14",
+      "country": "Portugal",
+      "continent": "Europe"
+    }
+  },
+  {
+    "model": "viral.location",
+    "pk": 37,
+    "fields": {
+      "created_at": "2018-09-24T04:43:27.062",
+      "updated_at": "2018-09-24T04:43:27.062",
+      "formatted_address": "46 Granby Trail",
+      "latitude": 38.6530409,
+      "longitude": -8.9285486,
+      "city": "Fonte da Vaca",
+      "region": "Setúbal",
+      "region_abbreviation": "15",
+      "country": "Portugal",
+      "continent": "Europe"
+    }
+  },
+  {
+    "model": "viral.location",
+    "pk": 38,
+    "fields": {
+      "created_at": "2018-09-24T04:43:27.062",
+      "updated_at": "2018-09-24T04:43:27.062",
+      "formatted_address": "8 Hagan Junction",
+      "latitude": 32.3324642,
+      "longitude": -111.2129616,
+      "city": "Tucson",
+      "region": "Arizona",
+      "region_abbreviation": "AZ",
+      "country": "United States",
+      "continent": "North America"
+    }
+  },
+  {
+    "model": "viral.location",
+    "pk": 39,
+    "fields": {
+      "created_at": "2018-09-24T04:43:27.062",
+      "updated_at": "2018-09-24T04:43:27.062",
+      "formatted_address": "40188 Roxbury Point",
+      "latitude": 52.4639426,
+      "longitude": 13.3728893,
+      "city": "Berlin",
+      "region": "Berlin",
+      "region_abbreviation": "BE",
+      "country": "Germany",
+      "continent": "Europe"
+    }
+  },
+  {
+    "model": "viral.location",
+    "pk": 40,
+    "fields": {
+      "created_at": "2018-09-24T04:43:27.062",
+      "updated_at": "2018-09-24T04:43:27.062",
+      "formatted_address": "808 Mesta Court",
+      "latitude": 41.6919638,
+      "longitude": -86.3754398,
+      "city": "South Bend",
+      "region": "Indiana",
+      "region_abbreviation": "IN",
+      "country": "United States",
+      "continent": "North America"
+    }
+  },
+  {
+    "model": "viral.location",
+    "pk": 41,
+    "fields": {
+      "created_at": "2018-09-24T04:43:27.062",
+      "updated_at": "2018-09-24T04:43:27.062",
+      "formatted_address": "8452 Sycamore Hill",
+      "latitude": 42.3652917,
+      "longitude": -71.0646337,
+      "city": "Boston",
+      "region": "Massachusetts",
+      "region_abbreviation": "MA",
+      "country": "United States",
+      "continent": "North America"
+    }
+  },
+  {
+    "model": "viral.location",
+    "pk": 42,
+    "fields": {
+      "created_at": "2018-09-24T04:43:27.062",
+      "updated_at": "2018-09-24T04:43:27.062",
+      "formatted_address": "18704 Beilfuss Alley",
+      "latitude": 39.4883941,
+      "longitude": -8.3535831,
+      "city": "Limeiras",
+      "region": "Santarém",
+      "region_abbreviation": "14",
+      "country": "Portugal",
+      "continent": "Europe"
+    }
+  },
+  {
+    "model": "viral.location",
+    "pk": 43,
+    "fields": {
+      "created_at": "2018-09-24T04:43:27.062",
+      "updated_at": "2018-09-24T04:43:27.062",
+      "formatted_address": "166 Sycamore Street",
+      "latitude": 41.3176391,
+      "longitude": -8.5425485,
+      "city": "Lemende",
+      "region": "Porto",
+      "region_abbreviation": "13",
+      "country": "Portugal",
+      "continent": "Europe"
+    }
+  },
+  {
+    "model": "viral.location",
+    "pk": 44,
+    "fields": {
+      "created_at": "2018-09-24T04:43:27.062",
+      "updated_at": "2018-09-24T04:43:27.062",
+      "formatted_address": "6229 Bunker Hill Terrace",
+      "latitude": "47.09995",
+      "longitude": "-55.76504",
+      "city": "Grand Bank",
+      "region": "Newfoundland and Labrador",
+      "region_abbreviation": "NL",
+      "country": "Canada",
+      "continent": "North America"
+    }
+  },
+  {
+    "model": "viral.location",
+    "pk": 45,
+    "fields": {
+      "created_at": "2018-09-24T04:43:27.062",
+      "updated_at": "2018-09-24T04:43:27.062",
+      "formatted_address": "68 Eastlawn Hill",
+      "latitude": 41.7,
+      "longitude": -83.65,
+      "city": "Toledo",
+      "region": "Ohio",
+      "region_abbreviation": "OH",
+      "country": "United States",
+      "continent": "North America"
+    }
+  },
+  {
+    "model": "viral.location",
+    "pk": 46,
+    "fields": {
+      "created_at": "2018-09-24T04:43:27.062",
+      "updated_at": "2018-09-24T04:43:27.062",
+      "formatted_address": "7706 Bayside Alley",
+      "latitude": 40.7038704,
+      "longitude": -74.0138541,
+      "city": "New York City",
+      "region": "New York",
+      "region_abbreviation": "NY",
+      "country": "United States",
+      "continent": "North America"
+    }
+  },
+  {
+    "model": "viral.location",
+    "pk": 47,
+    "fields": {
+      "created_at": "2018-09-24T04:43:27.062",
+      "updated_at": "2018-09-24T04:43:27.062",
+      "formatted_address": "5 2nd Lane",
+      "latitude": 33.6781963,
+      "longitude": -118.0127534,
+      "city": "Huntington Beach",
+      "region": "California",
+      "region_abbreviation": "CA",
+      "country": "United States",
+      "continent": "North America"
+    }
+  },
+  {
+    "model": "viral.location",
+    "pk": 48,
+    "fields": {
+      "created_at": "2018-09-24T04:43:27.062",
+      "updated_at": "2018-09-24T04:43:27.062",
+      "formatted_address": "568 Declaration Avenue",
+      "latitude": 39.9583587,
+      "longitude": -75.1953934,
+      "city": "Philadelphia",
+      "region": "Pennsylvania",
+      "region_abbreviation": "PA",
+      "country": "United States",
+      "continent": "North America"
+    }
+  },
+  {
+    "model": "viral.location",
+    "pk": 49,
+    "fields": {
+      "created_at": "2018-09-24T04:43:27.062",
+      "updated_at": "2018-09-24T04:43:27.062",
+      "formatted_address": "8313 Onsgard Junction",
+      "latitude": 51.6813704,
+      "longitude": 7.9085254,
+      "city": "Hamm",
+      "region": "Nordrhein-Westfalen",
+      "region_abbreviation": "NW",
+      "country": "Germany",
+      "continent": "Europe"
+    }
+  },
+  {
+    "model": "viral.location",
+    "pk": 50,
+    "fields": {
+      "created_at": "2018-09-24T04:43:27.062",
+      "updated_at": "2018-09-24T04:43:27.062",
+      "formatted_address": "089 Bonner Street",
+      "latitude": 25.9400585,
+      "longitude": -80.2153998,
+      "city": "Miami",
+      "region": "Florida",
+      "region_abbreviation": "FL",
+      "country": "United States",
+      "continent": "North America"
+    }
+  },
+  {
+    "model": "viral.location",
+    "pk": 51,
+    "fields": {
+      "created_at": "2018-09-24T04:43:27.062",
+      "updated_at": "2018-09-24T04:43:27.062",
+      "formatted_address": "Barcelona, Spain",
+      "latitude": 41.1579438,
+      "longitude": -8.62910529999999,
+      "city": "Barcelona",
+      "region": "Catalonia",
+      "region_abbreviation": "Catalonia",
+      "country": "Spain",
+      "continent": "Europe",
+      "groups": [
+        1
+      ]
+    }
+  }
+]

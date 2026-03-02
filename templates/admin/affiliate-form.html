@@ -1,0 +1,78 @@
+{% extends "admin/change_form.html" %}
+
+{% load i18n %}
+{% load static %}
+
+{% block extrastyle %}
+{{ block.super }}
+<link rel="stylesheet" href="{% static 'css/affiliate-form.css' %}">
+{% endblock %}
+
+{% block object-tools-items %}
+
+{% if original.sdg_reports_enabled %}
+{% if has_sdg_report_request %}
+{% if sdg_report_request_status == 'active' %}
+<li>
+  <a id="update_job_status" href="{% url 'update_job_status' %}?job_id={{ sdg_report_job_id }}">Update SDG Report
+    Status</a>
+</li>
+{% elif sdg_report_request_status == 'completed' %}
+{% if sdg_report_pdf_url != '' %}
+<li>
+  <a id="download_report" href="{{ sdg_report_pdf_url }}" target="_blank">Download SDG Report (PDF)</a>
+</li>
+{% endif %}
+{% if sdg_report_xlsx_url != '' %}
+<li>
+  <a id="download_report" href="{{ sdg_report_xlsx_url }}" target="_blank">Download SDG Report (XLSX)</a>
+</li>
+{% endif %}
+<li>
+  <a id="generate-sdg-reports"
+    href="{% url 'generate_sdg_reports' %}?type=affiliate&affiliate_id={{ original.id }}">Generate New SDG
+    Report</a>
+</li>
+{% elif sdg_report_request_status == 'failed' %}
+<li>
+  <a id="generate-sdg-reports"
+    href="{% url 'generate_sdg_reports' %}?type=affiliate&affiliate_id={{ original.id }}">Generate New SDG
+    Report</a>
+</li>
+{% endif %}
+{% else %}
+<li>
+  <a id="generate-sdg-reports"
+    href="{% url 'generate_sdg_reports' %}?type=affiliate&affiliate_id={{ original.id }}">Generate SDG
+    Report</a>
+</li>
+{% endif %}
+{% endif %}
+
+<li>
+  <a id="regenerate-spreadsheet" href="{% url 'regenerate_affiliate_spreadsheet' pk=original.id %}">Regenerate
+    Spreadsheet</a>
+</li>
+{{ block.super }}
+{% endblock %}
+
+{% block form_top %}
+<ul class="nav nav-tabs">
+  <li class="nav-item">
+    <a class="nav-link active" id="affiliate-configuration" data-toggle="tab">Affiliate configuration</a>
+  </li>
+  <li class="nav-item affiliate-customization">
+    <a class="nav-link" data-toggle="tab">Landing page customization</a>
+  </li>
+</ul>
+<details class="landing-page-example">
+  <summary>Landing page example</summary>
+  <img src="{% static " img/affiliate-landing-page.png" %}" id="affiliate-landing-page" alt="Affiliate Landing Page" />
+</details>
+{{ block.super }}
+{% endblock %}
+
+{% block admin_change_form_document_ready %}
+{{ block.super }}
+<script type="text/javascript" src="{% static 'js/affiliate-form.js' %}"></script>
+{% endblock %}

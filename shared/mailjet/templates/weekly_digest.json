@@ -1,0 +1,45 @@
+{
+  "subject": "Weekly Digest",
+  "content": {
+    "title": "Quick look into last week's news!",
+    "subtitle": "",
+    "message": "Exciting times ahead, right?",
+    "signature": "We wish you good connections,<br> <i>The Abaca Team</i>",
+    "callout": null,
+    "body": {
+      "title": "This Week"
+    },
+    "showcase": {
+      "matching_suggestions": {
+        "title_singular": "<b>{0} New Matching Suggestion</b> awaiting you",
+        "title_multiple": "<b>{0} New Matching Suggestions</b> awaiting you",
+        "cta": {
+          "title": "See All",
+          "link": null
+        },
+        "has_items": false,
+        "items": []
+      },
+      "requests_received": {
+        "title_singular": "<b>{0} New Request Received</b> ready to connect",
+        "title_multiple": "<b>{0} New Requests Received</b> ready to connect",
+        "cta": {
+          "title": "See All",
+          "link": null
+        },
+        "has_items": false,
+        "items": []
+      },
+      "new_connections": {
+        "title_singular": "<b>{0} New Connection</b> ready to get in touch",
+        "title_multiple": "<b>{0} New Connections</b> ready to get in touch",
+        "cta": {
+          "title": "See All",
+          "link": null
+        },
+        "has_items": false,
+        "items": []
+      }
+    }
+  }
+}

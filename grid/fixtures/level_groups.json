@@ -1,0 +1,20 @@
+[
+  {
+    "model": "grid.levelgroup",
+    "pk": 1,
+    "fields": {
+      "created_at": "2019-05-31T12:21:02.257",
+      "updated_at": "2019-05-31T12:21:02.257",
+      "slug": "supporters"
+    }
+  },
+  {
+    "model": "grid.levelgroup",
+    "pk": 2,
+    "fields": {
+      "created_at": "2019-05-31T12:21:02.260",
+      "updated_at": "2019-05-31T12:21:02.260",
+      "slug": "entrepreneurs"
+    }
+  }
+]

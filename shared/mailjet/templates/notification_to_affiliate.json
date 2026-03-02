@@ -1,0 +1,32 @@
+{
+  "subject": "New Company Assessment: COMPANY_NAME - Level ASSESSMENT_LEVEL",  
+  "content": {
+    "title": "Hello,",
+    "subtitle": "We’ve got good news!",
+    "message": "<b>COMPANY_NAME</b> just completed their Venture Investment Level self-assessment, and are a <b>Level ASSESSMENT_LEVEL</b> company!",
+    "signature": "Best regards,<br> <i>The Abaca Team</i>",
+    "modules": {
+      "company": {
+        "title": "Company Info",
+        "sector": "Sector",
+        "website": "Website",
+        "email": "Email",
+        "foundedDate": "Founded Date",
+        "about": "About",
+        "viralLevel": "Your Viral Level:"
+      },
+      "assessment": {
+        "title": "Assessment Details",
+        "button": {
+          "text": "See Assessment",
+          "link": "COMPANY_PROFILE_LINK"
+        }
+      }
+    }
+  },
+
+  "button": {
+    "text": "Check their profile",
+    "link": "COMPANY_PROFILE_LINK"
+  }
+}

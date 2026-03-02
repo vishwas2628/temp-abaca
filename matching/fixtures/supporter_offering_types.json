@@ -1,0 +1,142 @@
+[
+  {
+    "model": "matching.supporterofferingtypes",
+    "pk": 1,
+    "fields": {
+      "created_at": "2019-05-31T13:04:10.842",
+      "updated_at": "2019-05-31T13:04:10.842",
+      "name": "Convertible Debt",
+      "category": 2
+    }
+  },
+  {
+    "model": "matching.supporterofferingtypes",
+    "pk": 2,
+    "fields": {
+      "created_at": "2019-05-31T13:13:28.056",
+      "updated_at": "2019-05-31T13:13:28.056",
+      "name": "Equity",
+      "category": 2
+    }
+  },
+  {
+    "model": "matching.supporterofferingtypes",
+    "pk": 3,
+    "fields": {
+      "created_at": "2019-05-31T13:13:46.733",
+      "updated_at": "2019-05-31T13:13:46.733",
+      "name": "Debt",
+      "category": 2
+    }
+  },
+  {
+    "model": "matching.supporterofferingtypes",
+    "pk": 4,
+    "fields": {
+      "created_at": "2019-05-31T13:14:07.399",
+      "updated_at": "2019-05-31T13:39:12.876",
+      "name": "Alternative Financing",
+      "category": 2
+    }
+  },
+  {
+    "model": "matching.supporterofferingtypes",
+    "pk": 5,
+    "fields": {
+      "created_at": "2019-05-31T13:18:01.263",
+      "updated_at": "2019-05-31T13:18:01.263",
+      "name": "Mentoring",
+      "category": 1
+    }
+  },
+  {
+    "model": "matching.supporterofferingtypes",
+    "pk": 6,
+    "fields": {
+      "created_at": "2019-05-31T13:39:33.771",
+      "updated_at": "2019-05-31T13:39:33.771",
+      "name": "Grants",
+      "category": 2
+    }
+  },
+  {
+    "model": "matching.supporterofferingtypes",
+    "pk": 7,
+    "fields": {
+      "created_at": "2019-09-17T11:17:25.759",
+      "updated_at": "2019-09-17T11:17:25.759",
+      "name": "In-person Group Training",
+      "category": 1
+    }
+  },
+  {
+    "model": "matching.supporterofferingtypes",
+    "pk": 8,
+    "fields": {
+      "created_at": "2019-09-17T11:18:15.630",
+      "updated_at": "2019-09-17T11:18:15.630",
+      "name": "Peer Learning",
+      "category": 1
+    }
+  },
+  {
+    "model": "matching.supporterofferingtypes",
+    "pk": 9,
+    "fields": {
+      "created_at": "2019-10-30T12:52:02.509",
+      "updated_at": "2019-10-30T12:52:02.509",
+      "name": "Laboratory",
+      "category": 5
+    }
+  },
+  {
+    "model": "matching.supporterofferingtypes",
+    "pk": 10,
+    "fields": {
+      "created_at": "2019-10-30T13:41:29.125",
+      "updated_at": "2019-10-30T13:41:29.126",
+      "name": "Crowd Equity",
+      "category": 2
+    }
+  },
+  {
+    "model": "matching.supporterofferingtypes",
+    "pk": 11,
+    "fields": {
+      "created_at": "2019-10-30T14:17:16.643",
+      "updated_at": "2019-10-30T14:17:16.643",
+      "name": "Skills Training",
+      "category": 1
+    }
+  },
+  {
+    "model": "matching.supporterofferingtypes",
+    "pk": 12,
+    "fields": {
+      "created_at": "2019-10-30T15:30:48.730",
+      "updated_at": "2019-10-30T15:31:05.733",
+      "name": "Strategic Support",
+      "category": 3
+    }
+  },
+  {
+    "model": "matching.supporterofferingtypes",
+    "pk": 13,
+    "fields": {
+      "created_at": "2019-11-06T10:35:20.719",
+      "updated_at": "2019-11-06T10:35:20.719",
+      "name": "Office Space",
+      "category": 5
+    }
+  },
+  {
+    "model": "matching.supporterofferingtypes",
+    "pk": 14,
+    "fields": {
+      "created_at": "2019-11-06T10:51:42.590",
+      "updated_at": "2019-11-06T10:51:42.590",
+      "name": "Legal",
+      "category": 3
+    }
+  }
+]

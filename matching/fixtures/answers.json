@@ -1,0 +1,502 @@
+[
+  {
+    "model": "matching.answer",
+    "pk": 3,
+    "fields": {
+      "created_at": "2019-02-19T08:38:23.122",
+      "updated_at": "2019-02-19T08:38:23.122",
+      "value": "Software",
+      "question": 9
+    }
+  },
+  {
+    "model": "matching.answer",
+    "pk": 4,
+    "fields": {
+      "created_at": "2019-02-19T08:38:30.531",
+      "updated_at": "2019-02-19T08:38:30.531",
+      "value": "Hardware",
+      "question": 9
+    }
+  },
+  {
+    "model": "matching.answer",
+    "pk": 5,
+    "fields": {
+      "created_at": "2019-02-19T08:38:43.336",
+      "updated_at": "2019-02-19T08:38:43.336",
+      "value": "Services",
+      "question": 9
+    }
+  },
+  {
+    "model": "matching.answer",
+    "pk": 6,
+    "fields": {
+      "created_at": "2019-02-19T08:38:58.901",
+      "updated_at": "2019-02-19T08:38:58.901",
+      "value": "Tech",
+      "question": 8
+    }
+  },
+  {
+    "model": "matching.answer",
+    "pk": 7,
+    "fields": {
+      "created_at": "2019-02-19T08:39:26.217",
+      "updated_at": "2019-02-19T08:39:26.217",
+      "value": "Tech-enabled",
+      "question": 8
+    }
+  },
+  {
+    "model": "matching.answer",
+    "pk": 8,
+    "fields": {
+      "created_at": "2019-02-19T08:39:34.741",
+      "updated_at": "2019-02-19T08:39:34.741",
+      "value": "Non-tech",
+      "question": 8
+    }
+  },
+  {
+    "model": "matching.answer",
+    "pk": 9,
+    "fields": {
+      "created_at": "2019-02-19T08:39:51.224",
+      "updated_at": "2019-02-19T08:39:51.224",
+      "value": "Patents",
+      "question": 7
+    }
+  },
+  {
+    "model": "matching.answer",
+    "pk": 10,
+    "fields": {
+      "created_at": "2019-02-19T08:40:25.727",
+      "updated_at": "2019-02-19T08:40:25.727",
+      "value": "Copyrights",
+      "question": 7
+    }
+  },
+  {
+    "model": "matching.answer",
+    "pk": 11,
+    "fields": {
+      "created_at": "2019-02-19T08:40:36.531",
+      "updated_at": "2019-02-19T08:40:36.531",
+      "value": "Trade Secrets",
+      "question": 7
+    }
+  },
+  {
+    "model": "matching.answer",
+    "pk": 12,
+    "fields": {
+      "created_at": "2019-02-19T08:40:54.548",
+      "updated_at": "2019-02-19T08:40:54.548",
+      "value": "Trademarks",
+      "question": 7
+    }
+  },
+  {
+    "model": "matching.answer",
+    "pk": 13,
+    "fields": {
+      "created_at": "2019-02-19T08:41:09.228",
+      "updated_at": "2019-04-19T09:12:31.915",
+      "value": "None",
+      "question": 7
+    }
+  },
+  {
+    "model": "matching.answer",
+    "pk": 14,
+    "fields": {
+      "created_at": "2019-02-19T08:41:41.885",
+      "updated_at": "2019-02-19T08:41:41.885",
+      "value": "B2C - Selling to consumers",
+      "question": 5
+    }
+  },
+  {
+    "model": "matching.answer",
+    "pk": 15,
+    "fields": {
+      "created_at": "2019-02-19T08:41:50.130",
+      "updated_at": "2019-02-19T08:41:50.130",
+      "value": "B2B - Selling directly to businesses",
+      "question": 5
+    }
+  },
+  {
+    "model": "matching.answer",
+    "pk": 16,
+    "fields": {
+      "created_at": "2019-02-19T08:42:05.502",
+      "updated_at": "2019-02-19T08:42:05.502",
+      "value": "B2G - Selling to government",
+      "question": 5
+    }
+  },
+  {
+    "model": "matching.answer",
+    "pk": 17,
+    "fields": {
+      "created_at": "2019-02-19T08:42:17.232",
+      "updated_at": "2019-02-19T09:41:38.795",
+      "value": "B2B2C - Selling to consumers via another business",
+      "question": 5
+    }
+  },
+  {
+    "model": "matching.answer",
+    "pk": 18,
+    "fields": {
+      "created_at": "2019-02-19T10:31:03.603",
+      "updated_at": "2019-02-19T10:31:03.603",
+      "value": "Black or African American",
+      "question": 10
+    }
+  },
+  {
+    "model": "matching.answer",
+    "pk": 19,
+    "fields": {
+      "created_at": "2019-02-19T10:31:18.589",
+      "updated_at": "2019-02-19T10:31:18.589",
+      "value": "Hispanic or Latinx",
+      "question": 10
+    }
+  },
+  {
+    "model": "matching.answer",
+    "pk": 20,
+    "fields": {
+      "created_at": "2019-02-19T10:33:30.171",
+      "updated_at": "2019-02-19T10:37:02.319",
+      "value": "Asian",
+      "question": 10
+    }
+  },
+  {
+    "model": "matching.answer",
+    "pk": 21,
+    "fields": {
+      "created_at": "2019-02-19T10:35:07.659",
+      "updated_at": "2019-02-19T10:35:07.659",
+      "value": "No",
+      "question": 11
+    }
+  },
+  {
+    "model": "matching.answer",
+    "pk": 22,
+    "fields": {
+      "created_at": "2019-02-19T10:35:13.494",
+      "updated_at": "2019-02-19T10:35:13.494",
+      "value": "Yes",
+      "question": 11
+    }
+  },
+  {
+    "model": "matching.answer",
+    "pk": 23,
+    "fields": {
+      "created_at": "2019-02-25T14:34:28.896",
+      "updated_at": "2019-02-25T15:35:20.166",
+      "value": "Yes, social impact",
+      "question": 13
+    }
+  },
+  {
+    "model": "matching.answer",
+    "pk": 24,
+    "fields": {
+      "created_at": "2019-02-25T14:34:43.415",
+      "updated_at": "2019-02-25T15:35:29.043",
+      "value": "Yes, environmental impact",
+      "question": 13
+    }
+  },
+  {
+    "model": "matching.answer",
+    "pk": 25,
+    "fields": {
+      "created_at": "2019-02-25T14:35:12.003",
+      "updated_at": "2019-02-25T15:33:53.725",
+      "value": "We're not impact focused",
+      "question": 13
+    }
+  },
+  {
+    "model": "matching.answer",
+    "pk": 26,
+    "fields": {
+      "created_at": "2019-02-25T15:43:23.821",
+      "updated_at": "2019-02-25T15:43:23.821",
+      "value": "Yes",
+      "question": 15
+    }
+  },
+  {
+    "model": "matching.answer",
+    "pk": 27,
+    "fields": {
+      "created_at": "2019-02-25T15:43:31.614",
+      "updated_at": "2019-02-25T15:43:31.614",
+      "value": "No",
+      "question": 15
+    }
+  },
+  {
+    "model": "matching.answer",
+    "pk": 28,
+    "fields": {
+      "created_at": "2019-02-25T20:35:38.063",
+      "updated_at": "2019-02-25T20:35:38.063",
+      "value": "Yes",
+      "question": 16
+    }
+  },
+  {
+    "model": "matching.answer",
+    "pk": 29,
+    "fields": {
+      "created_at": "2019-02-25T20:35:48.832",
+      "updated_at": "2019-02-25T20:35:48.832",
+      "value": "No",
+      "question": 16
+    }
+  },
+  {
+    "model": "matching.answer",
+    "pk": 30,
+    "fields": {
+      "created_at": "2019-02-26T09:18:48.666",
+      "updated_at": "2019-02-26T09:18:48.666",
+      "value": "Yes",
+      "question": 17
+    }
+  },
+  {
+    "model": "matching.answer",
+    "pk": 31,
+    "fields": {
+      "created_at": "2019-02-26T09:18:57.792",
+      "updated_at": "2019-02-26T09:18:57.792",
+      "value": "No",
+      "question": 17
+    }
+  },
+  {
+    "model": "matching.answer",
+    "pk": 32,
+    "fields": {
+      "created_at": "2019-06-13T09:01:32.874",
+      "updated_at": "2019-06-13T10:32:56.737",
+      "value": "Is refugee owned or led",
+      "question": 19
+    }
+  },
+  {
+    "model": "matching.answer",
+    "pk": 33,
+    "fields": {
+      "created_at": "2019-06-13T09:02:10.035",
+      "updated_at": "2019-06-13T10:32:45.622",
+      "value": "Employs refugees",
+      "question": 19
+    }
+  },
+  {
+    "model": "matching.answer",
+    "pk": 34,
+    "fields": {
+      "created_at": "2019-06-13T09:02:18.920",
+      "updated_at": "2019-06-13T10:32:36.196",
+      "value": "Serves refugee customers",
+      "question": 19
+    }
+  },
+  {
+    "model": "matching.answer",
+    "pk": 35,
+    "fields": {
+      "created_at": "2020-01-03T12:14:07.892",
+      "updated_at": "2020-01-03T12:14:07.892",
+      "value": "Yes",
+      "question": 20
+    }
+  },
+  {
+    "model": "matching.answer",
+    "pk": 36,
+    "fields": {
+      "created_at": "2020-01-03T12:14:38.112",
+      "updated_at": "2020-01-03T12:14:38.112",
+      "value": "No",
+      "question": 20
+    }
+  },
+  {
+    "model": "matching.answer",
+    "pk": 37,
+    "fields": {
+      "created_at": "2020-01-07T10:32:39.904",
+      "updated_at": "2020-01-07T10:32:39.904",
+      "value": "Pre-Revenue",
+      "question": 30
+    }
+  },
+  {
+    "model": "matching.answer",
+    "pk": 38,
+    "fields": {
+      "created_at": "2020-01-07T10:32:59.953",
+      "updated_at": "2020-01-07T10:32:59.953",
+      "value": "Post-Revenue",
+      "question": 30
+    }
+  },
+  {
+    "model": "matching.answer",
+    "pk": 39,
+    "fields": {
+      "created_at": "2020-01-21T11:15:43.078",
+      "updated_at": "2020-01-21T11:15:43.078",
+      "value": "Yes",
+      "question": 34
+    }
+  },
+  {
+    "model": "matching.answer",
+    "pk": 40,
+    "fields": {
+      "created_at": "2020-01-21T11:16:04.843",
+      "updated_at": "2020-01-21T11:16:04.843",
+      "value": "No",
+      "question": 34
+    }
+  },
+  {
+    "model": "matching.answer",
+    "pk": 41,
+    "fields": {
+      "created_at": "2020-01-21T11:30:29.703",
+      "updated_at": "2020-01-21T11:30:29.703",
+      "value": "Yes",
+      "question": 38
+    }
+  },
+  {
+    "model": "matching.answer",
+    "pk": 42,
+    "fields": {
+      "created_at": "2020-01-21T11:30:52.939",
+      "updated_at": "2020-01-21T11:30:52.939",
+      "value": "No",
+      "question": 38
+    }
+  },
+  {
+    "model": "matching.answer",
+    "pk": 43,
+    "fields": {
+      "created_at": "2020-01-21T11:34:33.802",
+      "updated_at": "2020-01-21T11:34:33.802",
+      "value": "I do not have a physical product or prototype",
+      "question": 40
+    }
+  },
+  {
+    "model": "matching.answer",
+    "pk": 44,
+    "fields": {
+      "created_at": "2020-01-21T11:34:54.264",
+      "updated_at": "2020-01-21T11:34:54.264",
+      "value": "I have a prototype or a simple version I can show my customers",
+      "question": 40
+    }
+  },
+  {
+    "model": "matching.answer",
+    "pk": 45,
+    "fields": {
+      "created_at": "2020-01-21T11:35:14.734",
+      "updated_at": "2020-03-31T09:52:58.530",
+      "value": "I have a market-ready product/service. I could sell it to customers",
+      "question": 40
+    }
+  },
+  {
+    "model": "matching.answer",
+    "pk": 47,
+    "fields": {
+      "created_at": "2020-01-27T12:24:12.728",
+      "updated_at": "2020-01-27T12:24:12.728",
+      "value": "I have a market ready product/service. I have sold to customers.",
+      "question": 40
+    }
+  },
+  {
+    "model": "matching.answer",
+    "pk": 48,
+    "fields": {
+      "created_at": "2020-02-24T08:58:57.743",
+      "updated_at": "2020-02-24T08:58:57.743",
+      "value": "For-profit",
+      "question": 64
+    }
+  },
+  {
+    "model": "matching.answer",
+    "pk": 49,
+    "fields": {
+      "created_at": "2020-02-24T09:01:55.924",
+      "updated_at": "2020-02-24T09:01:55.924",
+      "value": "Nonprofit",
+      "question": 64
+    }
+  },
+  {
+    "model": "matching.answer",
+    "pk": 50,
+    "fields": {
+      "created_at": "2020-02-24T09:02:24.749",
+      "updated_at": "2020-02-24T09:02:24.749",
+      "value": "Government",
+      "question": 64
+    }
+  },
+  {
+    "model": "matching.answer",
+    "pk": 51,
+    "fields": {
+      "created_at": "2020-02-24T09:05:37.859",
+      "updated_at": "2020-02-24T09:05:37.859",
+      "value": "I'm not sure yet",
+      "question": 64
+    }
+  },
+  {
+    "model": "matching.answer",
+    "pk": 52,
+    "fields": {
+      "created_at": "2020-03-04T15:28:48.826",
+      "updated_at": "2020-03-04T15:28:48.826",
+      "value": "Yes",
+      "question": 65
+    }
+  },
+  {
+    "model": "matching.answer",
+    "pk": 53,
+    "fields": {
+      "created_at": "2020-03-04T15:28:56.637",
+      "updated_at": "2020-03-04T15:28:56.637",
+      "value": "No",
+      "question": 65
+    }
+  }
+]

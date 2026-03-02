@@ -1,0 +1,86 @@
+[
+  {
+    "model": "viral.network",
+    "pk": 1,
+    "fields": {
+      "created_at": "2019-05-31T12:21:59.005",
+      "updated_at": "2019-05-31T12:21:59.005",
+      "name": "VA4E",
+      "slug": "va4e",
+      "email": "",
+      "website": "",
+      "logo": "https://va4e.org/wp-content/uploads/2017/11/VA4E-Virginia-is-for-Entrepreneurs-Logo.png",
+      "locations": []
+    }
+  },
+  {
+    "model": "viral.network",
+    "pk": 2,
+    "fields": {
+      "created_at": "2019-05-31T15:03:52.137",
+      "updated_at": "2019-05-31T15:03:52.137",
+      "name": "Maine",
+      "slug": "maine",
+      "email": "mbentley@mainetechnology.org",
+      "website": "https://mainetechnology.org",
+      "logo": "https://www.mainetechnology.org/wp-content/themes/mti/library/images/logo.png",
+      "locations": []
+    }
+  },
+  {
+    "model": "viral.network",
+    "pk": 3,
+    "fields": {
+      "created_at": "2019-05-31T15:37:58.576",
+      "updated_at": "2019-10-01T14:42:28.261",
+      "name": "Refugee Investment Network",
+      "slug": "refugee-investment-network",
+      "email": "jkluge@refugeeinvestments.org",
+      "website": "http://www.refugeeinvestments.org",
+      "logo": "https://refugeeinvestments.org/wp-content/uploads/2019/06/header-logo-1.png",
+      "locations": []
+    }
+  },
+  {
+    "model": "viral.network",
+    "pk": 4,
+    "fields": {
+      "created_at": "2019-09-27T09:03:53.035",
+      "updated_at": "2019-09-27T09:03:53.035",
+      "name": "Startup Lex",
+      "slug": "startup-lex",
+      "email": "info@startuplexington.org",
+      "website": "http://startuplexington.org",
+      "logo": "https://static.wixstatic.com/media/5bdd5e_f42e0c71fc4647d184e7c64c445e0486~mv2.png/v1/fill/w_267,h_80,al_c,q_80,usm_0.66_1.00_0.01/StartupLex_Logo_2.webp",
+      "locations": []
+    }
+  },
+  {
+    "model": "viral.network",
+    "pk": 5,
+    "fields": {
+      "created_at": "2019-10-30T14:49:43.501",
+      "updated_at": "2019-11-06T17:05:53.997",
+      "name": "Finance Forward",
+      "slug": "finance-forward",
+      "email": "info@vilcap.com",
+      "website": "http://vilcap.com",
+      "logo": "https://abacawebsite-live-ecc1e30f0e1b4dbd80a45-1962f1c.divio-media.net/filer_public/1a/67/1a67bdf2-792f-4d84-af0f-9cd27719fdb6/finance_forward.png",
+      "locations": []
+    }
+  },
+  {
+    "model": "viral.network",
+    "pk": 6,
+    "fields": {
+      "created_at": "2020-03-31T09:20:24.768",
+      "updated_at": "2020-03-31T09:20:24.768",
+      "name": "COVID 19",
+      "slug": "covid-19",
+      "email": "test@vilcap.com",
+      "website": "http://sorensonimpactfoundation.org/",
+      "logo": "http://sorensonimpactfoundation.org/wp-content/uploads/2017/11/SIF-Logo8-dropdown-retina.png",
+      "locations": []
+    }
+  }
+]

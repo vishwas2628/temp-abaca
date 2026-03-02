@@ -1,0 +1,112 @@
+[
+  {
+    "model": "matching.questioncategory",
+    "pk": 1,
+    "fields": {
+      "created_at": "2019-02-08T10:28:49.532",
+      "updated_at": "2019-02-08T10:28:49.532",
+      "name": "Revenue",
+      "description": "This is for questions about revenue. This may change to either a VIRAL category, a more broad name like financials, or something else like traction. TBD."
+    }
+  },
+  {
+    "model": "matching.questioncategory",
+    "pk": 2,
+    "fields": {
+      "created_at": "2019-02-08T10:31:57.344",
+      "updated_at": "2019-02-08T10:31:57.344",
+      "name": "Team",
+      "description": "This mirrors the VIRAL team category"
+    }
+  },
+  {
+    "model": "matching.questioncategory",
+    "pk": 3,
+    "fields": {
+      "created_at": "2019-02-19T08:19:34.929",
+      "updated_at": "2019-02-19T08:19:34.929",
+      "name": "Product",
+      "description": "These are questions about the company's product."
+    }
+  },
+  {
+    "model": "matching.questioncategory",
+    "pk": 4,
+    "fields": {
+      "created_at": "2019-02-19T08:21:33.298",
+      "updated_at": "2019-02-19T08:21:33.298",
+      "name": "Exit",
+      "description": "These relate to your funding and exit potential."
+    }
+  },
+  {
+    "model": "matching.questioncategory",
+    "pk": 5,
+    "fields": {
+      "created_at": "2019-02-19T08:27:05.336",
+      "updated_at": "2019-02-19T08:27:05.336",
+      "name": "Scale",
+      "description": "These questions pertain to scale."
+    }
+  },
+  {
+    "model": "matching.questioncategory",
+    "pk": 6,
+    "fields": {
+      "created_at": "2019-02-19T08:27:52.508",
+      "updated_at": "2019-02-19T08:27:52.508",
+      "name": "Business Model",
+      "description": "These questions pertain to business model."
+    }
+  },
+  {
+    "model": "matching.questioncategory",
+    "pk": 7,
+    "fields": {
+      "created_at": "2019-02-25T14:33:40.273",
+      "updated_at": "2019-02-25T14:33:40.273",
+      "name": "Problem",
+      "description": "These are related to the problem"
+    }
+  },
+  {
+    "model": "matching.questioncategory",
+    "pk": 8,
+    "fields": {
+      "created_at": "2019-02-25T14:33:59.698",
+      "updated_at": "2019-02-25T14:33:59.698",
+      "name": "Impact",
+      "description": "These questions are related to social and environmental impact."
+    }
+  },
+  {
+    "model": "matching.questioncategory",
+    "pk": 9,
+    "fields": {
+      "created_at": "2020-01-03T12:23:26.986",
+      "updated_at": "2020-01-03T12:23:26.986",
+      "name": "Value Proposition",
+      "description": "Questions relating to your value proposition."
+    }
+  },
+  {
+    "model": "matching.questioncategory",
+    "pk": 10,
+    "fields": {
+      "created_at": "2020-01-27T12:29:09.244",
+      "updated_at": "2020-01-27T12:29:09.244",
+      "name": "Market",
+      "description": "These are market related questions."
+    }
+  },
+  {
+    "model": "matching.questioncategory",
+    "pk": 11,
+    "fields": {
+      "created_at": "2020-01-27T12:46:44.286",
+      "updated_at": "2020-01-27T12:46:44.286",
+      "name": "General",
+      "description": "General questions"
+    }
+  }
+]

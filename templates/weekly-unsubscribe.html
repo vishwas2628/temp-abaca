@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Unsubscribe</title>
+
+  <style type="text/css">
+		body { font: 1.0em Arial;line-height: 1.6em;color: #444; }
+		#container { width: 600px;margin: 0 auto;padding: 30px 0;text-align: center; }
+		.notification { font-size: 0.9em;margin: 0 0 15px;background-color: #DDF5FF;border: 1px solid #8AC8E2;border-radius: 7px;-moz-border-radius: 7px;-webkit-border-radius: 7px; }
+		.success { background-color: #E6FFDD;border: 1px solid #A0DB8C; }
+		.error { background-color: #FFDDDD;border: 1px solid #E2A7A7; }
+		.button { background-color: #444;border: 1px solid #000;border-radius: 7px;-moz-border-radius: 7px;-webkit-border-radius: 7px;padding: 15px 20px;text-decoration: none;color: #fff; cursor: pointer; font-size: 15px; }
+		hr { margin: 0 0 30px;border: none;clear: both;display: block;font-size: 0;height: 1px;line-height: 0;width: 100%;background-color: silver; }
+	</style>
+</head>
+<body>
+  <div id="app"></div>
+
+  <script src="https://cdn.jsdelivr.net/npm/vue@2.6.11/dist/vue.min.js"></script>
+  <script>
+  const app = new Vue({
+    el: '#app',
+    data: {
+      email: "",
+      unsubscribed: false,
+      error: false
+    },
+    created() {
+      this.email = 'email' in this.queryParams ? this.queryParams.email : "";
+      this.uid = 'uid' in this.queryParams ? this.queryParams.uid : null;
+    },
+    computed: {
+      queryParams() {
+        const query = window.location.search;
+        return query
+          ? (/^[?#]/.test(query) ? query.slice(1) : query)
+              .split('&')
+              .reduce((params, param) => {
+                      let [key, value] = param.split('=');
+                      params[key] = value ? decodeURIComponent(value) : '';
+                      return params;
+                  }, {}
+              )
+          : {}
+      }
+    },
+    methods: {
+      requestExclusion() {
+        fetch("/mailjet/unsub/",
+        {
+            method: "POST",
+            headers: {
+              'Accept': 'application/json',
+              'Content-Type': 'application/json'
+            },
+            body: JSON.stringify([{
+              event: 'unsub',
+              email: this.email,
+              uid: this.uid
+            }])
+        })
+        .then(response => {
+          if (!response.ok) {
+              throw Error(response.statusText);
+          }
+          return response;
+        })
+        .then(response => {
+          this.unsubscribed = true;
+          this.error = false;
+        })
+        .catch(error => {
+          this.unsubscribed = false;
+          this.error = true;
+        })
+      },
+    },
+    template: `
+      <div id="container">
+        <p>Do you really want to unsubscribe the following email address?<br><span v-text="email"></span></p>
+        <hr>
+        <p>
+          <button
+            @click="requestExclusion" 
+            v-if="!unsubscribed && !error && uid" class="button">
+            Yes, unsubscribe
+          </button>
+          <span v-if="unsubscribed">Unsubscribed successfully!</span>
+          <span v-if="error">Oops! An error occurred while trying to unsubscribe.<br>Please get in touch with us to sort this out: <a href="mailto:abaca-dev@pixelmatters.com">abaca-dev@pixelmatters.com</a>.</span>
+        </p>
+      </div>
+    `
+  })
+  </script>
+</body>
+</html>

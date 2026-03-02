@@ -1,0 +1,122 @@
+[
+  {
+    "model": "grid.category",
+    "pk": 25,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.586",
+      "updated_at": "2019-05-16T11:47:15.256",
+      "name": "Team",
+      "requirements_title": "First, we\u2019d like to know more about the team you are building",
+      "color": "ffd36f",
+      "abbreviation": "T",
+      "order": 1,
+      "group": 2,
+      "value_type": "SINGLE"
+    }
+  },
+  {
+    "model": "grid.category",
+    "pk": 26,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.591",
+      "updated_at": "2019-05-16T11:47:15.259",
+      "name": "Problem and Vision",
+      "requirements_title": "Tell us about the problem you're tackling and your vision for solving it.",
+      "color": "ff8e54",
+      "abbreviation": "PV",
+      "order": 2,
+      "group": 2,
+      "value_type": "SINGLE"
+    }
+  },
+  {
+    "model": "grid.category",
+    "pk": 27,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.595",
+      "updated_at": "2019-05-16T11:47:15.261",
+      "name": "Value Proposition",
+      "requirements_title": "How much validation do you have that your product is valuable to customers?",
+      "color": "ff5a64",
+      "abbreviation": "VP",
+      "order": 3,
+      "group": 2,
+      "value_type": "SINGLE"
+    }
+  },
+  {
+    "model": "grid.category",
+    "pk": 28,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.599",
+      "updated_at": "2019-05-16T11:47:15.262",
+      "name": "Product",
+      "requirements_title": "How mature are your product and feedback loops?",
+      "color": "43d38a",
+      "abbreviation": "P",
+      "order": 4,
+      "group": 2,
+      "value_type": "SINGLE"
+    }
+  },
+  {
+    "model": "grid.category",
+    "pk": 29,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.604",
+      "updated_at": "2019-05-16T11:47:15.264",
+      "name": "Market",
+      "requirements_title": "How much evidence do you have that a large market of customers experiences this problem?",
+      "color": "3fc7c0",
+      "abbreviation": "M",
+      "order": 5,
+      "group": 2,
+      "value_type": "SINGLE"
+    }
+  },
+  {
+    "model": "grid.category",
+    "pk": 30,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.608",
+      "updated_at": "2019-05-16T11:47:15.265",
+      "name": "Business Model",
+      "requirements_title": "How much evidence do you have that your business model will work?",
+      "color": "f462a2",
+      "abbreviation": "BM",
+      "order": 6,
+      "group": 2,
+      "value_type": "SINGLE"
+    }
+  },
+  {
+    "model": "grid.category",
+    "pk": 31,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.612",
+      "updated_at": "2019-05-16T11:47:15.266",
+      "name": "Scale",
+      "requirements_title": "What scale are you operating at?",
+      "color": "a86ff5",
+      "abbreviation": "S",
+      "order": 7,
+      "group": 2,
+      "value_type": "SINGLE"
+    }
+  },
+  {
+    "model": "grid.category",
+    "pk": 32,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.616",
+      "updated_at": "2019-05-16T11:47:15.268",
+      "name": "Investor Exit",
+      "requirements_title": "Finally, how much evidence do you have that you can provide liquidity to your investors?",
+      "color": "526def",
+      "abbreviation": "E",
+      "order": 8,
+      "group": 2,
+      "value_type": "SINGLE"
+    }
+  }
+]

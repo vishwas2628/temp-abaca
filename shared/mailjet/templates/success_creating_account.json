@@ -1,0 +1,14 @@
+{
+  "subject": "Welcome to Abaca!",
+  "content": {
+    "title": "Welcome,",
+    "thanks": "Thanks for joining <b>Abaca</b>!",
+    "message": "We’re happy to have you on board!",
+    "tip": "You can now log in to review your venture investment readiness and track your progress.",
+    "signature": "Best regards,<br> <i>The Abaca Team</i>"
+  },
+  "button": {
+    "text": "Log In",
+    "link": "https://my.abaca.app/auth/login"
+  }
+}

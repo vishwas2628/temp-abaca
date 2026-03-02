@@ -1,0 +1,1226 @@
+[
+  {
+    "model": "grid.categorylevel",
+    "pk": 75,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.621",
+      "updated_at": "2019-07-25T08:01:30.141",
+      "achievements": "We have 2+ co-founders with differentiated skills sets.",
+      "description": "The team has 2+ co-founders with differentiated skills sets.",
+      "requirements": "* Complete: An online lending company with an experienced credit analyst and a senior software developer.\r\n\r\n* Incomplete: An online lending company with two credit analysts, one is more outgoing and will be good at sales, the other is better at strategic thinking.",
+      "next_milestones_title": "<p>We have 2+ co-founders with differentiated skills sets.</p>",
+      "next_milestones_description": "<p>* Complete: An online lending company with an experienced credit analyst and a senior software developer.</p>\n\n<p>* Incomplete: An online lending company with two credit analysts, one is more outgoing and will be good at sales, the other is better at strategic thinking.</p>",
+      "achieved_milestones_title": "<p>We have 2+ co-founders with differentiated skills sets.</p>",
+      "achieved_milestones_description": "<p>* Complete: An online lending company with an experienced credit analyst and a senior software developer.</p>\n\n<p>* Incomplete: An online lending company with two credit analysts, one is more outgoing and will be good at sales, the other is better at strategic thinking.</p>",
+      "category": 25,
+      "level": 28
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 76,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.624",
+      "updated_at": "2018-09-26T08:53:22.974",
+      "achievements": "Our team has personally experienced the problem.",
+      "description": "The team has personally experienced the problem or has a deep understanding of it.",
+      "requirements": "For a company developing a new irrigation system this could be:\r\n\r\n* I was a farmer for 5 years and saw the need for a better irrigation system\r\n* I sold irrigation systems to farmers for 10 years and heard repeatedly that farmers wanted a better system.",
+      "next_milestones_title": "<b>Grow</b> the team or <b>experience</b> the problem.",
+      "next_milestones_description": "<p>In order to build a successful company, it is critical to understand your customers&#39; problem. The best way to achieve this is to have suffered the problem yourself or been very close to those who do. Teams without this experience should either hire a team member who has experienced this problem or should deeply embed themselves with their potential customers for some time to build a deep understanding of the problem.</p>\n\n<p><strong>What investors may ask:&nbsp;</strong>How are you going to gain a deep understanding of your customer&#39;s problem on your team?&nbsp;</p>",
+      "achieved_milestones_title": "The team <b>deeply understands</b> the problem",
+      "achieved_milestones_description": "<p><strong>Entrepreneurs can explain:&nbsp;</strong>Our senior team has lived experience (and/or a deep understanding) of the problem. For example, our founder&nbsp;<u>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</u>&nbsp;(illustrate how the founder has lived through this problem or has gained a deep understanding).<br />\n<br />\n<strong>Investors may ask:</strong>&nbsp;Tell me about a time when you experienced this problem and how it affected you.</p>",
+      "category": 25,
+      "level": 29
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 77,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.626",
+      "updated_at": "2019-07-25T08:02:18.520",
+      "achievements": "Our team can build the product & understand the value chain.",
+      "description": "The team can build the product and understands the value chain.",
+      "requirements": "- We understand the cost structures in our industry\r\n* Software: Our team can literally build the product without outsourcing design or development.\r\n* Hardware: Our team can prototype, design, and develop the product and secure a manufacturing partner if necessary.",
+      "next_milestones_title": "<b>Acquire skills</b> & learn the <b>value chain</b>",
+      "next_milestones_description": "<p>At this stage, the team needs to be capable of building the base product and must understand the value chain. Teams can either hire or build these skills and knowledge. It is certainly possible for teams to learn the value chain, however, it is difficult to rapidly gain the skills to build a product or offer a service. Subsequently, it is&nbsp;advisable to hire a team member with experience who can make the product.</p>\n\n<p><strong>Investors may ask:&nbsp;</strong>What skills are you looking to add to your team? Who are you considering for this role? Have they committed to join your team if you raise funds to pay them?</p>",
+      "achieved_milestones_title": "Ready to build the product & understands the value chain.",
+      "achieved_milestones_description": "<p><strong>Entrepreneurs can explain:</strong> Our team has the technical ability to build a fully functional product, including&nbsp;<u> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</u> (describe relevant experience and&nbsp;track record). We have a clear understanding of the value chain and cost structures in our industry. It works as follows&nbsp;<u>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</u>&nbsp;.</p>\n\n<p><strong>Investors may ask:&nbsp;</strong>Who on your team has built a product like this before? Explain the value chain to me, where do you fit in?</p>\n\n<p>&nbsp;</p>",
+      "category": 25,
+      "level": 30
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 78,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.629",
+      "updated_at": "2018-09-25T14:25:36.917",
+      "achievements": "We understand how our market operates & have strong industry contacts.",
+      "description": "Team has a clear understanding of how their target market operates and has strong industry contacts.",
+      "requirements": "- Both cofounders have worked as executives in our industry for 5+ years.\r\n- We can name and have personal connections with, 5 or more key distributors and marketers.",
+      "next_milestones_title": "<b>Expand the team</b> and/or <b>build industry contacts.</b>",
+      "next_milestones_description": "The team needs both industry experience and industry contacts to succeed. This can be addressed through expanding the executive team and deliberate networking.",
+      "achieved_milestones_title": "Team has strong and relevant experience and industry contacts.",
+      "achieved_milestones_description": "<b>What to say:</b> \"Our target market is ____, and the key drivers for gaining share are ____.\n    We have strong relationships with (name industry contacts).\"\n</br>\n</br>\n\n<b>Investors may ask:</b> \"Do you think your ambitions are large enough to build a valuable company for investors?  \nDoes your ability to execute match those ambitions? \"",
+      "category": 25,
+      "level": 31
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 79,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.632",
+      "updated_at": "2018-09-25T14:19:00.272",
+      "achievements": "We have a clear strategy and understanding of sales.",
+      "description": "Team has clear strategy and understanding of sales and operations.",
+      "requirements": "- We can communicate our sales and operational strategy succinctly and effectively.\r\n- We can point to other businesses successfully using similar strategies in our industry.",
+      "next_milestones_title": "Hire a <b>sales lead</b> and develop a <b>clear strategy</b>",
+      "next_milestones_description": "<p>The team needs to have at least one member with a strong understanding of sales who can formulate a clear strategy. Often times this will be the CEO of a startup, and that&#39;s fine. A CEO can serve as the lead for sales but must have a clear and detailed sales strategy to explain to investors.</p>\n\n<p><strong>Investors may ask:&nbsp;</strong>What is your go-to-market strategy? How much time and money do you expect it to cost you to acquire each customer now and when you&#39;re at scale?</p>",
+      "achieved_milestones_title": "Understands sales and has built a clear strategy",
+      "achieved_milestones_description": "<p><strong>Entrepreneurs can explain:</strong> Our team has tested and refined our sales strategy, which is&nbsp;<u>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</u> (highlights of strategy). A few key lessons we&#39;ve learned are ____. The next experiments we are running are&nbsp;<u>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</u>&nbsp;.</p>\n\n<p><strong>Investors may ask:&nbsp;</strong>Who is leading sales? How are you measuring sales performance? Are you hitting your sales goals? Who is responsible for customer success?</p>",
+      "category": 25,
+      "level": 32
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 80,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.634",
+      "updated_at": "2018-09-25T14:29:32.867",
+      "achievements": "Our management, product, & sales teams are ready for growth.",
+      "description": "Team has proven sales, product development, and management skills to support a growing team for scale.",
+      "requirements": "At least one of our team members has:\r\n- Successfully sold to our target customer before\r\n- Successfully managed a product before\r\n- Successfully managed a large team before",
+      "next_milestones_title": "Management, product, & sales teams need to prepare for growth.",
+      "next_milestones_description": "<p>As a company moves beyond early adopters it needs to be ready to scale quickly into the broader market. The team in place at this stage cannot simply be capable of managing the current volume of sales and scale of the organization. Team members must be prepared to shepherd&nbsp;the company through explosive growth and operate with anywhere from 100 to 1,000 times more customers in the near future.</p>\n\n<p><strong>Investors may ask:&nbsp;</strong>Who on your team has worked in a fast-growing or large organization before? How are you preparing your departments to scale from&nbsp;single individuals or small teams to much larger and more complex operations?&nbsp;</p>",
+      "achieved_milestones_title": "Management, product, & sales teams are ready for growth.",
+      "achieved_milestones_description": "<p><strong>Entrepreneurs can explain:&nbsp;</strong>Our team has proven sales, product development skills, and the management ability to support a growing team for scale. Our team has done&nbsp;<u>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</u>&nbsp;before and can do it again. Similarly, our experience with&nbsp;<u>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</u>&nbsp;positions us well to deliver the product at scale and train an effective sales team.</p>\n\n<p><strong>Investors may ask:&nbsp;</strong>Who is your next hire and why? What does the next one year of growth look like for your team?</p>",
+      "category": 25,
+      "level": 33
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 81,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.637",
+      "updated_at": "2018-09-25T14:33:38.477",
+      "achievements": "We have an executive team that can lead the company through growth.",
+      "description": "The executive team is capable of leading the company through the growth and exit phases.",
+      "requirements": "- Our executive team is capable of leading the company through the coming growth and exit phases.\r\n- Our executive team is committed to staying with the company at least until a liquidity event.",
+      "next_milestones_title": "Develop an executive team for growth",
+      "next_milestones_description": "<p>As the company prepares to scale it needs to have an executive team in place that can stay with the company through tumultuous growth and ultimately navigate an exit for investors that want liquidity. There are many ways to prepare for this phase including hiring experienced team members, attending CEO training, building meaningful relationships with mentors who&#39;ve been through similar challenges, and more.</p>\n\n<p><strong>What investors may ask</strong><strong>:</strong>&nbsp;How is your CEO going to manage the twin pressures of an exponentially growing company and&nbsp;strong investor demands to secure an attractive exit for them?</p>",
+      "achieved_milestones_title": "Executive team is <b>prepared for growth</b>.",
+      "achieved_milestones_description": "<p><strong>Entrepreneurs can explain: </strong>Our leadership team is executing effectively as evidenced by&nbsp;<u>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</u>&nbsp; . We are confident they&nbsp;can&nbsp;lead the company through its growth and exit phases because <u>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</u>&nbsp;.</p>\n\n<p><strong>Investors may ask: </strong>What risks does the company face as it scales&nbsp;and how is your team prepared to mitigate them?</p>",
+      "category": 25,
+      "level": 34
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 82,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.640",
+      "updated_at": "2018-09-25T14:40:13.179",
+      "achievements": "Our team is recognized as market leaders in the industry.",
+      "description": "Team is recognized as market leaders in the industry.",
+      "requirements": "- Our team has received offers to join rival firms or other industry leaders.\r\n- Industry publications, or other online media, have recognized members of our team as thought leaders in the industry.",
+      "next_milestones_title": "Team must <b>earn recognition</b> as industry leaders.",
+      "next_milestones_description": "<p>Building an innovative and fast-growing company is no easy task. Leaders of these companies often have something special that has helped them to reach this point. Nevertheless, sometimes the team is a mix of extraordinary individuals and holdovers from a time when the company didn&#39;t have the resources to hire the best. At this stage, as the company prepares for meteoric new heights it is time to take another look at the executive team. Are they among the best in the industry? Who might we need to replace?</p>\n\n<p><strong>Investors may ask:&nbsp;</strong>I&#39;m concerned about your&nbsp;<u>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</u>&nbsp;(role), I&#39;m not convinced they can manage their position as the company scales dramatically. I think you need someone more like&nbsp;<u>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</u>&nbsp;. Look at what they&#39;re doing at&nbsp;<u>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</u>&nbsp;(company), they&#39;re killing it. Are you considering anyone new for this role?&nbsp;</p>\n\n<p>&nbsp;</p>",
+      "achieved_milestones_title": "Team is recognized as <b>industry leaders</b>.",
+      "achieved_milestones_description": "<p><strong>Entrepreneurs can explain:&nbsp;</strong>Our executive team is the best in the industry. You can see praise for our CEO in the New Yor Times&nbsp;and for our Head of Product in Inc. magazine. We&#39;ve built this company from the ground up and we&#39;re showing that we can manage it at scale. Of course, there&#39;s been some growing pains, but our revenue has grown by&nbsp;<u>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</u>&nbsp;, our customer acquisition cost is down to&nbsp;<u>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</u>&nbsp;, and we supply some of the largest companies in the world like&nbsp;<u>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;,</u>&nbsp;<u>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ,</u>&nbsp;and&nbsp;<u>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</u>&nbsp;.</p>\n\n<p><strong>Investors may ask:&nbsp;</strong>Phenomenal, your incredible team has really grown this business. What are you thinking about an exit? Who is managing this process and how are they prepared to navigate long, complex negotiations on topics like acquisitions, IPOs, share buybacks, etc?</p>",
+      "category": 25,
+      "level": 35
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 83,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.643",
+      "updated_at": "2019-07-25T07:58:50.143",
+      "achievements": "Our team is prepared to navigate a merger, acquisition, or IPO.",
+      "description": "The team is prepared to navigate a merger, acquisition, or IPO.",
+      "requirements": "Any of the following are true:\r\n- One or more of our team members has managed a successful merger, acquisition, or IPO before.",
+      "next_milestones_title": "Team has successfully managed an <b>investor exit</b>",
+      "next_milestones_description": "<p>The team has managed to thread the needle and deliver a good outcome for early investors.&nbsp;</p>",
+      "achieved_milestones_title": "Team is prepared to navigate and deliver an investor exit.",
+      "achieved_milestones_description": "<p>Any of the following are true:<br />\n- One or more of our team members has managed a successful merger, acquisition, or IPO before.</p>",
+      "category": 25,
+      "level": 36
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 84,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.656",
+      "updated_at": "2018-09-25T15:09:35.426",
+      "achievements": "We\u2019ve identified a specific, important, and large problem.",
+      "description": "Team has identified a specific, important, and large problem.",
+      "requirements": "- We can clearly articulate the problem we're solving in 30 seconds or less.\r\n- This problem has a big impact on our customers' lives.\r\n- A large number of people experience this problem.",
+      "next_milestones_title": "Identify a specific, large, and important problem.",
+      "next_milestones_description": "<p>While it&#39;s certainly possible (and fairly common) to build a successful company around problems that don&#39;t affect millions of people or aren&#39;t of critical importance to the customer, these businesses are typically not a good fit for venture capital. At such an early stage of the business, investors can only judge the opportunity based on the team, the problem they&#39;re solving, and the market. If the problem is vague, doesn&#39;t affect many people, or is a minor problem for potential customers, then it&#39;s hard to imagine a billion dollar business being built around it. Having a vague idea of the problem generally also leads to a solution that is not quite a good fit and fails to deliver substantial value to customers.</p>\n\n<p><strong>Investors may ask:</strong>&nbsp;How are you going to test and refine your ideas to identify&nbsp;<strong>one</strong>&nbsp;specific, large, and important problem? How are you going to validate the problem is very important to people and not just a minor irritant? How will you show that there&#39;s a large number&nbsp;of people with this problem?</p>",
+      "achieved_milestones_title": "Identified a <b>specific</b>, <b>important</b> and <b>large</b> problem.",
+      "achieved_milestones_description": "<p><strong>Entrepreneurs can explain:&nbsp;</strong>We&#39;ve identified a huge problem that affects&nbsp;<u>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</u>&nbsp;(number) people. Each one of them deals with this every day and it costs them&nbsp;<u>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</u>&nbsp;(time/money/effort/stress). We interviewed 200 people who match our ideal customer and 127 said this was their largest problem.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Investors may ask:&nbsp;</strong>How did you conduct this survey? Did you use leading questions? Have you conducted online research to see if there is any data about the scope of this problem?&nbsp;</p>",
+      "category": 26,
+      "level": 28
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 85,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.658",
+      "updated_at": "2018-09-27T09:08:05.492",
+      "achievements": "We have a vision for how to solve the problem and can execute on it.",
+      "description": "The team has a vision for how to solve the problem and can execute on it.",
+      "requirements": "- Our team is well positioned to execute on our vision and solve this problem.\r\n- We can articulate how the lives of our customers will be different if we successfully scale this company.",
+      "next_milestones_title": "Establish a vision for how to solve the problem.",
+      "next_milestones_description": "<p>At an early stage, entrepreneurs need to not only understand the problem but have formulated a vision for how to solve the problem. It is likely, and expected, that this vision will adapt as the team learns more through experimentation. Nevertheless, it is important for the founders to possess a strong idea for how to address the problem and to begin testing it.</p>\n\n<p><strong>Investors may ask:&nbsp;</strong>It seems you&#39;ve identified an enormous problem. How are you going to try to solve it? What&#39;s your main idea?</p>",
+      "achieved_milestones_title": "Defined vision for solving the problem.",
+      "achieved_milestones_description": "<p><strong>Entrepreneurs can explain:&nbsp;</strong>We believe we can solve this problem by doing&nbsp;<u>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</u>&nbsp;. Our team is well positioned to execute on this vision because&nbsp;<u>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</u>&nbsp;.<br />\n<br />\n<strong>Investors may ask:&nbsp;</strong>Why do you think this solution will work better than others? How is your team going to execute and deliver on this solution?</p>",
+      "category": 26,
+      "level": 29
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 86,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.661",
+      "updated_at": "2018-09-27T09:10:49.156",
+      "achievements": "We can articulate why our vision offers a superior value proposition.",
+      "description": "Can articulate why their vision offers a superior value proposition to competitors.",
+      "requirements": "- We not only have a strong vision but we can also explain how it delivers a superior value proposition to customers than the vision of our competitors.\r\n- We know not only where are competitors are now, but where they envision themselves going.",
+      "next_milestones_title": "Articulate why the vision offers a superior value proposition.",
+      "next_milestones_description": "<p>It&#39;s important for the team to not only have a strong vision but also be able to explain how it delivers a superior value proposition to customers than the vision of&nbsp;competitors. Since all early-stage companies only represent a small fraction of their founders&#39; visions, it&#39;s also useful to understand the long term vision of competing early-stage companies.</p>\n\n<p><strong>Investors may ask:&nbsp;</strong>How are you better than&nbsp;<u>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</u>&nbsp;and&nbsp;<u>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</u>&nbsp;who have also pitched us? What makes your solution unique? Why do you think customers will choose you over the competition?</p>",
+      "achieved_milestones_title": "Can articulate a superior value proposition.",
+      "achieved_milestones_description": "<p><b>Entrepreneurs can explain:&nbsp;</b>Our vision offers a superior value proposition to customers. While our competitors only strive to offer&nbsp;<u>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</u>&nbsp;, our solution delivers more, we offer&nbsp;<u>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</u>&nbsp;. Customers will choose us because&nbsp;<u>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</u>&nbsp;.</p>\n\n<p><strong>Investors may ask:&nbsp;</strong>Why aren&#39;t your competitors pursuing this approach? I understand they don&#39;t offer&nbsp;<u>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</u>&nbsp;today, but do you expect them to offer it in the near future? What&#39;s to stop incumbents from quickly offering this same solution?&nbsp;</p>",
+      "category": 26,
+      "level": 30
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 87,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.664",
+      "updated_at": "2019-07-25T07:59:39.670",
+      "achievements": "We can explain how this solution will transform the industry.",
+      "description": "The company can articulate system-level change and how this solution would transform the industry.",
+      "requirements": "- Our solution will dramatically alter how, when, or where our customers spend their time, effort, or money.\r\n\r\n- Our solution will transform the industry and force competitors and alternatives to adapt or react.",
+      "next_milestones_title": "Their ability to solve the <b>problem</b>.",
+      "next_milestones_description": "<p>- Our solution will dramatically alter how, when, or where our customers spend their time, effort, or money.</p>\n\n<p>- Our solution will transform the industry and force competitors and alternatives to adapt or react.</p>",
+      "achieved_milestones_title": "<p>We can explain how this solution will transform the industry.</p>",
+      "achieved_milestones_description": "<p>- Our solution will dramatically alter how, when, or where our customers spend their time, effort, or money.</p>\n\n<p>- Our solution will transform the industry and force competitors and alternatives to adapt or react.</p>",
+      "category": 26,
+      "level": 31
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 88,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.667",
+      "updated_at": "2018-10-01T13:16:19.724",
+      "achievements": "We have evidence that we're solving our customers' problem.",
+      "description": "The company has evidence that their product/service is solving their customers' problem.",
+      "requirements": "We have evidence that we are solving the problem for our customers such as:\r\n- Customers are spending 50% less money than they did before.\r\n- Customers are saving 3 hours per week of their time.",
+      "next_milestones_title": "Produce evidence that the customers' problem is being solved.",
+      "next_milestones_description": "<p>By this stage, it should be possible to gather evidence that the product is solving the customers&#39; problem. If the problems costs customers time, money, stress, etc. then you can measure how the product is affecting these metrics. Good evidence looks like &quot;<em>a study of 25 of our largest clients showed that their front-line technicians are each saving on average 4 hours per week by adopting our solution.</em>&quot;&nbsp;</p>\n\n<p><strong>What investors may ask:&nbsp;</strong>How has your solution affected your customers? What data do you have to back this up? Would your customers agree that their problem has been meaningfully &quot;solved&quot;?</p>",
+      "achieved_milestones_title": "Evidence shows the customers' problem is being solved",
+      "achieved_milestones_description": "<p><strong>Entrepreneurs can explain:&nbsp;</strong>We know we are solving our customers&#39; problem because our studies show we are saving them&nbsp;<u>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</u>&nbsp;(time/money/effort) and users report a satisfaction level of&nbsp;<u>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</u>&nbsp;.&nbsp;</p>\n\n<p><strong>Investors may ask:&nbsp;</strong>How do these improvements for your customers compare to your projections or marketing materials? Are customers seeing as much of an impact as you expected? How do these benefits compare to the adoption and switching costs borne by your customers when they choose to use your product?</p>",
+      "category": 26,
+      "level": 32
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 89,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.670",
+      "updated_at": "2018-09-27T09:18:07.929",
+      "achievements": "Our vision is being realized with early adopters and gaining ground.",
+      "description": "Vision is being realized with early adopters and gaining ground with additional customers.",
+      "requirements": "- We're attaining our vision. Early customers are seeing the benefits we imagined. Now it's time to prove it works beyond our initial target customers.",
+      "next_milestones_title": "Demonstrate that early adopters are experiencing promised benefits.",
+      "next_milestones_description": "<p>&nbsp;</p>\n\n<p>Entrepreneurs need to show that customers are experiencing the benefits promised by their product. If for instance, the product is an app to better manage store inventory and save employees time, the entrepreneur needs to show not only that customers are using the app but also that it is saving employees time.</p>\n\n<p><strong>Investors may ask:&nbsp;</strong>How do I know your product is actually working for your customers? What benefits have your early adopters experienced? To what degree are their result representative of what you expect to see in the larger market beyond early adopters?</p>",
+      "achieved_milestones_title": "Early adopters are seeing promised benefits.",
+      "achieved_milestones_description": "<p><strong>Entrepreneurs can explain:&nbsp;</strong>Not only are our customers already using our product weekly&nbsp;but they&#39;re also&nbsp;saving on average $400 per month in utility bills.</p>\n\n<p><strong>Investors may ask:</strong> How have you arrived at this number? How large is your sample size? To what degree are your customers aware of the savings you&#39;re generating?</p>",
+      "category": 26,
+      "level": 33
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 90,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.672",
+      "updated_at": "2018-09-27T09:21:46.143",
+      "achievements": "Our vision is proving attainable in a major market.",
+      "description": "Vision is proving attainable in a major market.",
+      "requirements": "- We are solidly past early adopters. We've fulfilled our vision with a moderate group of customers that represent a truly mass market.",
+      "next_milestones_title": "<p>Prove the <strong>vision is attainable</strong> in a major market.</p>",
+      "next_milestones_description": "<p>To hit product-market fit a company needs to show that their vision can be achieved with customers that represent their core long term market. This means delivering on the promised benefits to the customer. The customer should feel like their problem is being solved. The founders should feel that&nbsp;they&#39;ve delivered on their vision to this early group of customers.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Investors may ask:&nbsp;</strong>As a founder, what metrics will tell you your vision is being realized with your customers? What obstacles do you face in achieving those metrics? How close are you to delivering the benefits you&#39;ve promised your customers? Are they saving as much time/money/effort/stress as you hoped they would?</p>",
+      "achieved_milestones_title": "<p>The vision is proving <strong>attainable</strong> in a major market.</p>",
+      "achieved_milestones_description": "<p><strong>Entrepreneurs can explain:&nbsp;</strong>When we started this business we thought we could build a device that farmers would use every day and it would save them 5 hours of work a week. We&#39;re proud to say that in our first major market farmers are using the tool on average 3.9&nbsp;days per week and it&#39;s saving them on average 4.2 hours of work a week. This is among all customers and usage is trending upward. With those who&#39;ve had the device for more than 180 days, we&#39;re already hitting our targets.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Investors may ask:&nbsp;</strong>Are your 180+ days customers reflective of the market or are they still your early adopters? What does retention look like? Are you losing customers who use the device less and thus driving up the long term averages?</p>",
+      "category": 26,
+      "level": 34
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 91,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.675",
+      "updated_at": "2018-09-27T09:24:19.181",
+      "achievements": "We\u2019re beginning to have systems-level change in solving our problem.",
+      "description": "Beginning to have systems-level change in solving our problem.",
+      "requirements": "- We've hit a scale where our solution is starting to eliminate the problem in our industry.",
+      "next_milestones_title": "<p>Begin creating <strong>systems-level change</strong>.</p>",
+      "next_milestones_description": "<p>Companies which are scaling truly innovative solutions to big important problems will begin to have systems-level change. Impacting the broader industry is a sure sign that the problem is very important to solve and that the solution is excellent.</p>\n\n<p><strong>Investors may ask: </strong>What impacts do you think your solution will have on the industry? How will you know when you&#39;re having systems-level impact?</p>",
+      "achieved_milestones_title": "<p>Creating <strong>systems-level</strong> change.</p>",
+      "achieved_milestones_description": "<p><b>Entrepreneurs can explain:&nbsp;</b>Our solution is making Fortune 500s rethink the way they handle procurement from small businesses. Whereas before, it was uneconomical to purchase from small businesses most of the time, now these mega-corporations are looking to&nbsp;find more ways to fit small businesses into their supply chain beyond just our product.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Investors may ask:&nbsp;</strong>What impacts do you already see occurring in the industry beyond your immediate customers and beneficiaries? How might you capture more of the value you&#39;re creating by launching additional products and services?</p>",
+      "category": 26,
+      "level": 35
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 92,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.678",
+      "updated_at": "2019-07-25T08:00:21.568",
+      "achievements": "We\u2019re a global leader in solving this problem.",
+      "description": "Global leader in solving this problem.",
+      "requirements": "- Continuing rapid growth in demand for our solution validates that this problem is large, important, and that our vision for addressing it resonates with our customers and the industry.",
+      "next_milestones_title": "<p>Become a <strong>global leader</strong> in solving the problem.</p>",
+      "next_milestones_description": "<p>Firms looking to get acquired, IPO, or otherwise provide their investors with a great exit must aim to be among the world&#39;s leading solutions to their problem.</p>\n\n<p><strong>Investors may ask:&nbsp;</strong>You&#39;re doing very well, there&#39;s no doubt about that. There&#39;s also a lot of competition in your space. How are you going to become a global leader? This industry looks like it might be winner take tall, so you need to come out on top.</p>",
+      "achieved_milestones_title": "<p>We&rsquo;re a global leader in solving this problem.</p>",
+      "achieved_milestones_description": "<p>- Continuing rapid growth in demand for our solution validates that this problem is large, important, and that our vision for addressing it resonates with our customers and the industry.</p>",
+      "category": 26,
+      "level": 36
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 93,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.682",
+      "updated_at": "2018-09-26T13:37:55.622",
+      "achievements": "We have a hypothesis for how we will solve this problem.",
+      "description": "Has formulated a hypothesis for how they will solve this problem.",
+      "requirements": "- We can articulate our value proposition to customers\r\n- We have not yet gathered evidence from potential customers that demonstrates that our solution will be valuable to them.",
+      "next_milestones_title": "Formulate a hypothesis to solve the problem.",
+      "next_milestones_description": "<p>Once an entrepreneur has identified a specific, large, and important problem to solve, the natural next step is to formulate a hypothesis for how to solve the problem.&nbsp;</p>\n\n<p><strong>Investors may ask:&nbsp;</strong>This is an interesting problem to tackle, what&#39;s your initial guess for how it can be solved, and how will you test that hypothesis?&nbsp;</p>",
+      "achieved_milestones_title": "Has formulated a <b>hypothesis</b> for how to <b>solve the problem</b>.",
+      "achieved_milestones_description": "<p><strong>Entrepreneurs can explain:&nbsp;</strong>Our founding team has been thinking about this problem for some time. Based on our experience, we think the best approach to a solution is&nbsp;<u>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</u>&nbsp;. Given your support, we will interview 25 small businesses to validate that our approach could be a viable solution.</p>\n\n<p><strong>Investors may ask:&nbsp;</strong>Tell me about other approaches you considered and why this one is better. Is anyone else already doing this? If not, why not? What seems hard about this approach?</p>",
+      "category": 27,
+      "level": 28
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 94,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.685",
+      "updated_at": "2018-09-25T15:32:08.448",
+      "achievements": "Potential customers validate that our solution will solve a key point.",
+      "description": "Initial evidence supports that their value proposition is valuable to potential customers.",
+      "requirements": "- Structured conversations, surveys, or other data from potential customers demonstrates that our proposed solution could solve their problem.\r\n\r\n- The data provides initial evidence that the solution solves a **key** pain point. It is a **painkiller**, not a **vitamin**.",
+      "next_milestones_title": "Validate that <b>customers</b> think the solution will solve a <b>key pain point</b>",
+      "next_milestones_description": "<p>Every great founder has a powerful vision, but that&#39;s not enough, it&#39;s critical to validate that real potential customers believe the proposed solution will solve a <u>key pain point</u> they have. It&#39;s vital that the product solves a major problem for the customer and not a minor annoyance.&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Investors may ask:</strong>&nbsp;This product sounds great, but how&nbsp;are you going to show that real customers think this would work well for them and solves an&nbsp;important pain point? How many customers do you plan to talk to and who are they? Do they represent the profile of early adopters or mass market customers?</p>",
+      "achieved_milestones_title": "<p>Customers validate that the solution will solve a <strong>key pain point</strong>.</p>",
+      "achieved_milestones_description": "<p><strong>Entrepreneurs can explain:&nbsp;</strong>We&#39;ve interviewed 30 potential customers about our solution, 19 reported that our solution was a viable solution to their problem. Additionally, 23 told us it was an important problem for them.</p>\n\n<p><strong>Investors may ask:&nbsp;</strong>How did you conduct these interviews? I don&#39;t think 30 is enough, I&#39;d like to see you do 50+ interviews, and start asking them about the monetary value of the problem.</p>",
+      "category": 27,
+      "level": 29
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 95,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.687",
+      "updated_at": "2019-07-25T08:00:52.357",
+      "achievements": "We have evidence that customers will pay our target price.",
+      "description": "Evidence shows that customers will pay the target price.",
+      "requirements": "Either sales or rigorous testing demonstrates that customers will pay our target price.\r\n\r\n- B2C: 100+ customers or potential customers\r\n- B2B: 5+ customers or potential customers with multiple internal stakeholders in each",
+      "next_milestones_title": "Demonstrate that customers will pay the target price.",
+      "next_milestones_description": "You will need to experiment on your pricing and gather evidence that customers will pay your target price. \n\nWhile the best evidence is sales, evidence can also include data from well executed experiments. \n\nYou can learn about pricing strategies and experiments here: <a href=\"https://fi.co/insight/how-to-find-test-the-best-price-for-your-product\">Link</a>",
+      "achieved_milestones_title": "<p>We have evidence that customers will pay our target price.</p>",
+      "achieved_milestones_description": "<p>Either sales or rigorous testing demonstrates that customers will pay our target price.</p>\n\n<p>- B2C: 100+ customers or potential customers<br />\n- B2B: 5+ customers or potential customers with multiple internal stakeholders in each</p>",
+      "category": 27,
+      "level": 30
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 96,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.690",
+      "updated_at": "2018-09-26T15:34:38.890",
+      "achievements": "Customer feedback shows that our solution is better than others.",
+      "description": "Customer feedback provides evidence of differentiation and that their solution is significantly better than competitors.",
+      "requirements": "Survey data, or other evidence, from actual customers shows that our solution is *dramatically* better than competitors.\r\n\r\nExamples of *dramatically* better results for your solution include:\r\n- 80% cost savings over your competitors\r\n- 25 hours saved per user per month",
+      "next_milestones_title": "<p>Earn feedback that shows the solution is better than competitors</p>",
+      "next_milestones_description": "<p>Getting feedback that customers like the product is great. However, customers could like a number of available solutions.&nbsp;Getting feedback that customers like the product much&nbsp;<strong>more</strong>&nbsp;than alternative options is much better.&nbsp;</p>\n\n<p><strong>Investors may ask:&nbsp;</strong>Ok, so 6/10 customers said that your product was useful in solving the problem. How does this compare to your competitors? Would 8/10 say that theirs is useful?</p>",
+      "achieved_milestones_title": "<p>Customer feedback shows that the&nbsp;solution is better than others.</p>",
+      "achieved_milestones_description": "<p><strong>Entrepreneurs can explain:&nbsp;</strong>We ran two experiments, in the first we asked users to blind test both our product and that of a competitor, 80%&nbsp;preferred our solution. In the second we showed our solution to existing customers of a competitor, 60% said ours was a compelling alternative and 20% immediately agreed to switch.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Investors may ask:&nbsp;</strong>Have you tried comparing yourself to&nbsp;<u>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;?</u>&nbsp;It seems to me they&#39;re a better analog and stronger competition. The existing market for this is also very small, how do people&nbsp;who&#39;ve never used a tool like this rate your offering?</p>",
+      "category": 27,
+      "level": 31
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 97,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.693",
+      "updated_at": "2020-02-28T12:33:13.081",
+      "achievements": "Our initial target customers love the product and keep using it.",
+      "description": "Initial target customers love the product and want to keep using it.",
+      "requirements": "- Our customer satisfaction or Net Promoter Score is very positive and meets or exceeds industry benchmarks\r\n- Our customer retention is high and improving.",
+      "next_milestones_title": "<p>Initial target customers love the product and keep using it.</p>",
+      "next_milestones_description": "<p>User acquisition is an enormous challenge and getting some initial target customers to use the product is commendable. Once that is accomplished the team must work on retention to prove real long-term value. Entrepreneurs at this step should focus on working with initial customers to ensure that the product is useful to them. When possible, this includes iterating on the product to give the customer an ever better experience&nbsp;</p>",
+      "achieved_milestones_title": "<p>Initial target customers love the product and keep using it.</p>",
+      "achieved_milestones_description": "<p>User acquisition is an enormous challenge and getting some initial target customers to use the product is commendable. Once that is accomplished the team must work on retention to prove real long-term value. Entrepreneurs at this step should focus on working with initial customers to ensure that the product is useful to them. When possible, this includes iterating on the product to give the customer an ever better experience&nbsp;</p>",
+      "category": 27,
+      "level": 32
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 98,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.696",
+      "updated_at": "2018-09-26T13:38:36.514",
+      "achievements": "We\u2019re selling beyond our initial target customers.",
+      "description": "The company is selling beyond their initial target customers.",
+      "requirements": "- We're reaching new customers that are substantively different in demographics or use case from our initial target customers.\r\n- Our customers love the product and are referring others.",
+      "next_milestones_title": "<p>Need to <strong>sell</strong>&nbsp;beyond <strong>initial target customers</strong></p>",
+      "next_milestones_description": "<p>Initial target customers&nbsp;(or &quot;early adopters&quot;) are generally the easiest to attract to the product, are more tolerant of an unrefined experience, and have somewhat different needs than the majority of the market. Acquiring and satisfying customers beyond early adopters who represent the demographics and use cases of the main target market is an enormous step. Demonstrating success with these customers is critical to long term success.&nbsp;</p>\n\n<p><strong>Investors may ask:&nbsp;</strong>How do you expect the behavior of late adopters to differ from early adopters? How do their needs differ? Will you need to change your features? Your marketing?</p>",
+      "achieved_milestones_title": "<p>Selling beyond initial target customers</p>",
+      "achieved_milestones_description": "<p><strong>Entrepreneurs can explain:&nbsp;</strong>We&#39;ve begun selling beyond our initial target customers (early adopters). We initially launched our product with IT administrators because the problem is most acute for them, and they are the most accustomed to an unpolished user experience. Now we&#39;ve expanded and are targeting sales and marketing teams who expect a near consumer-grade user experience. We&#39;re proud to say the product has reached a level of polish where these less technically savvy users are delighted by their experience.</p>\n\n<p><strong>Investors may ask:&nbsp;</strong>How do engagement and retention differ for this new user group? What other costly features do you still need to develop to satisfy these customers? Are these users representative of your main market opportunity?</p>",
+      "category": 27,
+      "level": 33
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 99,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.698",
+      "updated_at": "2018-09-25T16:37:58.345",
+      "achievements": "The majority of our sales in our initial market are inbound.",
+      "description": "The majority of sales in their initial target market are inbound.",
+      "requirements": "- Our value proposition in our initial target market is so strong that customers find us on their own.\r\n- We're still working to reach the same level of value proposition validation in markets beyond our initial target market.",
+      "next_milestones_title": "<p>Grow <strong>inbound</strong> sales</p>",
+      "next_milestones_description": "<p>Successful companies typically lower their customer acquisition costs by increasing their inbound sales. A value proposition that truly resonates with customers is also easier to sell. It requires less marketing. Growing inbound sales are a sign that the value proposition is strong.</p>\n\n<p><strong>Investors may ask:&nbsp;</strong>How difficult is it to sell this thing? Tell me what the conversion process is like for inbound sales. What is the ratio of inbound to outbound sales?</p>",
+      "achieved_milestones_title": "<p>Strong <strong>inbound sales</strong></p>",
+      "achieved_milestones_description": "<p><strong>Entrepreneurs can explain:&nbsp;</strong>When we started, we did a lot of cold calling and no one had ever heard of us. It took us a number of calls and a lot of time to build trust and convince a customer to buy from us. Now, our name is out there and we&#39;re an increasingly respected brand in the space. When people are searching for a solution they find our website, talk with a salesperson via chat, and quickly make a purchase decision. In our initial market, we&#39;re now getting 85% of our sales from inbound traffic.</p>\n\n<p><strong>Investors may ask:&nbsp;</strong>Has your average contract value changed? Are inbound customers worth more or less? How does their renewal rate compare with earlier clients that had a higher-touch relationship with your team?&nbsp;</p>",
+      "category": 27,
+      "level": 34
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 100,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.701",
+      "updated_at": "2018-09-25T16:32:03.944",
+      "achievements": "Customers are renewing or repurchasing without much sales effort.",
+      "description": "Customers are renewing or repurchasing without much sales efforts.",
+      "requirements": "- We're seeing this kind of great renewals or repurchases in multiple markets.\r\n- Our customer satisfaction, net promoter score, etc. is exceeding the industry average in multiple markets.",
+      "next_milestones_title": "<p>Improve <strong>retention</strong> and <strong>renewals</strong></p>",
+      "next_milestones_description": "<p>Making the sale is sometimes the easiest part. What can be really challenging is satisfying the customer over the long run. Nevertheless, it is critical because it is much cheaper to sell to an existing customer than it is to acquire a new one. High retention and renewal, or repurchase, rates reflect a very strong value proposition. The customer is happy with the product and wants to keep using it.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Investors may ask:&nbsp;</strong>It sounds like you&#39;re having some difficulty securing renewals. Do you think this is more related to satisfaction with the product, or your sales process? Why? What are you planning to do to improve these rates?</p>",
+      "achieved_milestones_title": "<p>Customers are renewing or repurchasing without much sales effort.</p>",
+      "achieved_milestones_description": "<p><strong>Entrepreneurs can explain:&nbsp;</strong>One year ago we decided our annual renewal rates were not where we wanted them to be. We studied user behavior and discovered that while customers were very happy with the product during their first 6 months, by the second half of the year their satisfaction was dropping. We realized that advanced users were running out of content on our e-learning app. So we tripled our content library and it&#39;s still growing. Retention for advanced users is now up 30% and we&#39;ve raised prices for this segment by 25%.&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Investors may ask:&nbsp;</strong>What is your overall annual renewal rate at now? how has this changed over time? Which is your most valuable segment on a per customer basis and what is their renewal rate? What is your strategy and process for encouraging renewals?</p>",
+      "category": 27,
+      "level": 35
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 101,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.704",
+      "updated_at": "2020-02-28T12:36:17.459",
+      "achievements": "We\u2019re recognized as the top solution to this problem.",
+      "description": "They're recognized as the top solution to this problem.",
+      "requirements": "- Public media and industry experts frequently cite us as one of the best in the industry.\r\n- Our market share is excellent, or growing rapidly.",
+      "next_milestones_title": "<p>Become recognized as a <strong>top solution</strong></p>",
+      "next_milestones_description": "<p>Every entrepreneur thinks their solution is the best solution. A truly market leading company, however, will have plenty of other people saying it's the best. This includes articles and features in major publications and respected industry journals, appearances on \"Top 10\" lists, etc. Even a tweet can be evidence, for instance, if Satya Nadella tweets \"Microsoft is thrilled to work with X, the leading solution for Y.\"</p>\r\n<p><strong>Investors may ask:&nbsp;</strong>Show us some third-party coverage of your company? What are industry experts saying about you? Who are the leading voices in your space and what have they said about you?</p>",
+      "achieved_milestones_title": "<p>Recognized as <strong>top solution</strong></p>",
+      "achieved_milestones_description": "<p><strong>Entrepreneurs can explain:&nbsp;</strong>We're considered best in class. Inc. Magazine ran a feature on our company which described us as \"the most exciting solution in a decade\". Forbes and Business Week listed us as&nbsp;the number 1 and 2 best options respectively. Our market share has grown from 2% to 20% over the last two years and we're rapidly eating away at the incumbents.</p>\r\n<p>&nbsp;</p>\r\n<p><strong>Investors may ask:</strong>&nbsp;What are incumbents doing to catch up and protect their market share? How does the rest of the market differ from the customers you've already captured? What innovations are your competitors bringing to the table, incumbents or startups.</p>",
+      "category": 27,
+      "level": 36
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 102,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.708",
+      "updated_at": "2018-09-26T13:51:11.867",
+      "achievements": "We have the ability to develop a low-fi prototype.",
+      "description": "The team has the ability to develop a low-fi prototype.",
+      "requirements": "- We don't have any sort of prototype yet.\r\n- We have the product and technical skills required to develop a low-fidelity prototype of our product.\r\n- There are no patent or regulatory obstacles blocking us from building this product.",
+      "next_milestones_title": "<p>Gain the <strong>ability to develop</strong> a low-fi prototype.</p>",
+      "next_milestones_description": "<p>A low-fidelity prototype is an important tool. It comes even before a real proof of concept which demonstrates if the idea is feasible. A low-fidelity prototype helps an entrepreneur gauge desirability and design a proof of concept (high-fidelity prototype). Entrepreneurs must get feedback, especially at this early stage, from customers to make sure they&#39;re on the right direction.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Investors may ask:&nbsp;</strong>What skills are you lacking to build a low-fidelity prototype? How will your team acquire these skills?&nbsp;</p>",
+      "achieved_milestones_title": "<p>Team has the <strong>ability to develop</strong> a low-fi prototype.</p>",
+      "achieved_milestones_description": "<p><strong>Entrepreneurs can explain:&nbsp;</strong>We&#39;re planning to build our first prototype out of wood. It will be fairly simple&nbsp;and I do carpentry as a hobby. If things go well, we&#39;ll bring on someone to help us with 3D printing for the next prototypes.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Investors may ask:&nbsp;</strong>Will you be able to iterate and test a few versions in wood? How long will it take to make a single prototype?</p>",
+      "category": 28,
+      "level": 28
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 103,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.711",
+      "updated_at": "2018-09-26T13:51:46.711",
+      "achievements": "We\u2019ve built a low-fidelity prototype.",
+      "description": "The team has built a low-fidelity prototype.",
+      "requirements": "- We have a prototype that is a rough approximation of what our product will work like. \r\n- Our prototype is not yet fully functional and does not have a market-ready design.",
+      "next_milestones_title": "<p>Build a&nbsp;<strong>low-fidelity</strong> prototype.</p>",
+      "next_milestones_description": "<p>A <strong>rough prototype</strong> is crucial for testing&nbsp;ideas with customers and for communicating with investors. A low-fidelity prototype presents one of the&nbsp;first great opportunities to gather feedback and learn if you&#39;re on the right track.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Investors may ask:&nbsp;</strong>What will you be looking to learn from your first prototype? What are the riskiest assumptions you&#39;re making that you could learn about with this prototype?</p>\n\n<p>&nbsp;</p>",
+      "achieved_milestones_title": "<p><strong>Low-fidelity</strong> prototype built</p>",
+      "achieved_milestones_description": "<p><strong>Entrepreneurs can explain:&nbsp;</strong>We used a 3D printer to produce a model of our product. It&#39;s an inoperable hunk of plastic, but even though we&#39;re making a high tech device, the ergonomics are the most important element. We asked some sample users to pretend to use the prototype as they would a real device. We got useful feedback and have a few new ideas to test.</p>\n\n<p><strong>Investors may ask:&nbsp;</strong>What did you learn from this prototype? What are you testing next?&nbsp;</p>",
+      "category": 28,
+      "level": 29
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 104,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.714",
+      "updated_at": "2018-09-26T13:49:41.484",
+      "achievements": "We\u2019ve built a working prototype and have a product roadmap.",
+      "description": "The team has built a working prototype and have a product roadmap.",
+      "requirements": "- Our prototype is fully functional. It may be ugly and only contain core features, but it solves the heart of the problem.\r\n\r\n- We have a firm idea of where we want to take the product next. We've made a rough roadmap for testing our ideas and seeing if we should build them into features.",
+      "next_milestones_title": "<p>Build a <strong>MVP</strong></p>",
+      "next_milestones_description": "<p>&nbsp;An MVP (minimum viable product)&nbsp;is the first version of the product that satisfies enough customer needs that you can take it to market and begin to sell it. In order to validate the value proposition entrepreneurs will need to gain some initial sales. This will require a MVP.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Investors may ask:&nbsp;</strong>What features will be included in your MVP? How have you decided on this feature set? What obstacles do you face in building your MVP?</p>",
+      "achieved_milestones_title": "<p>Have built an <strong>MVP.</strong></p>",
+      "achieved_milestones_description": "<p><strong>Entrepreneurs can explain:&nbsp;</strong>When testing our prototype we worked with users to identify a core set of features that would need to exist in the MVP. Over the last 4 months, we&#39;ve worked to add these to our product. We&#39;re ready to begin selling this product with some initial customers.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Investors may ask:&nbsp;</strong>Tell me about your customer feedback during the prototyping phase, how did you arrive at this feature set? What surprised you? What&#39;s next on your roadmap?&nbsp;</p>",
+      "category": 28,
+      "level": 30
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 105,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.716",
+      "updated_at": "2018-10-01T15:16:25.185",
+      "achievements": "Our team understands product management and associated costs.",
+      "description": "The team possesses an understanding of product management and can manage costs.",
+      "requirements": "- We understand how much it costs to develop a product like this.\r\n- We know how to manage the product development process and keep our product development costs down.",
+      "next_milestones_title": "<p>Gain an <strong>understanding</strong> of product management and associated costs</p>",
+      "next_milestones_description": "<p>Effective productive management abilities are among&nbsp;the most vital skills a team needs to succeed. Product management skills keep teams focused on solutions customers actually want and on budget. Teams that don&#39;t have these skills either need to hire for them, or invest a lot of time in learning them.<br />\nRecommend reading:&nbsp;<a href=\"https://www.amazon.com/dp/1119387507/ref=cm_sw_em_r_mt_dp_U_B02lDbTTQ5QFD\">INSPIRED: How to Create Tech Products Customers Love</a>, Recommended course: <a href=\"https://generalassemb.ly/education/product-management\">Product Management</a> at General Assembly</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Investors may ask:&nbsp;</strong>Who on your team is going to lead product development and what experience do they have? How are you going to build the product management skills on your team?</p>",
+      "achieved_milestones_title": "<p>The team <strong>understands</strong> product management and associated costs.</p>",
+      "achieved_milestones_description": "<p><strong>Example evidence:</strong> As the founder of the company I have a strong product vision but had never managed a product before. I decided to spend a week and go to a product management bootcamp. I&#39;ve also spoken to some other product managers in the industry for advice and to begin exploring who I might bring on as the company grows. I feel confident that I understand the resources required and can lead the product through the next round of funding.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Investors may ask:&nbsp;</strong>What level of technical expertise will be needed to prepare this product for broad commercial distribution? Do you need a CTO? If so who are you considering?</p>",
+      "category": 28,
+      "level": 31
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 106,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.719",
+      "updated_at": "2018-09-26T14:57:20.078",
+      "achievements": "Our product is almost ready for broad commercial distribution.",
+      "description": "The product is almost ready for broad commercial distribution.",
+      "requirements": "- Our product is beyond the prototype phase. We're actively testing it in a live environment with a group of paying customers.\r\n- We are confident we have the resources to launch our product for wide commercial distribution.",
+      "next_milestones_title": "<p>Get the product&nbsp;ready for <strong>broad commercial distribution</strong>.</p>",
+      "next_milestones_description": "<p>As a company proves it has a profitable business model and is preparing to move beyond early adopters, it&#39;s important the product has a higher level of polish and completion. The broader market tends to be much less forgiving of product aesthetics, bugs, and general user experience than early adopters.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Investors may ask:&nbsp;</strong>How would you describe the aesthetic quality of your product? Have you tested the product with mass-market users? How do they rate the quality of the experience? How close are you to providing a product they would buy and use?</p>",
+      "achieved_milestones_title": "<p>Product is&nbsp;<strong>almost</strong>&nbsp;ready for broad commercial distribution</p>",
+      "achieved_milestones_description": "<p><strong>Example evidence:&nbsp;</strong>We&#39;ve worked with customers to identify what we&#39;re missing before we&#39;d be ready for broad commercial distribution. We found six issues and expect to have addressed all of them within three months.&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Investors may ask:&nbsp;</strong>Tell me about these issues, which is the most challenging and how are you tackling it?&nbsp;</p>",
+      "category": 28,
+      "level": 32
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 107,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.722",
+      "updated_at": "2018-09-26T15:06:12.199",
+      "achievements": "Our core product is complete, in the market, and gathering feedback.",
+      "description": "The core product is complete, in the market, and gathering feedback.",
+      "requirements": "- Our product is sufficiently robust to deliver on our core value proposition.\r\n- We have instituted strong customer feedback loops.\r\n- We are using customer feedback to make data driven decisions to prioritize customer needs on our product roadmap.",
+      "next_milestones_title": "<p><strong>Complete the core product</strong> and gather market feedback.</p>",
+      "next_milestones_description": "<p>Although a product is never truly done and there will always be more work to do, in order to move beyond early adopters companies need a robust product with no serious feature gaps or deficiencies. Additionally, the company must have established strong feedback loops that enable the team to make data-driven decisions based on user needs.</p>\n\n<p><strong>Investors may ask:&nbsp;</strong>How are you learning from your customers and how are you implementing changes based on feedback?</p>",
+      "achieved_milestones_title": "<p>The&nbsp;<strong>core product</strong> is complete, in the market, and gathering feedback.</p>",
+      "achieved_milestones_description": "<p><strong>Example evidence:&nbsp;</strong>We had four main feature sets we wanted to complete before taking our product beyond early adopters.&nbsp;We&nbsp;completed all of them so we launched in the broader market six weeks ago. We&#39;ve established feedback loops so our product, design, and development teams are all seeing user feedback and using it to inform their decisions and prioritize changes.</p>\n\n<p>&nbsp;</p>\n\n<p><b>Investors may ask:</b>&nbsp;What has been the reception to these new feature sets?&nbsp;What have you learned so far and what will you be working on next? How does the behavior of new users compare to that of early adopters?</p>",
+      "category": 28,
+      "level": 33
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 108,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.725",
+      "updated_at": "2018-09-26T15:13:47.417",
+      "achievements": "Our product is built for scale & new offerings are in progress.",
+      "description": "The product is built for scale & new offerings are in progress.",
+      "requirements": "- If demand for our product were to grow exponentially over the next 6 months, we would be able to meet it.\r\n- We are testing new ideas for substantial extensions to the product, or for a new product entirely.",
+      "next_milestones_title": "<p>Build the product for&nbsp;<strong>scale</strong>&nbsp;and begin work on&nbsp;<strong>new offerings</strong></p>",
+      "next_milestones_description": "<p>The product and any necessary supply chains must be prepared to scale to grow exponentially in a short time span. Companies should also be working new ideas for substantial extensions to the product or for a new product entirely.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Investors may ask:&nbsp;</strong>What are the primary constraints and challenges to growth for your product and how have you mitigated them? What new ideas is your team working on and why do you think they are the next step?</p>",
+      "achieved_milestones_title": "<p>The&nbsp;product is <strong>built for scale</strong> &amp; <strong>new offerings</strong> are in progress.</p>",
+      "achieved_milestones_description": "<p><strong>Example evidence:&nbsp;</strong>We ran stress tests on our software product and found that it can handle 100 times as much traffic with no additional resources and 10,000 times as much traffic if we spend only ten times as much on cloud computing. Our hardware component manufacturer is&nbsp;a major company in China, with which we have an agreed to produce up to 100,000 units a month on demand. As for offerings, our product team is actively prototyping three new ideas and selecting one to pursue.</p>\n\n<p>&nbsp;</p>\n\n<p><b>Investors may ask:&nbsp;</b>What would be the lag time if you suddenly needed to manufacture 100,000 units a month? Have you worked out shipping and distribution parters that could handle that scale? What&#39;s the most likely part of your process to break down as you scale rapidly and what are you doing to mitigate those risks?</p>",
+      "category": 28,
+      "level": 34
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 109,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.728",
+      "updated_at": "2018-10-01T09:52:47.611",
+      "achievements": "Our product is successfully handling dramatic growth.",
+      "description": "The product is successfully handling dramatic growth.",
+      "requirements": "- We are able to respond to an influx of customer feedback and support requests from our growing customer base.\r\n- Software: Our product is operating smoothly through a period of exponential or dramatic growth.\r\n- Hardware: Our manufacturing capacity is keeping pace with rapid growth.",
+      "next_milestones_title": "<p>Achieve and&nbsp;successfully manage<strong> dramatic growth</strong>.</p>",
+      "next_milestones_description": "<p>It&#39;s one thing to achieve dramatic growth, it&#39;s another to do so without the product crashing under the weight of so many customers. This is a critical phase where the company is still getting introduced to a wide array of customers. These &quot;early majority&quot; customers are less tolerant of product problems than early adopters. Performance problems at this stage seriously risks customer satisfaction and can result in losing customers permanently as many may not give the company a second chance.</p>\n\n<p><strong>Investors may ask:&nbsp;</strong>Ok so your internal tests showed your product could handle the stress. Now that you&#39;re beginning to see more customers, how is performance holding up?</p>",
+      "achieved_milestones_title": "<p>The product is successfully handling&nbsp;<strong>dramatic growth.</strong></p>",
+      "achieved_milestones_description": "<p><strong>Entrepreneurs can explain:&nbsp;</strong></p>",
+      "category": 28,
+      "level": 35
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 110,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.731",
+      "updated_at": "2018-09-26T15:31:50.414",
+      "achievements": "Our product is recognized as the top in the industry.",
+      "description": "The product is recognized as the top in the industry.",
+      "requirements": "- Online reviews, the media, and industry experts routinely cite us as a leader in the industry.\r\n- Our product is considered to have world class functionality, design, value, or some combination thereof.",
+      "next_milestones_title": "<p>Gain&nbsp;<strong>recognition</strong>&nbsp;as a top product in the industry.</p>",
+      "next_milestones_description": "<p>Exit potential greatly increases when the product&nbsp;is considered the best in the industry. The chances of an acquisition grow, as does the plausibility of an IPO.</p>\n\n<p><strong>Investors may ask:</strong>&nbsp;You need to either work on making your product the best or gain recognition for it being the best. Which are you going to do and how?</p>",
+      "achieved_milestones_title": "<p>The product is <strong>recognized</strong> as the top in the industry.</p>",
+      "achieved_milestones_description": "<p><strong>Entrepreneurs can explain:&nbsp;</strong>Reviews on Engadget, Wirecutter, and Digital Trends list us in the top 3 products in our category against a field for 20+ competitors. We&#39;ve risen several places each year and think we can clinch a number one spot next year. We have two killer features coming out that every company is racing to release, and we think we&#39;re two years ahead in development. This should cement our position as a leader.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Investors may ask:&nbsp;</strong>How do you know that your product development is ahead of the competition? What reasons did these reviews give for ranking the competition higher than you this year? How are you addressing those gaps?</p>",
+      "category": 28,
+      "level": 36
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 111,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.735",
+      "updated_at": "2018-10-01T09:49:28.117",
+      "achievements": "We know our total addressable market size and target market share.",
+      "description": "The team knows their total addressable market size and target market share.",
+      "requirements": "Our market size and target market share has evidence to support it such as:\r\n\r\n- This is a $1.3B market as evidenced by the sum of our top 10 competitor's annual revenues.\r\n- We believe we can achieve at least 3% market share in 5 years, as X startup has reached 1% in only 1 year.",
+      "next_milestones_title": "<p>Identify your&nbsp;<strong>total addressable market</strong>&nbsp;and&nbsp;<strong>target market share</strong>.</p>",
+      "next_milestones_description": "<p>The first steps in identifying if a market is investable are defining the market&nbsp;and calculating the size of that market. To define the total addressable market, entrepreneurs look at all of the possible customers of the product, then they calculate the total amount of money these customers spend on this problem. Once a market is identified and calculated an entrepreneur can look at the competitive landscape to calculate a reasonable target market share taking into account factors such as the advantages of incumbents and the number of competitors.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Investors may ask:&nbsp;</strong>At a high level, what kinds of customer do you expect to be included in your total addressable market? Do you have a rough sense of how much this problem costs them?</p>",
+      "achieved_milestones_title": "<p><strong>Entrepreneurs can explain:&nbsp;</strong>Our total addressable market is $2.8B USD and growing. We&#39;re focusing on the pet boarding industry where ~10,000,000 pet parents in the US are currently hosing their pets for an average of 10 days per year at an average of $28/night. We aim to serve 10,000 pet parents in the first year,&nbsp;100,000 by the third year, and 500,000 by the fifth year for a target market share of 5%. Although we plan to underprice the competition, this would still translate to over $100M a year in revenues.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Investors may ask: </strong>Where did you get your data on the number of pet parents using boarding providers? How did you calculate the average cost of boarding? Tell me about these market share numbers. What kind of marketing are you going to have to do to hit them?&nbsp;</p>",
+      "achieved_milestones_description": "(what the agent might like at this level)",
+      "category": 29,
+      "level": 28
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 112,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.738",
+      "updated_at": "2018-09-26T16:01:51.307",
+      "achievements": "We understand applicable regulations & have a strategy for compliance.",
+      "description": "The team understands the applicable regulations & has a strategy for compliance.",
+      "requirements": "- We have engaged legal counsel or done extensive research to verify that we understand all regulations that will apply to our business.\r\n- We have a legally feasible and financially viable strategy for consistent compliance.",
+      "next_milestones_title": "<p>Plan for <strong>regulatory compliance</strong>.</p>",
+      "next_milestones_description": "<p>Many of the greatest business opportunities today are in heavily regulated industries. It&#39;s critical for entrepreneurs to understand these regulations and stay on the right side of them from the beginning. Entrepreneurs must conduct research into the regulations in their industry or engage legal counsel to identify any possible issues.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Investors may ask:&nbsp;</strong>Your idea has strong business potential, but I&#39;m not sure it&#39;s legal under the current frameworks. Have you consulted an attorney to see if this is permitted? If it is, I suspect you need to register under and seek approval from the national government. Are you familiar with that process and have you started?</p>",
+      "achieved_milestones_title": "<p>Have a robust strategy for <strong>regulatory compliance</strong>.</p>",
+      "achieved_milestones_description": "<p><strong>Entrepreneurs can explain:&nbsp;</strong>We rapidly learned that there is regulation on this form of financial service, however, it&#39;s fairly light. Within one year of beginning operations, we are required to register with the central authority. Provided our users are not exchanging money via our product we have no further obligation to get certified as a financial institution. Nevertheless, we feel this is a feature we may wish to add within the next two to three years, so we are beginning this process because it takes on average 18 months to secure approval.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Investors may ask:&nbsp;</strong>What are the obstacles to getting approved as a financial institution? How does such approval play into your long term monetization strategy? Would failing to get approval have a big impact on your future revenues?&nbsp;</p>",
+      "category": 29,
+      "level": 29
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 113,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.741",
+      "updated_at": "2018-10-01T15:19:05.073",
+      "achievements": "Initial sales provide evidence that we can capture our target market.",
+      "description": "Initial sales provide evidence of ability to capture the target market.",
+      "requirements": "- When we spend money on marketing, or time on sales, we can win customers",
+      "next_milestones_title": "<p>Earn sales in <strong>target market</strong>.</p>",
+      "next_milestones_description": "<p>Early sales are great, and it&#39;s not uncommon to stray outside the target market to earn early revenue. These sales, however, do not provide evidence that the company can sell to the target market. Companies must demonstrate that they can sell into the market that they are pitching as investable to their investors.</p>\n\n<p><b>Investors may ask:&nbsp;</b>You&#39;ve told us that the target market for your fitness app is older Americans who are underserved by other offerings. However, your early sales have all been to millennials in your city. This is a crowded and highly competitive market at the national level, but we&#39;re interested in what you&#39;re saying about those who are 50 and older. How are you going to gain some initial sales in this target market?</p>",
+      "achieved_milestones_title": "<p>Initial evidence of sales in <strong>target market</strong>.</p>",
+      "achieved_milestones_description": "<p><b>Entrepreneurs can explain:&nbsp;</b>Our target market is regional grocery stores. They stand to gain the most from our product which lets them manage home deliveries. In the first year, we managed to sell to a number of small corner stores in dense urban areas like Manhattan. In our second year, we&#39;ve signed contracts with two regional grocers that each has over 20&nbsp;stores. We feel poised to close another three&nbsp;similar deals before the year is done.&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Investors may ask:&nbsp;</strong>Describe the sales process to me, how much work did it take to secure these initial contracts? Are these paying customers or free or discounted pilot programs?</p>",
+      "category": 29,
+      "level": 30
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 114,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.744",
+      "updated_at": "2018-10-01T09:50:21.947",
+      "achievements": "We have evidence that our total addressable market is over $1B.",
+      "description": "Evidence of $1B+ total addressable market.",
+      "requirements": "- We can point to public data such as the revenue of publicly traded competitors or reputable research proving our stated total addressable market (TAM) size.\r\n\r\nNote: A growing number of investors will be interested in markets around the $100 million threshold, however a large majority cite a $1 billion market as their threshold.",
+      "next_milestones_title": "Evidence of $1B+ total addressable <b>market</b>.",
+      "next_milestones_description": "<p>For traditional venture capital&nbsp;investors,&nbsp;most portfolio companies fail and only a handful of the most successful survivors must deliver the returns of the entire fund. This leads traditional VCs to only consider companies with the possibility&nbsp;to become a&nbsp;breakout success that can carry much of the fund.&nbsp;Therefore, even businesses with a high chance of success but a modest total opportunity size are considered uninteresting and unviable investments. As a result, investors are looking for opportunities with large total addressable markets, most often in the $1 billion USD or more range. Outside the US, or in smaller markets, this number may be smaller and entrepreneurs must work with investors to understand and meet their thresholds.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Investors may ask:&nbsp;</strong>You&#39;ve identified a real problem and your product seems fantastic. The issue is there don&#39;t seem to be many businesses who have this problem. Is there some broader market in which your product could be useful? How might you expand the scope for this solution?&nbsp;</p>",
+      "achieved_milestones_title": "<p>Evidence of a <strong>large</strong> total addressable market.</p>",
+      "achieved_milestones_description": "<p><strong>Entrepreneurs can explain:&nbsp;</strong>We admit that initially, we were thinking too narrowly about our solution for electric university shuttle buses. We had been playing with the numbers and could never identify a total addressable market over $50 million. As a result, we pivoted to expand our focus and are now focused on all electric buses. We&#39;re less of a niche product now and our total addressable markets is $1.5 billion. We&#39;re highly confident in this new market size as we averaged estimates of the industry size from Forbes, The New York Times, and Bloomberg.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Investors may ask:&nbsp;</strong>How will your company need to change in order to go after this larger market? How well does your product fit this market? Is this market growing?</p>",
+      "category": 29,
+      "level": 31
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 115,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.747",
+      "updated_at": "2018-09-26T19:52:08.622",
+      "achievements": "Large partners are talking with us about distribution, marketing, etc.",
+      "description": "Large partners are discussing distribution, marketing, etc.",
+      "requirements": "- We are in serious conversations with large potential strategic partners who can help us capture our target market faster and cheaper.\r\n\r\n- If we secure the partners we're talking with it will be a game changer. We will have a direct path to a substantial increase in market share.",
+      "next_milestones_title": "<p>Engage in <strong>serious conversations</strong> with large potential strategic partners.</p>",
+      "next_milestones_description": "<p>Strategic partnerships with large and powerful organizations can dramatically improve a startup&#39;s distribution, marketing, credibility, etc. Investors at this level want to see some evidence of serious conversations taking place with major potential partners.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Investors may ask:&nbsp;</strong>Who&nbsp;are you talking to and why would a partnership with them be extremely valuable to your business?&nbsp;What makes you think this conversation is serious and could potentially reach a deal? Who is your point of contact and are they a decision-maker? What does the decision-making process look like for them?</p>",
+      "achieved_milestones_title": "<p>Are engaged in<strong> serious conversations </strong>with large potential strategic partners.</p>",
+      "achieved_milestones_description": "<p><strong>Entrepreneurs can explain:&nbsp;</strong>We are discussing placement of our vegan beef jerky in Whole Foods and Safeway grocery stores. We think both are serious conversations but we&#39;re particularly excited about Whole Foods. Our point of contact is the Regional Retail Buyer for Whole Foods in the Northeast and we&#39;ve met with her and her team three times. We know it&#39;s serious because another company in our accelerator program passed through their procurement process and told us that they always make a final decision after the fourth&nbsp;meeting. This would be our largest distributor to date and would place us in 25 stores frequented by our key market of affluent, health-conscious young adults.&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Investors may ask:&nbsp;</strong>Have you talked metrics with them? Are you meeting the sales numbers they need to see in order justify including you in the store? Have they talked about doing any sort of promotions with you?&nbsp;</p>",
+      "category": 29,
+      "level": 32
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 116,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.750",
+      "updated_at": "2018-09-26T19:56:52.945",
+      "achievements": "Our suppliers & distributors see meaningful benefits from our success.",
+      "description": "Suppliers & distributors see meaningful benefits from supporting the company.",
+      "requirements": "- Our partners' interests are aligned with our own. They want us to succeed.",
+      "next_milestones_title": "<p>Generate meaningful benefits for suppliers and distributors.</p>",
+      "next_milestones_description": "<p>Among the best ways to guarantee&nbsp;a product has good distribution and a solid supply chain is to ensure that these relationships deliver meaningfully large benefits to&nbsp;partners. Such partners can often either superpower or destroy a business so it is wise to negotiate fair deals where they are happy and have aligned interests.&nbsp;</p>\n\n<p><strong>Investors may ask:&nbsp;</strong>What&#39;s in it for your distributors to work with you? Does your product provide them with decent margins? Does it fit relatively effortlessly into their existing systems? Regarding your suppliers, are you a major customer of theirs or on a trajectory to be one? What strategic value does your company bring to your partners?</p>",
+      "achieved_milestones_title": "<p>Supplier and distributors are seeing meaningful benefits.</p>",
+      "achieved_milestones_description": "<p><strong>Entrepreneurs can explain:&nbsp;</strong>We have developed very symbiotic relationships with our suppliers and distributors. For our suppliers, they&#39;ve saturated their market and our product offers them expansion into an entirely new industry. They are very excited by this new line of business and are lending us substantial working capital to buy inventory from them. On the other side, our distributors tell us it&#39;s a great addition for them as our product can take advantage of otherwise unused capacity.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Investors may ask:&nbsp;</strong>Are your sales at a level where your partners feel it has a meaningful impact on their business? If you were to suggest ending the relationship would they care? How lucrative is it for your partners to see your sales grow?</p>",
+      "category": 29,
+      "level": 33
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 117,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.753",
+      "updated_at": "2018-09-26T19:59:39.682",
+      "achievements": "Our sales cycle meets or beats the industry standard.",
+      "description": "Sales cycle meets or beats the industry standard.",
+      "requirements": "- We have an accurate measure of our sales cycle.\r\n- We have reliable industry benchmarks for sales cycles, and we do better.",
+      "next_milestones_title": "<p>Our sales cycle meets or beats the industry standard.</p>",
+      "next_milestones_description": "<p>- We have an accurate measure of our sales cycle.<br />\n- We have reliable industry benchmarks for sales cycles, and we do better.</p>",
+      "achieved_milestones_title": "<p>Our sales cycle meets or beats the industry standard.</p>",
+      "achieved_milestones_description": "<p>- We have an accurate measure of our sales cycle.<br />\n- We have reliable industry benchmarks for sales cycles, and we do better.</p>",
+      "category": 29,
+      "level": 34
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 118,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.756",
+      "updated_at": "2018-09-26T20:03:09.709",
+      "achievements": "We have hard-to-beat partnerships for distribution, marketing, growth.",
+      "description": "Built hard-to-beat partnerships for distribution, marketing, growth.",
+      "requirements": "- Our partnerships are with some of the biggest, or most strategic, partners we could dream of. No competitor will beat us because they have much better partners.",
+      "next_milestones_title": "<p>We have hard-to-beat partnerships for distribution, marketing, growth.</p>",
+      "next_milestones_description": "<p>Our partnerships are with some of the biggest, or most strategic, partners we could dream of. No competitor will beat us because they have much better partners.</p>",
+      "achieved_milestones_title": "<p>We have hard-to-beat partnerships for distribution, marketing, growth.</p>",
+      "achieved_milestones_description": "<p>Our partnerships are with some of the biggest, or most strategic, partners we could dream of. No competitor will beat us because they have much better partners.</p>",
+      "category": 29,
+      "level": 35
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 119,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.758",
+      "updated_at": "2018-09-26T20:05:39.662",
+      "achievements": "We have a clear line of sight to industry dominance.",
+      "description": "Has a clear line of sight to industry dominance.",
+      "requirements": "- Our market share is among the largest in the industry and growing.",
+      "next_milestones_title": "<p>We have a clear line of sight to industry dominance.</p>",
+      "next_milestones_description": "<p>- Our market share is among the largest in the industry and growing.</p>",
+      "achieved_milestones_title": "<p>We have a clear line of sight to industry dominance.</p>",
+      "achieved_milestones_description": "<p>- Our market share is among the largest in the industry and growing.</p>",
+      "category": 29,
+      "level": 36
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 120,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.763",
+      "updated_at": "2018-09-26T20:09:17.745",
+      "achievements": "We have an outline of a revenue model.",
+      "description": "An outline of a revenue model is coming together.",
+      "requirements": "- We have an idea of what we're going to charge customers for and how we'll price it.\r\n- We have a rudimentary spreadsheet model showing this pricing represents a major revenue opportunity at scale.",
+      "next_milestones_title": "<p>We have an outline of a revenue model.</p>",
+      "next_milestones_description": "<p>- We have an idea of what we&#39;re going to charge customers for and how we&#39;ll price it.<br />\n- We have a rudimentary spreadsheet model showing this pricing represents a major revenue opportunity at scale.</p>",
+      "achieved_milestones_title": "<p>We have an outline of a revenue model.</p>",
+      "achieved_milestones_description": "<p>- We have an idea of what we&#39;re going to charge customers for and how we&#39;ll price it.<br />\n- We have a rudimentary spreadsheet model showing this pricing represents a major revenue opportunity at scale.</p>",
+      "category": 30,
+      "level": 28
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 121,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.766",
+      "updated_at": "2018-09-26T20:14:24.339",
+      "achievements": "Existing pricing and business models support our revenue model.",
+      "description": "Evidence from existing pricing and business models supports the revenue model.",
+      "requirements": "- We can point to similar pricing strategies and business models in our industry, or an adjacent industry, as evidence that the assumptions in our revenue model and our overall revenue projections are credible.",
+      "next_milestones_title": "<p>Existing pricing and business models support our revenue model.</p>",
+      "next_milestones_description": "<p>- We can point to similar pricing strategies and business models in our industry, or an adjacent industry, as evidence that the assumptions in our revenue model and our overall revenue projections are credible.</p>",
+      "achieved_milestones_title": "<p>Existing pricing and business models support our revenue model.</p>",
+      "achieved_milestones_description": "<p>- We can point to similar pricing strategies and business models in our industry, or an adjacent industry, as evidence that the assumptions in our revenue model and our overall revenue projections are credible.</p>",
+      "category": 30,
+      "level": 29
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 122,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.769",
+      "updated_at": "2018-09-26T20:47:48.457",
+      "achievements": "We can articulate the cost structure & unit economics in our industry.",
+      "description": "Understands the cost structure & unit economics in their industry.",
+      "requirements": "- We have evidence of what it costs to make products like ours. \r\n- We have a good sense of what cost targets we need to hit in order to reach positive unit economics.",
+      "next_milestones_title": "<p>We can articulate the cost structure &amp; unit economics in our industry.</p>",
+      "next_milestones_description": "<p>- We have evidence of what it costs to make products like ours.&nbsp;<br />\n- We have a good sense of what cost targets we need to hit in order to reach positive unit economics.</p>",
+      "achieved_milestones_title": "<p>We can articulate the cost structure &amp; unit economics in our industry.</p>",
+      "achieved_milestones_description": "<p>- We have evidence of what it costs to make products like ours.&nbsp;<br />\n- We have a good sense of what cost targets we need to hit in order to reach positive unit economics.</p>",
+      "category": 30,
+      "level": 30
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 123,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.772",
+      "updated_at": "2018-09-26T20:52:58.542",
+      "achievements": "We have projected revenues and costs and have a strategy to hit them.",
+      "description": "Has projected revenues and costs and has a strategy to hit them.",
+      "requirements": "- Our revenue and cost projections are in a financial model estimating what they will be and how they will change as the company develops and grows over the next 3-5 years.\r\n\r\n- We have a plausible strategy for attaining these goals that is backed up with examples of other companies that have succeeded with similar strategies.",
+      "next_milestones_title": "<p>We have projected revenues and costs and have a strategy to hit them.</p>",
+      "next_milestones_description": "<p>- Our revenue and cost projections are in a financial model estimating what they will be and how they will change as the company develops and grows over the next 3-5 years.</p>\n\n<p>- We have a plausible strategy for attaining these goals that is backed up with examples of other companies that have succeeded with similar strategies.</p>",
+      "achieved_milestones_title": "<p>Team can articulate <b>projected costs</b>.</p>",
+      "achieved_milestones_description": "<p>- Our revenue and cost projections are in a financial model estimating what they will be and how they will change as the company develops and grows over the next 3-5 years.</p>\n\n<p>- We have a plausible strategy for attaining these goals that is backed up with examples of other companies that have succeeded with similar strategies.</p>",
+      "category": 30,
+      "level": 31
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 124,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.775",
+      "updated_at": "2018-09-26T21:03:32.148",
+      "achievements": "Our actual revenues & costs support future positive unit economics",
+      "description": "Actual revenues & cost trends support future positive unit economics",
+      "requirements": "- Our per unit costs and/or revenues are improving and we are on track to hit positive unit economics.",
+      "next_milestones_title": "<p>Our actual revenues &amp; costs support future positive unit economics</p>",
+      "next_milestones_description": "<p>- Our per unit costs and/or revenues are improving and we are on track to hit positive unit economics.</p>",
+      "achieved_milestones_title": "<p>Our actual revenues &amp; costs support future positive unit economics</p>",
+      "achieved_milestones_description": "<p>- Our per unit costs and/or revenues are improving and we are on track to hit positive unit economics.</p>",
+      "category": 30,
+      "level": 32
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 125,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.777",
+      "updated_at": "2018-09-26T21:08:29.713",
+      "achievements": "Our customer acquisition costs are going down & pricing is going up.",
+      "description": "Customer acquisition costs are going down & pricing is going up.",
+      "requirements": "- We're becoming better at selling. We're gradually spending less on marketing or sales on a per sale basis.\r\n- More of our customers are seeing the value in our product and are now paying a price that is sustainable for us over the long-term.",
+      "next_milestones_title": "<p>Our customer acquisition costs are going down &amp; pricing is going up.</p>",
+      "next_milestones_description": "<p>- We&#39;re becoming better at selling. We&#39;re gradually spending less on marketing or sales on a per sale basis.<br />\n- More of our customers are seeing the value in our product and are now paying a price that is sustainable for us over the long-term.</p>",
+      "achieved_milestones_title": "<p>Our customer acquisition costs are going down &amp; pricing is going up.</p>",
+      "achieved_milestones_description": "<p>- We&#39;re becoming better at selling. We&#39;re gradually spending less on marketing or sales on a per sale basis.<br />\n- More of our customers are seeing the value in our product and are now paying a price that is sustainable for us over the long-term.</p>",
+      "category": 30,
+      "level": 33
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 126,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.780",
+      "updated_at": "2018-09-26T21:16:15.960",
+      "achievements": "We've validated our business model. We have strong unit economics.",
+      "description": "Business model validated with strong unit economics.",
+      "requirements": "- Our unit economics are positive and contribute to covering our fixed costs\r\n- If we can sustain our current sales growth and maintain these unit economics, we will be able to cover our fixed costs and attain profitability.",
+      "next_milestones_title": "<p>We&#39;ve validated our business model. We have strong unit economics.</p>",
+      "next_milestones_description": "<p>- Our unit economics are positive and contribute to covering our fixed costs<br />\n- If we can sustain our current sales growth and maintain these unit economics, we will be able to cover our fixed costs and attain profitability.</p>",
+      "achieved_milestones_title": "<p>We&#39;ve validated our business model. We have strong unit economics.</p>",
+      "achieved_milestones_description": "<p>- Our unit economics are positive and contribute to covering our fixed costs<br />\n- If we can sustain our current sales growth and maintain these unit economics, we will be able to cover our fixed costs and attain profitability.</p>",
+      "category": 30,
+      "level": 34
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 127,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.784",
+      "updated_at": "2018-09-26T21:22:15.918",
+      "achievements": "We're rapidly growing each month and we've got a path to profitability",
+      "description": "Month-over-month revenue growth supports future profitability",
+      "requirements": "- Our current growth rate, coupled with our strong unit economics, provides clear and compelling evidence that we can hit profitability.",
+      "next_milestones_title": "<p>We&#39;re rapidly growing each month and we&#39;ve got a path to profitability</p>",
+      "next_milestones_description": "<p>- Our current growth rate, coupled with our strong unit economics, provides clear and compelling evidence that we can hit profitability.</p>",
+      "achieved_milestones_title": "<p>We&#39;re rapidly growing each month and we&#39;ve got a path to profitability</p>",
+      "achieved_milestones_description": "<p>- Our current growth rate, coupled with our strong unit economics, provides clear and compelling evidence that we can hit profitability.</p>",
+      "category": 30,
+      "level": 35
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 128,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.786",
+      "updated_at": "2018-09-26T21:30:45.226",
+      "achievements": "Our revenue has met or exceeded investors' targets for multiple years.",
+      "description": "Revenue has met or exceeded investors' targets for multiple years.",
+      "requirements": "- We've satisfied our current investors with our revenue growth. We are performing as good or better than we projected we would.\r\n- We've grown revenue without a disproportionately large growth in costs.",
+      "next_milestones_title": "<p>Our revenue has met or exceeded investors&#39; targets for multiple years.</p>",
+      "next_milestones_description": "<p>- We&#39;ve satisfied our current investors with our revenue growth. We are performing as good or better than we projected we would.<br />\n- We&#39;ve grown revenue without a disproportionately large growth in costs.</p>",
+      "achieved_milestones_title": "<p>Our revenue has met or exceeded investors&#39; targets for multiple years.</p>",
+      "achieved_milestones_description": "<p>- We&#39;ve satisfied our current investors with our revenue growth. We are performing as good or better than we projected we would.<br />\n- We&#39;ve grown revenue without a disproportionately large growth in costs.</p>",
+      "category": 30,
+      "level": 36
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 129,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.790",
+      "updated_at": "2018-09-27T06:50:55.767",
+      "achievements": "We\u2019ve identified multiple possible markets or customer segments.",
+      "description": "Team has identified multiple possible markets or customer segments and has aspirations to scale.",
+      "requirements": "- We aspire to scale our business to multiple markets or customer segments\r\n- We've identified a number of distinct markets or customer segments we think we can grow into beyond our initial target market.",
+      "next_milestones_title": "<p>We&rsquo;ve identified multiple possible markets or customer segments.</p>",
+      "next_milestones_description": "<p>- We aspire to scale our business to multiple markets or customer segments<br />\n- We&#39;ve identified a number of distinct markets or customer segments we think we can grow into beyond our initial target market.</p>",
+      "achieved_milestones_title": "<p>We&rsquo;ve identified multiple possible markets or customer segments.</p>",
+      "achieved_milestones_description": "<p>- We aspire to scale our business to multiple markets or customer segments<br />\n- We&#39;ve identified a number of distinct markets or customer segments we think we can grow into beyond our initial target market.</p>",
+      "category": 31,
+      "level": 28
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 130,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.793",
+      "updated_at": "2018-09-27T06:54:05.955",
+      "achievements": "We have evidence that multiple markets experience this problem.",
+      "description": "Initial evidence shows that multiple markets experience this problem.",
+      "requirements": "- We have public or internal data that shows that customers belonging to several different markets or customer segments still experience this problem.",
+      "next_milestones_title": "<p>We have evidence that multiple markets experience this problem.</p>",
+      "next_milestones_description": "<p>- We have public or internal data that shows that customers belonging to several different markets or customer segments still experience this problem.</p>",
+      "achieved_milestones_title": "<p>We have evidence that multiple markets experience this problem.</p>",
+      "achieved_milestones_description": "<p>- We have public or internal data that shows that customers belonging to several different markets or customer segments still experience this problem.</p>",
+      "category": 31,
+      "level": 29
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 131,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.797",
+      "updated_at": "2018-09-27T06:56:38.465",
+      "achievements": "We have a clear strategy to scale to multiple markets.",
+      "description": "Clear strategy to move to multiple markets.",
+      "requirements": "- We have thought through the challenges of scaling beyond our initial target market.\r\n- We have a strategy to execute the shift and succeed in our next markets.",
+      "next_milestones_title": "<p>We have a clear strategy to scale to multiple markets.</p>",
+      "next_milestones_description": "<p>- We have thought through the challenges of scaling beyond our initial target market.<br />\n- We have a strategy to execute the shift and succeed in our next markets.</p>",
+      "achieved_milestones_title": "<p>We have a clear strategy to scale to multiple markets.</p>",
+      "achieved_milestones_description": "<p>- We have thought through the challenges of scaling beyond our initial target market.<br />\n- We have a strategy to execute the shift and succeed in our next markets.</p>",
+      "category": 31,
+      "level": 30
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 132,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.800",
+      "updated_at": "2018-09-27T07:20:37.371",
+      "achievements": "Customers in multiple markets find value in our solution.",
+      "description": "Customers in multiple markets find value in the solution.",
+      "requirements": "- We have evidence from testing our product with customers that customers in multiple markets find value in our current product, or in a product extension that we are well positioned to develop.",
+      "next_milestones_title": "<p>Customers in multiple markets find value in our solution.</p>",
+      "next_milestones_description": "<p>- We have evidence from testing our product with customers that customers in multiple markets find value in our current product, or in a product extension that we are well positioned to develop.</p>",
+      "achieved_milestones_title": "<p>Customers in multiple markets find value in our solution.</p>",
+      "achieved_milestones_description": "<p>- We have evidence from testing our product with customers that customers in multiple markets find value in our current product, or in a product extension that we are well positioned to develop.</p>",
+      "category": 31,
+      "level": 31
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 133,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.803",
+      "updated_at": "2018-09-27T07:05:58.290",
+      "achievements": "Our unit economics are tipping to positive in at least two markets.",
+      "description": "Unit economics are tipping to positive in at least two markets.",
+      "requirements": "- In 2 or more markets we are very close to making more in revenue on each sale than the variable costs we incur for each sale.",
+      "next_milestones_title": "<p>Our unit economics are tipping to positive in at least two markets.</p>",
+      "next_milestones_description": "<p>- In 2 or more markets we are very close to making more in revenue on each sale than the variable costs we incur for each sale.</p>",
+      "achieved_milestones_title": "<p>Our unit economics are tipping to positive in at least two markets.</p>",
+      "achieved_milestones_description": "<p>- In 2 or more markets we are very close to making more in revenue on each sale than the variable costs we incur for each sale.</p>",
+      "category": 31,
+      "level": 32
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 134,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.806",
+      "updated_at": "2018-09-27T07:08:51.623",
+      "achievements": "We\u2019ve cleared regulatory challenges and have a clear IP strategy.",
+      "description": "Cleared regulatory challenges and has a clear IP strategy.",
+      "requirements": "- We've executed on our compliance strategy and have resolved any lingering legal issues that were a risk.\r\n- We've developed a robust strategy for protecting our intellectual property.",
+      "next_milestones_title": "<p>We&rsquo;ve cleared regulatory challenges and have a clear IP strategy.</p>",
+      "next_milestones_description": "<p>- We&#39;ve executed on our compliance strategy and have resolved any lingering legal issues that were a risk.<br />\n- We&#39;ve developed a robust strategy for protecting our intellectual property.</p>",
+      "achieved_milestones_title": "<p>We&rsquo;ve cleared regulatory challenges and have a clear IP strategy.</p>",
+      "achieved_milestones_description": "<p>- We&#39;ve executed on our compliance strategy and have resolved any lingering legal issues that were a risk.<br />\n- We&#39;ve developed a robust strategy for protecting our intellectual property.</p>",
+      "category": 31,
+      "level": 33
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 135,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.809",
+      "updated_at": "2018-10-01T09:54:52.929",
+      "achievements": "Our unit economics are positive in multiple markets.",
+      "description": "Unit economics are positive in multiple markets.",
+      "requirements": "- We may not be profitable, but on a per unit basis, we're making money. It's just not enough to cover our fixed costs yet.\r\n\r\nFor Tesla this might look like:\r\nThe price of our luxury sedan (market #1) and our entry level sedan (market #2) more than covers manufacturing, delivery, marketing & sales of each.",
+      "next_milestones_title": "<p>Our unit economics are positive in multiple markets.</p>",
+      "next_milestones_description": "<p>- We may not be profitable, but on a per unit basis, we&#39;re making money. It&#39;s just not enough to cover our fixed costs yet.</p>\n\n<p>For Tesla this might look like:<br />\nThe price of our luxury sedan (market #1) and our entry level sedan (market #2) more than covers manufacturing, delivery, marketing &amp; sales of each.</p>",
+      "achieved_milestones_title": "<p>Our unit economics are positive in multiple markets.</p>",
+      "achieved_milestones_description": "<p>- We may not be profitable, but on a per unit basis, we&#39;re making money. It&#39;s just not enough to cover our fixed costs yet.</p>\n\n<p>For Tesla this might look like:<br />\nThe price of our luxury sedan (market #1) and our entry level sedan (market #2) more than covers manufacturing, delivery, marketing &amp; sales of each.</p>",
+      "category": 31,
+      "level": 34
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 136,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.812",
+      "updated_at": "2018-09-27T07:22:21.248",
+      "achievements": "Growth in our customer base is accelerating month-on-month",
+      "description": "Growth in customer base is accelerating month-on-month",
+      "requirements": "- We are growing our number of customers faster this month than last month, and we expect this to continue.",
+      "next_milestones_title": "<p>Growth in our customer base is accelerating month-on-month</p>",
+      "next_milestones_description": "<p>- We are growing our number of customers faster this month than last month, and we expect this to continue.</p>",
+      "achieved_milestones_title": "<p>Growth in our customer base is accelerating month-on-month</p>",
+      "achieved_milestones_description": "<p>- We are growing our number of customers faster this month than last month, and we expect this to continue.</p>",
+      "category": 31,
+      "level": 35
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 137,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.819",
+      "updated_at": "2018-10-01T09:56:37.511",
+      "achievements": "Unit economics are strong for multiple markets or customer segments.",
+      "description": "Unit economics are strong for multiple markets or customer segments.",
+      "requirements": "- Not only are our unit economics positive in multiple markets, but we're also generating a healthy margin on each sale that is leading us towards profitability.\r\n- For instance: For each car we sell we generate $10,000 in gross margin, however factoring in fixed costs we're losing $3,500 for each car we make. If we grow sales by 3x, then we'll be profitable.",
+      "next_milestones_title": "<p>Unit economics are strong for multiple markets or customer segments.</p>",
+      "next_milestones_description": "<p>- Not only are our unit economics positive in multiple markets, but we&#39;re also generating a healthy margin on each sale that is leading us towards profitability.<br />\n- For instance: For each car we sell we generate $10,000 in gross margin, however factoring in fixed costs we&#39;re losing $3,500 for each car we make. If we grow sales by 3x, then we&#39;ll be profitable.</p>",
+      "achieved_milestones_title": "<p>Unit economics are strong for multiple markets or customer segments.</p>",
+      "achieved_milestones_description": "<p>- Not only are our unit economics positive in multiple markets, but we&#39;re also generating a healthy margin on each sale that is leading us towards profitability.<br />\n- For instance: For each car we sell we generate $10,000 in gross margin, however factoring in fixed costs we&#39;re losing $3,500 for each car we make. If we grow sales by 3x, then we&#39;ll be profitable.</p>",
+      "category": 31,
+      "level": 36
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 138,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.823",
+      "updated_at": "2018-09-27T08:34:07.843",
+      "achievements": "We know what an exit is and understand its importance to investors.",
+      "description": "Team knows what an exit is understands its importance to investors.",
+      "requirements": "- We know that if we take on investors one day most of them will want to sell their shares, and we will need to find buyers either through an acquisition, IPO, etc.",
+      "next_milestones_title": "<p>We know what an exit is and understand its importance to investors.</p>",
+      "next_milestones_description": "<p>- We know that if we take on investors one day most of them will want to sell their shares, and we will need to find buyers either through an acquisition, IPO, etc.</p>",
+      "achieved_milestones_title": "<p>We know what an exit is and understand its importance to investors.</p>",
+      "achieved_milestones_description": "<p>- We know that if we take on investors one day most of them will want to sell their shares, and we will need to find buyers either through an acquisition, IPO, etc.</p>",
+      "category": 32,
+      "level": 28
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 139,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.832",
+      "updated_at": "2018-09-27T08:35:09.808",
+      "achievements": "We have a vision of how to ultimately deliver liquidity to investors.",
+      "description": "Has a vision for how to ultimately deliver liquidity to investors.",
+      "requirements": "- We have an ambitious but plausible vision for how we can get acquired, IPO, buyout investors, etc.",
+      "next_milestones_title": "<p>We have a vision of how to ultimately deliver liquidity to investors.</p>",
+      "next_milestones_description": "<p>- We have an ambitious but plausible vision for how we can get acquired, IPO, buyout investors, etc.</p>",
+      "achieved_milestones_title": "<p>We have a vision of how to ultimately deliver liquidity to investors.</p>",
+      "achieved_milestones_description": "<p>- We have an ambitious but plausible vision for how we can get acquired, IPO, buyout investors, etc.</p>",
+      "category": 32,
+      "level": 29
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 140,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.837",
+      "updated_at": "2018-09-27T08:39:53.449",
+      "achievements": "Evidence suggests our value proposition is of interest to acquirers",
+      "description": "Evidence suggests the value proposition is of interest to acquirers",
+      "requirements": "- There are large companies in our industry with a history of acquiring promising startups.\r\n- We're in a new and rapidly growing industry that large corporations are experimenting in but have yet to enter forcefully.",
+      "next_milestones_title": "<p>Evidence suggests our value proposition is of interest to acquirers</p>",
+      "next_milestones_description": "<p>- There are large companies in our industry with a history of acquiring promising startups.<br />\n- We&#39;re in a new and rapidly growing industry that large corporations are experimenting in but have yet to enter forcefully.</p>",
+      "achieved_milestones_title": "<p>Evidence suggests our value proposition is of interest to acquirers</p>",
+      "achieved_milestones_description": "<p>- There are large companies in our industry with a history of acquiring promising startups.<br />\n- We&#39;re in a new and rapidly growing industry that large corporations are experimenting in but have yet to enter forcefully.</p>",
+      "category": 32,
+      "level": 30
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 141,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.840",
+      "updated_at": "2018-09-27T08:43:58.305",
+      "achievements": "Serious companies have made serious investments in our industry.",
+      "description": "Large companies have made serious investments in the industry.",
+      "requirements": "- We know that it's an investable market because large reputable companies or numerous venture capital firms are investing millions, if not billions, of dollars in it.",
+      "next_milestones_title": "<p>Serious companies have made serious investments in our industry.</p>",
+      "next_milestones_description": "<p>- We know that it&#39;s an investable market because large reputable companies or numerous venture capital firms are investing millions, if not billions, of dollars in it.</p>",
+      "achieved_milestones_title": "<p>Serious companies have made serious investments in our industry.</p>",
+      "achieved_milestones_description": "<p>- We know that it&#39;s an investable market because large reputable companies or numerous venture capital firms are investing millions, if not billions, of dollars in it.</p>",
+      "category": 32,
+      "level": 31
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 142,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.843",
+      "updated_at": "2018-09-27T08:47:44.074",
+      "achievements": "We\u2019re seeing inbound interest from large potential acquirers.",
+      "description": "Experiencing inbound interest from large potential acquirers.",
+      "requirements": "- Large companies see our traction and are reaching out to us to see if we're interested in discussing an acquisition.\r\n- We are not struggling to get meetings with potential acquirers. They are happy to begin exploring with us.",
+      "next_milestones_title": "<p>We&rsquo;re seeing inbound interest from large potential acquirers.</p>",
+      "next_milestones_description": "<p>- Large companies see our traction and are reaching out to us to see if we&#39;re interested in discussing an acquisition.<br />\n- We are not struggling to get meetings with potential acquirers. They are happy to begin exploring with us.</p>",
+      "achieved_milestones_title": "<p>We&rsquo;re seeing inbound interest from large potential acquirers.</p>",
+      "achieved_milestones_description": "<p>- Large companies see our traction and are reaching out to us to see if we&#39;re interested in discussing an acquisition.<br />\n- We are not struggling to get meetings with potential acquirers. They are happy to begin exploring with us.</p>",
+      "category": 32,
+      "level": 32
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 143,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.846",
+      "updated_at": "2018-09-27T08:50:39.672",
+      "achievements": "We\u2019ve identified specific acquirers or other exit options.",
+      "description": "Has identified specific acquirers or other exit options.",
+      "requirements": "- We have identified a handful of specific companies which could plausibly acquire us.\r\nor\r\n- We have identified and begun testing the plausibility of a non-acquisition exit strategy.",
+      "next_milestones_title": "<p>We&rsquo;ve identified specific acquirers or other exit options.</p>",
+      "next_milestones_description": "<p>- We have identified a handful of specific companies which could plausibly acquire us.<br />\nor<br />\n- We have identified and begun testing the plausibility of a non-acquisition exit strategy.</p>",
+      "achieved_milestones_title": "<p>We&rsquo;ve identified specific acquirers or other exit options.</p>",
+      "achieved_milestones_description": "<p>- We have identified a handful of specific companies which could plausibly acquire us.<br />\nor<br />\n- We have identified and begun testing the plausibility of a non-acquisition exit strategy.</p>",
+      "category": 32,
+      "level": 33
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 144,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.849",
+      "updated_at": "2018-09-27T08:53:53.692",
+      "achievements": "We have strong relationships with multiple potential acquirers.",
+      "description": "Has strong relationships with multiple potential acquirers.",
+      "requirements": "- We've held numerous conversations with each of several potential acquirers and are on very good terms with them. \r\n- We know what revenue and other goals we need to hit in order to get an offer from them.",
+      "next_milestones_title": "<p>We have strong relationships with multiple potential acquirers.</p>",
+      "next_milestones_description": "<p>- We&#39;ve held numerous conversations with each of several potential acquirers and are on very good terms with them.&nbsp;<br />\n- We know what revenue and other goals we need to hit in order to get an offer from them.</p>",
+      "achieved_milestones_title": "<p>We have strong relationships with multiple potential acquirers.</p>",
+      "achieved_milestones_description": "<p>- We&#39;ve held numerous conversations with each of several potential acquirers and are on very good terms with them.&nbsp;<br />\n- We know what revenue and other goals we need to hit in order to get an offer from them.</p>",
+      "category": 32,
+      "level": 34
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 145,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.852",
+      "updated_at": "2018-09-27T09:37:13.105",
+      "achievements": "We\u2019ve turned down an acquisition offer already.",
+      "description": "Team has turned down an acquisition offer already.",
+      "requirements": "- We've received at least one formal acquisition offer so far. It wasn't quite what we're looking for so we're holding out for other options.",
+      "next_milestones_title": "<p>We&rsquo;ve turned down an acquisition offer already.</p>",
+      "next_milestones_description": "<p>- We&#39;ve received at least one formal acquisition offer so far. It wasn&#39;t quite what we&#39;re looking for so we&#39;re holding out for other options.</p>",
+      "achieved_milestones_title": "<p>We&rsquo;ve turned down an acquisition offer already.</p>",
+      "achieved_milestones_description": "<p>- We&#39;ve received at least one formal acquisition offer so far. It wasn&#39;t quite what we&#39;re looking for so we&#39;re holding out for other options.</p>",
+      "category": 32,
+      "level": 35
+    }
+  },
+  {
+    "model": "grid.categorylevel",
+    "pk": 146,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.855",
+      "updated_at": "2018-09-27T08:58:04.287",
+      "achievements": "We're on the cusp of an exit and reaching the finish line.",
+      "description": "The team is approaching the finish line on an exit.",
+      "requirements": "- We're close to securing an acquisition or other exit. We expect to achieve it within a few months to a  year.",
+      "next_milestones_title": "<p>We&#39;re on the cusp of an exit and reaching the finish line.</p>",
+      "next_milestones_description": "<p>- We&#39;re close to securing an acquisition or other exit. We expect to achieve it within a few months to a &nbsp;year.</p>",
+      "achieved_milestones_title": "<p>We&#39;re on the cusp of an exit and reaching the finish line.</p>",
+      "achieved_milestones_description": "<p>- We&#39;re close to securing an acquisition or other exit. We expect to achieve it within a few months to a &nbsp;year.</p>",
+      "category": 32,
+      "level": 36
+    }
+  }
+]

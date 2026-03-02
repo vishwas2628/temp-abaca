@@ -1,0 +1,13 @@
+[
+  {
+    "model": "matching.response",
+    "pk": 1,
+    "fields": {
+      "user_profile": 1,
+      "question": 59,
+      "created_at": "2019-02-19T08:38:23.122",
+      "updated_at": "2019-02-19T08:38:23.122",
+      "value": {"text": "Lorem ipsum dolor sit amet"}
+    }
+  }
+]

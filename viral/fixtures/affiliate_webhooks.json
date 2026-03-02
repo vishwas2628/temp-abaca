@@ -1,0 +1,13 @@
+[
+  {
+    "model": "viral.affiliatewebhook",
+    "pk": 1,
+    "fields": {
+      "created_at": "2020-01-03T13:19:40.314",
+      "updated_at": "2020-01-06T13:23:59.967",
+      "name": "Village Capital - Demo (Zapier)",
+      "url": "",
+      "schema": "program"
+    }
+  }
+]

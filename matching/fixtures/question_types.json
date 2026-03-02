@@ -1,0 +1,90 @@
+[
+  {
+    "model": "matching.questiontype",
+    "pk": 1,
+    "fields": {
+      "created_at": "2019-02-08T10:26:53.988",
+      "updated_at": "2019-02-15T09:42:26.000",
+      "name": "Currency Range",
+      "type": "range",
+      "meta": {
+        "currency": true
+      },
+      "description": "For this type of question, the entrepreneur will submit an individual answer e.g. $100,000 in revenue this year and the investor will provide an acceptable range e.g. $50,000 to $150,000."
+    }
+  },
+  {
+    "model": "matching.questiontype",
+    "pk": 2,
+    "fields": {
+      "created_at": "2019-02-13T15:39:11.428",
+      "updated_at": "2019-02-13T15:39:11.428",
+      "name": "Single Select",
+      "type": "single-select",
+      "meta": {},
+      "description": "These are questions where you have multiple options and must select one."
+    }
+  },
+  {
+    "model": "matching.questiontype",
+    "pk": 3,
+    "fields": {
+      "created_at": "2019-02-19T04:00:48.634",
+      "updated_at": "2019-02-19T04:00:48.634",
+      "name": "Multi Select",
+      "type": "multi-select",
+      "meta": {},
+      "description": "This allows the entrepreneur to select multiple options"
+    }
+  },
+  {
+    "model": "matching.questiontype",
+    "pk": 4,
+    "fields": {
+      "created_at": "2019-02-19T08:23:11.868",
+      "updated_at": "2019-04-26T13:02:10.685",
+      "name": "Integer",
+      "type": "numeric",
+      "meta": {},
+      "description": "These are a range of integers that are not currency."
+    }
+  },
+  {
+    "model": "matching.questiontype",
+    "pk": 5,
+    "fields": {
+      "created_at": "2019-12-18T10:50:56.273",
+      "updated_at": "2020-02-04T08:38:43.665",
+      "name": "Free Response",
+      "type": "free-response",
+      "meta": {},
+      "description": "This allows the entrepreneur to add a free-response answer. It does not affect matching."
+    }
+  },
+  {
+    "model": "matching.questiontype",
+    "pk": 6,
+    "fields": {
+      "created_at": "2020-02-04T08:38:28.870",
+      "updated_at": "2020-02-04T08:38:28.870",
+      "name": "Currency",
+      "type": "numeric",
+      "meta": {
+        "currency": true
+      },
+      "description": "In this field the entrepreneur enters one currency value and it is compared against a currency range supplied by the supporter."
+    }
+  },
+  {
+    "model": "matching.questiontype",
+    "pk": 7,
+    "fields": {
+      "created_at": "2020-02-04T08:38:28.870",
+      "updated_at": "2020-02-04T08:38:28.870",
+      "name": "Date",
+      "type": "date",
+      "meta": {},
+      "description": "Date field"
+    }
+  }
+]

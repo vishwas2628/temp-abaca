@@ -1,0 +1,127 @@
+{% load static %}
+
+{% block body %}
+
+<table class="grid-container" id="viral-grid">
+<tr>
+	<td colspan=3 align=center>
+		<img src="{% static "img/abaca-logo.png" %}" id="abaca-logo" alt="Abaca logo" />
+  </td>
+
+	<td colspan=7 class="grid-header">
+		Venture 
+      Investment Levels &nbsp; 
+      <span class="abaca-cta">Share and save your assessment at abaca.app </span>
+  </td>
+
+  <td>
+    <img src="{% static "img/vc-logo.png" %}" id="vc-logo" alt="Village Capital logo" />
+  </td>
+</tr>
+<tr>
+	<td colspan=2>
+
+	</td>
+	<td class="grid-item-category">
+		<div class="teamHead">Team</div>
+	</td>
+	<td class="grid-item-category">
+		<div class="probHead">Prob & Vision</div>
+	</td>
+	<td class="grid-item-category">
+		<div class="valHead">Value Prop</div>
+	</td>
+	<td class="grid-item-category">
+		<div class="prodHead">Product</div>
+	</td>
+	<td class="grid-item-category">
+		<div class="mktHead">Market</div>
+	</td>
+	<td class="grid-item-category">
+		<div class="bizmHead">Bus Model</div>
+	</td>
+	<td class="grid-item-category">
+		<div class="scaleHead">Scale</div>
+	</td>
+	<td class="grid-item-category">
+		<div class="exitHead">Investor Exit</div>
+	</td>
+	<td class="funding funding-top">
+			Funding
+	</td>
+
+</tr>
+
+{% for grid_level in categories_levels %}
+	{% if overall_level == grid_level.level.value %}
+		<tr>
+      <td class="ms-overall-level" colspan=11></td>
+    </tr>
+	{% endif %}
+	<tr>
+		<td class="grid-item-name levelName">
+			{{ grid_level.level.title }}
+    </td>
+    
+    <td class="grid-item-number level" id="level{{ grid_level.level.value }}">
+      <img
+        src="{% get_static_prefix %}/img/viral-levels/{{ grid_level.level.value }}.svg" 
+        class="levelbadge"
+        alt="{{ grid_level.level.value }}" /> 
+    </td>
+
+    {% for category_level in grid_level.category_levels %}
+      <td 
+        class="grid-item {{ category_level.level_class }} {% if category_level.level.value <= category_level.param_value %} ms-done{% endif %}"
+        id="{{ category_level.level_class }}{{ category_level.level.value }}">
+        {{ category_level.achievements }}
+      </td>
+    {% endfor %}
+
+		<td class="funding">
+			{{ grid_level.level_funding }}
+		</td>
+  </tr>
+{% endfor %}
+  
+	<tr>
+		<td colspan=2>
+      <img src="{% static "img/cc-license.png" %}" id="cc-license" alt="Creative Commons License" />
+		</td>
+		<td class="grid-item-category">
+			<div class="teamHead">Team</div>
+		</td>
+		<td class="grid-item-category">
+			<div class="probHead">Prob & Vision</div>
+		</td>
+		<td class="grid-item-category">
+			<div class="valHead">Value Prop</div>
+		</td>
+		<td class="grid-item-category">
+			<div class="prodHead">Product</div>
+		</td>
+		<td class="grid-item-category">
+			<div class="mktHead">Market</div>
+		</td>
+		<td class="grid-item-category">
+			<div class="bizmHead">Bus Model</div>
+		</td>
+		<td class="grid-item-category">
+			<div class="scaleHead">Scale</div>
+		</td>
+		<td class="grid-item-category">
+			<div class="exitHead">Investor Exit</div>
+		</td>
+		<td class="funding funding-bottom">
+			Funding
+		</td>
+
+</tr> <!-- main content row -->
+<tr>
+	<td colspan=11>
+		<p class="cc-notice">Copyright &copy; 2016-20 Village Capital, licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a></p>
+	</td>
+</tr>
+</table>
+
+{% endblock %}

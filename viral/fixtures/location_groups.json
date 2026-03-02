@@ -1,0 +1,11 @@
+[
+  {
+    "model": "viral.locationgroup",
+    "pk": 1,
+    "fields": {
+      "name": "Iberian Peninsula",
+      "created_at": "2018-09-24T04:43:27.062",
+      "updated_at": "2018-09-24T04:43:27.062"
+    }
+  }
+]

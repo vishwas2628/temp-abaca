@@ -1,0 +1,10 @@
+MILESTONE_EVIDENCE_VALUE_SCHEMA = {
+    "type": "object",
+    "properties": {
+        "text": {
+            "type": "string",
+            "maxLength": 4000
+        },
+    },
+    "required": ["text"]
+}

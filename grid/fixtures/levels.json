@@ -1,0 +1,227 @@
+[
+  {
+    "model": "grid.level",
+    "pk": 28,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.557",
+      "updated_at": "2019-05-31T12:21:02.297",
+      "value": 1,
+      "title": "Establishing the Founding Team",
+      "description": "You're off to a great start. The founding team has been established, and whether or not you have a product prototype or a business model, you've identified an important problem to solve.\r\n\r\nTypical funding options for Level 1 companies include loans or investments from friends & family, personal savings, and personal credit.",
+      "typical_funding": "Friends & Family\nPersonal Credit",
+      "group": 2
+    }
+  },
+  {
+    "model": "grid.level",
+    "pk": 29,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.561",
+      "updated_at": "2019-05-31T12:21:02.296",
+      "value": 2,
+      "title": "Setting the Vision",
+      "description": "Every great founder has a strong vision for where the company will go. Now you have yours. Your founding team has crafted a vision for how you'll solve the problem you're tackling. Next investors will expect to see validation that your value proposition is truly valuable to potential customers.\r\n\r\nTypical funding options for Level 2 companies include loans or investments from friends & family, personal savings, and personal credit.",
+      "typical_funding": "Friends & Family\nPersonal Credit",
+      "group": 2
+    }
+  },
+  {
+    "model": "grid.level",
+    "pk": 30,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.564",
+      "updated_at": "2019-05-31T12:21:02.294",
+      "value": 3,
+      "title": "Solidifying the Value Proposition",
+      "description": "You're starting to prove that you're onto something. You have initial validation that your solution is valuable. You have begun testing your pricing with early prototypes and the data shows that customers will pay a price that could sustain your business.\r\n\r\nTypical funding options for Level 3 companies include loans or investments from friends & family, personal savings, personal credit, and angel investors.",
+      "typical_funding": "Angel\nFriends & Family\nPersonal Credit",
+      "group": 2
+    }
+  },
+  {
+    "model": "grid.level",
+    "pk": 31,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.567",
+      "updated_at": "2019-05-31T12:21:02.293",
+      "value": 4,
+      "title": "Validating an Investable Market",
+      "description": "It's clear you've found an opportunity. Reliable public or third-party data provides strong evidence that your total addressable market is over $1 billion and you're well positioned to enter the market. Next investors will want to see evidence that you can build a profitable business within this market.\r\n\r\nTypical funding options for Level 4 companies include angel investors, seed funds, incubators and accelerators, and loans or investments from friends & family.",
+      "typical_funding": "Angel\nFriends & Family",
+      "group": 2
+    }
+  },
+  {
+    "model": "grid.level",
+    "pk": 32,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.571",
+      "updated_at": "2019-05-31T12:21:02.292",
+      "value": 5,
+      "title": "Proving a Profitable Business Model",
+      "description": "Congratulations, you've reached a major inflection point. You have paying customers, are lowering your acquisition costs, and the data indicate you can reach positive unit economics. Next investors will want to see your business succeeding with customers beyond early adopters.\r\n\r\nTypical funding options for Level 5 companies include seed funds, angel investors, and accelerators.",
+      "typical_funding": "VC:\nSeed Angel",
+      "group": 2
+    }
+  },
+  {
+    "model": "grid.level",
+    "pk": 33,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.574",
+      "updated_at": "2019-05-31T12:21:02.288",
+      "value": 6,
+      "title": "Moving Beyond Early Adopters",
+      "description": "You've accomplished a critical step. You're demonstrating that average customers beyond early adopters are finding value in your product. Next investors will want to see product-market fit, namely that your unit economics are positive with a healthy margin among average customers.\r\n\r\nTypical funding options for Level 6 companies include Series A and late seed stage venture capital.",
+      "typical_funding": "VC:\nSeries A Debt",
+      "group": 2
+    }
+  },
+  {
+    "model": "grid.level",
+    "pk": 34,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.577",
+      "updated_at": "2019-05-31T12:21:02.287",
+      "value": 7,
+      "title": "Hitting Product-Market Fit",
+      "description": "This is perhaps the hardest level to achieve, and you've done it. You've proven that you can make a profit from each customer and now you just need to scale up the business. Next investors will be looking to see how you rapidly scale your sales and manage the growing pains of a burgeoning organization.\r\n\r\nTypical funding options for Level 7 companies include Series B and C venture capital, and some traditional debt.",
+      "typical_funding": "VC:\nSeries B, C",
+      "group": 2
+    }
+  },
+  {
+    "model": "grid.level",
+    "pk": 35,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.579",
+      "updated_at": "2019-05-31T12:21:02.286",
+      "value": 8,
+      "title": "Scaling Up",
+      "description": "You're scaling rapidly, you've found the formula for success. Your value proposition, product, and business model are all validated. You're focusing on sales, growth, and managing the team as it too scales in new and challenging ways. Now that you've proven it's a great business most early investors will be looking for liquidity next.\r\n\r\nTypical funding options for Level 8 companies include Series C and D+ venture capital funds, traditional debt providers, and acquirers.",
+      "typical_funding": "VC:\nSeries C, D+",
+      "group": 2
+    }
+  },
+  {
+    "model": "grid.level",
+    "pk": 36,
+    "fields": {
+      "created_at": "2018-09-24T11:47:52.582",
+      "updated_at": "2019-05-31T12:21:02.284",
+      "value": 9,
+      "title": "Investor Exit in Sight",
+      "description": "You've achieved a rare and impressive feat. Congratulations. You've acquired substantial market share and are recognized as a leader in the industry. You're lining up an exit for your investors, and a new source of capital if you need it. You're in the midst of serious negotiations and should be signing a deal relatively soon.\r\n\r\nTypical funding options for Level 9 companies include Series D+ venture capital funds, acquirers, IPOs, and traditional debt providers.",
+      "typical_funding": "Acquires IPO",
+      "group": 2
+    }
+  },
+  {
+    "model": "grid.level",
+    "pk": 37,
+    "fields": {
+      "created_at": "2019-05-31T12:21:02.068",
+      "updated_at": "2019-05-31T12:21:02.283",
+      "value": 1,
+      "title": "You back the Jockey, not the Horse",
+      "description": "You back strong founding teams with a solid idea.",
+      "group": 1
+    }
+  },
+  {
+    "model": "grid.level",
+    "pk": 38,
+    "fields": {
+      "created_at": "2019-05-31T12:21:02.080",
+      "updated_at": "2019-05-31T12:21:02.282",
+      "value": 2,
+      "title": "You back big ideas",
+      "description": "You invest in strong founding teams with a strong idea and a working prototype of their product/service that they\u2019ve already put in front of customers.",
+      "group": 1
+    }
+  },
+  {
+    "model": "grid.level",
+    "pk": 39,
+    "fields": {
+      "created_at": "2019-05-31T12:21:02.082",
+      "updated_at": "2019-05-31T12:21:02.280",
+      "value": 3,
+      "title": "You back teams that have hit a value proposition",
+      "description": "You\u2019re looking for companies that have evidence of a strong value proposition. They have validated through initial customer traction that they are solving the customer\u2019s problem and that they are significantly and quantifiably better than their competition.",
+      "group": 1
+    }
+  },
+  {
+    "model": "grid.level",
+    "pk": 40,
+    "fields": {
+      "created_at": "2019-05-31T12:21:02.085",
+      "updated_at": "2019-05-31T12:21:02.276",
+      "value": 4,
+      "title": "You back teams going after big markets",
+      "description": "You typically invest in an angel round (up to $100K in investment in up to $500K of a round). You want to see that the team has as massive market ($1B+ if you\u2019re investing equity) and has initial traction (100 customers if B2C, 5 customers if B2B).",
+      "group": 1
+    }
+  },
+  {
+    "model": "grid.level",
+    "pk": 41,
+    "fields": {
+      "created_at": "2019-05-31T12:21:02.088",
+      "updated_at": "2019-05-31T12:21:02.275",
+      "value": 5,
+      "title": "You back working business models",
+      "description": "You typically invest in a seed round (up to $250K in investment in up to $1M of a round). You want to see that the team has positive unit economics, even if the company isn\u2019t yet profitable, and evidence of both revenues and costs through a couple of sales cycles.",
+      "group": 1
+    }
+  },
+  {
+    "model": "grid.level",
+    "pk": 42,
+    "fields": {
+      "created_at": "2019-05-31T12:21:02.092",
+      "updated_at": "2019-05-31T12:21:02.274",
+      "value": 6,
+      "title": "You back products that are rapidly scaling",
+      "description": "You typically invest in a heavy seed/light series A round ($100-$500K in investment in up to $2M of a round). You want to see that the team has a product or service that has survived a couple of sales cycles, and has initial evidence that customers are delighted by the product.",
+      "group": 1
+    }
+  },
+  {
+    "model": "grid.level",
+    "pk": 43,
+    "fields": {
+      "created_at": "2019-05-31T12:21:02.096",
+      "updated_at": "2019-05-31T12:21:02.271",
+      "value": 7,
+      "title": "You back teams once they\u2019ve reached product-market fit",
+      "description": "You invest in Series A rounds and look for companies with solid positive unit economics who have more sales leads coming inbound than outbound. At this point the company\u2019s C-Suite is filled out and is as good or better than the CEO.",
+      "group": 1
+    }
+  },
+  {
+    "model": "grid.level",
+    "pk": 44,
+    "fields": {
+      "created_at": "2019-05-31T12:21:02.098",
+      "updated_at": "2019-05-31T12:21:02.269",
+      "value": 8,
+      "title": "You back teams for growth/scale",
+      "description": "You come in for Series B/C and later rounds. You look for companies that are growing fast. They\u2019re an established brand and consistently beating industry benchmarks in month-over-month revenue.",
+      "group": 1
+    }
+  },
+  {
+    "model": "grid.level",
+    "pk": 45,
+    "fields": {
+      "created_at": "2019-05-31T12:21:02.100",
+      "updated_at": "2019-05-31T12:21:02.264",
+      "value": 9,
+      "title": "You acquire companies",
+      "description": "You come in for Series B/C and later rounds. You look for companies that are growing fast. They\u2019re an established brand and consistently beating industry benchmarks in month-over-month revenue.",
+      "group": 1
+    }
+  }
+]

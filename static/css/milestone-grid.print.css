@@ -1,0 +1,300 @@
+.rounded-border {
+  position: relative;
+  width: 110px;
+  height: 110px;
+  background: #fafafa;
+  border-radius: 50%
+}
+
+.grid-header > div {
+  border: 0;
+}
+
+.grid-container {
+  width: 100%;
+  margin: 0;
+  padding: 15px;
+}
+
+.grid-item {
+  border-right: 1px solid #eee;
+  border-bottom: 1px solid #eee;
+  text-align: center;
+  padding: 6px 8px;
+  line-height: 1.2;
+}
+
+.grid-item-name, .grid-item-number {
+  border-bottom: 1px solid #eee;
+  text-align: right;
+}
+
+.grid-item-name {
+  margin-right: 3px;
+  line-height: 1.4;
+  font-weight: bold;
+  color: #5b5b5c;
+}
+
+.grid-item-category {
+  border-right: 1px solid #eee;
+}
+
+/**
+* Styles for when a milestone is completed
+*/
+
+body {
+  font-family: 'HKGrotesk', sans-serif;
+  margin-top: 10px;
+}
+
+.levelHead {
+  background-color: #fff;
+}
+
+.levelDone {
+  background-color: #eff5fb;
+  font-weight: bold;
+}
+
+.teamDone, .teamHead {
+  background-color: #ffd36f;
+  font-weight: bold;
+  color: #fff;
+}
+
+.probDone, .probHead {
+  background-color: #ff8e54;
+  font-weight: bold;
+  color: #fff;
+}
+
+.valDone, .valHead {
+  background-color: #ff5a64;
+  font-weight: bold;
+  color: #fff;
+}
+
+.prodDone, .prodHead {
+  background-color: #43d38a;
+  font-weight: bold;
+  color: #fff;
+}
+
+.mktDone, .mktHead {
+  background-color: #3fc7c0;
+  font-weight: bold;
+  color: #fff;
+}
+
+.bizmDone, .bizmHead {
+  background-color: #f462a2;
+  font-weight: bold;
+  color: #fff;
+}
+
+.scaleDone, .scaleHead {
+  background-color: #a86ff5;
+  font-weight: bold;
+  color: #fff;
+}
+
+.exitDone, .exitHead {
+  background-color: #526def;
+  font-weight: bold;
+  color: #fff;
+}
+
+.funding {
+  background-color: #7bb7ff;
+  font-weight: bold;
+  color: #fff;
+}
+
+.teamHead, .probHead, .valHead, .prodHead, .mktHead, .bizmHead, .scaleHead, .exitHead {
+  padding: 12px;
+  border-radius: 6px;
+  margin: 4px;
+  text-align: center;
+}
+
+.overall {
+  border-bottom: 2px solid black;
+}
+
+.level-width, .levelbadge {
+  width: 60px;
+  margin: 0;
+}
+
+#abaca-logo {
+  position: relative;
+  top: -3px;
+  height: 49px;
+}
+
+#vc-logo {
+  height: 25px;
+}
+
+.grid-header {
+  font-size: 30px;
+  font-weight: 300;
+}
+
+.abaca-cta {
+  color: #6f79a4;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.btn-success {
+  background-color: #4dbc4b;
+  color: #fff;
+  border-radius: 3px;
+  border: solid 1px rgba(0, 0, 0, 0.2);
+}
+
+.cc-notice {
+  font-size: 12px;
+}
+
+.funding {
+  border: 0;
+	text-align: center;
+	padding: 20px 25px;
+}
+
+.funding-top {
+  border-radius: 6px 6px 0 0;
+  padding: 9px;
+  border-bottom: 0px;
+}
+
+.funding-bottom {
+  border-radius: 0 0 6px 6px;
+  padding: 9px;
+  border-top: 0px;
+}
+
+table {
+  width: 100%;
+}
+
+/**
+* Print stylesheet for Abaca Venture Investment Grid
+* @version         1.0
+* @lastmodified    16.06.2016
+*/
+
+@media print {
+  /* Setting content width, unsetting floats and margins */
+  html {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    float: none;
+  }
+  /** Setting margins */
+  @page {
+    size: legal landscape;
+    max-height: 100%;
+    max-width: 100%;
+    margin: 5pt 10pt !important;
+    color-adjust: exact !important;
+
+    print-color-adjust: exact !important;
+  }
+  /* Set font to point sizes, set main background to white and font to black.*/
+  /* This saves ink */
+  body {
+    width: 100%;
+    height: 100%;
+    font: 11pt 'HKGrotesk', sans-serif;
+    background: #fff !important;
+    color: #000;
+    margin: 0;
+    padding: 0;
+  }
+  #viral-grid {
+    font: 8pt 'HKGrotesk', sans-serif;
+    line-height: 1;
+    background: #fff !important;
+    color: #000;
+  }
+  /* Changes background of a cell to grey to indicate completed milestone */
+  .ms-done {
+    background-color: #dcdde2;
+    color: #000;
+  }
+  /* Changes the background of an empty row to idicate overall VIRAL level */
+  .ms-overall-level {
+    background-color: #f00;
+  }
+  /* Outlines a cell in red to idicate the need to focus on that step */
+  /* This class needs to be called on pages 7 and 8 of the Milestone Report. It is used to identify Critical Milestones. */
+  .ms-focus {
+    border: 2px solid red;
+  }
+  .level-width, .levelbadge {
+    width: 12mm;
+  }
+  .printit {
+    display: none;
+  }
+  h1 {
+    font-size: 18pt;
+  }
+  h2, h3, h4 {
+    font-size: 14pt;
+  }
+  /* Defining all page breaks */
+  a {
+    page-break-inside: avoid
+  }
+  blockquote {
+    page-break-inside: avoid;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    page-break-after: avoid;
+    page-break-inside: avoid
+  }
+  img {
+    page-break-inside: avoid;
+    page-break-after: avoid;
+  }
+  table, pre {
+    page-break-inside: avoid
+  }
+  .row {
+    page-break-after: avoid
+  }
+  .container, .container-fluid, .d-flex {
+    page-break-inside: avoid
+  }
+  ul, ol, dl {
+    page-break-before: avoid
+  }
+  /* Displaying link color and link behavior */
+  a:link, a:visited, a {
+    background: transparent;
+    color: #33f;
+    text-decoration: underline;
+    text-align: left;
+  }
+  a {
+    page-break-inside: avoid
+  }
+  a[href^=http]:after {
+    content: " < " attr(href) "> ";
+  }
+  article a[href^="#"]:after {
+    content: "";
+  }
+  .cc-notice {
+    margin: 0;
+    font-size: 6pt;
+  }
+}

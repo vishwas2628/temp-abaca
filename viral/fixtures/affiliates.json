@@ -1,0 +1,93 @@
+[
+  {
+    "model": "viral.affiliate",
+    "pk": 1,
+    "fields": {
+      "created_at": "2018-10-02T10:40:42.973",
+      "updated_at": "2020-01-03T13:26:21.624",
+      "name": "Village Capital - Self Assessment",
+      "shortcode": "VilCap Entrep SA",
+      "slug": "vilcap-entrep-sa",
+      "email": "abaca-dev+self-assessment@pixelmatters.com",
+      "additional_emails": null,
+      "website": "https://vilcap.com/",
+      "logo": "https://assets.themuse.com/uploaded/companies/1212/small_logo.png?v=de9738f26729f0c16c5c88c59a02d024ce18b0d6a071317e39bf62988f89779b",
+      "spreadsheet": "",
+      "company": 2,
+      "flow_type": 0,
+      "supporters": [],
+      "networks": [],
+      "question_bundles": [],
+      "webhooks": []
+    }
+  },
+  {
+    "model": "viral.affiliate",
+    "pk": 2,
+    "fields": {
+      "created_at": "2018-10-02T10:40:42.973",
+      "updated_at": "2020-01-03T13:26:21.624",
+      "name": "Village Capital - Question Bundle",
+      "shortcode": "VilCap Entrep QB",
+      "slug": "vilcap-entrep-qb",
+      "email": "abaca-dev+question-bundles@pixelmatters.com",
+      "additional_emails": null,
+      "website": "https://vilcap.com/",
+      "logo": "https://assets.themuse.com/uploaded/companies/1212/small_logo.png?v=de9738f26729f0c16c5c88c59a02d024ce18b0d6a071317e39bf62988f89779b",
+      "spreadsheet": "",
+      "company": 2,
+      "flow_type": 1,
+      "supporters": [],
+      "networks": [],
+      "question_bundles": [],
+      "webhooks": []
+    }
+  },
+  {
+    "model": "viral.affiliate",
+    "pk": 3,
+    "fields": {
+      "created_at": "2018-10-02T10:40:42.973",
+      "updated_at": "2020-01-03T13:26:21.624",
+      "name": "Village Capital - Supporter - Question Bundle",
+      "shortcode": "VilCap Supporter QB",
+      "slug": "vilcap-supporter-qb",
+      "email": "abaca-dev+sup-question-bundles@pixelmatters.com",
+      "additional_emails": null,
+      "website": "https://vilcap.com/",
+      "logo": "https://assets.themuse.com/uploaded/companies/1212/small_logo.png?v=de9738f26729f0c16c5c88c59a02d024ce18b0d6a071317e39bf62988f89779b",
+      "spreadsheet": "",
+      "company": 2,
+      "flow_type": 1,
+      "flow_target": 1,
+      "supporters": [],
+      "networks": [6],
+      "question_bundles": [],
+      "webhooks": []
+    }
+  },
+  {
+    "model": "viral.affiliate",
+    "pk": 4,
+    "fields": {
+      "created_at": "2018-10-02T10:40:42.973",
+      "updated_at": "2020-01-03T13:26:21.624",
+      "name": "Village Capital Default - Supporter - Question Bundle",
+      "shortcode": "VilCap Supporter Default",
+      "slug": "vilcap-supporter-default",
+      "email": "abaca-dev+default-sup-question-bundles@pixelmatters.com",
+      "additional_emails": null,
+      "website": "https://vilcap.com/",
+      "logo": "https://assets.themuse.com/uploaded/companies/1212/small_logo.png?v=de9738f26729f0c16c5c88c59a02d024ce18b0d6a071317e39bf62988f89779b",
+      "spreadsheet": "",
+      "company": 2,
+      "flow_type": 1,
+      "flow_target": 1,
+      "default_flow": true,
+      "supporters": [],
+      "networks": [6],
+      "question_bundles": [],
+      "webhooks": []
+    }
+  }
+]

@@ -1,0 +1,204 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-20 11:29-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: company_lists/serializers/list_or_create_company_lists_serializer.py:40
+msgid "Cannot add yourself as an invited user."
+msgstr ""
+
+#: grid/views.py:90
+msgid "Not found"
+msgstr ""
+
+#: grid/views.py:105
+msgid "Company not found"
+msgstr ""
+
+#: grid/views.py:112
+msgid "Assessment not found"
+msgstr ""
+
+#: matching/serializers.py:897
+msgid "This slug is already taken."
+msgstr ""
+
+#: matching/serializers.py:928
+msgid "Missing data."
+msgstr ""
+
+#: matching/serializers.py:929 viral/serializers.py:829
+#: viral/serializers.py:1255
+msgid "This field must be unique."
+msgstr ""
+
+#: matching/serializers.py:930
+msgid "Invalid token."
+msgstr ""
+
+#: matching/serializers.py:1017
+msgid "Password confirmation failed."
+msgstr ""
+
+#: matching/serializers.py:1018
+msgid "Missing password confirmation."
+msgstr ""
+
+#: matching/serializers.py:1104
+msgid "Missing Supporter types."
+msgstr ""
+
+#: matching/serializers.py:1336
+msgid "Invalid answers."
+msgstr ""
+
+#: matching/serializers.py:1337
+msgid "Missing response."
+msgstr ""
+
+#: matching/serializers.py:1405
+msgid "Invalid questions."
+msgstr ""
+
+#: matching/serializers.py:1562
+msgid "Missing criteria."
+msgstr ""
+
+#: matching/serializers.py:1630
+msgid "Missing default affiliate."
+msgstr ""
+
+#: matching/serializers.py:1735
+msgid "Incomplete registration."
+msgstr ""
+
+#: matching/serializers.py:1809 viral/serializers.py:1017
+msgid "Invalid user."
+msgstr ""
+
+#: profiles/models/profile_id_field.py:15
+#, python-format
+msgid "%(value)s is not a valid source"
+msgstr ""
+
+#: profiles/models/profile_id_field.py:30
+#, python-format
+msgid "%(value)s either app, model or field do not exist"
+msgstr ""
+
+#: shared/utils.py:101
+#, python-brace-format
+msgid "Object with {field}={value} does not exist."
+msgstr ""
+
+#: shared/utils.py:102
+msgid "Invalid value."
+msgstr ""
+
+#: shared/validators.py:23
+#, python-format
+msgid "Password must contain at least %(min_numbers)d digit."
+msgstr ""
+
+#: shared/validators.py:26
+#, python-format
+msgid "Password must contain at least %(min_letters)d letter."
+msgstr ""
+
+#: shared/validators.py:30
+#, python-format
+msgid "Password must contain at least %(min_specialchars)d special character."
+msgstr ""
+
+#: templates/admin/admin-as-user.html:6
+msgid "Log in as user"
+msgstr ""
+
+#: templates/admin/input-filter.html:3
+#, python-format
+msgid " By %(filter_title)s "
+msgstr ""
+
+#: templates/admin/input-filter.html:19
+msgid "Remove"
+msgstr ""
+
+#: viral/serializers.py:374 viral/serializers.py:1143
+msgid "This email is already being used."
+msgstr ""
+
+#: viral/serializers.py:375 viral/serializers.py:440
+msgid "Your old password was entered incorrectly. Please enter it again."
+msgstr ""
+
+#: viral/serializers.py:439 viral/serializers.py:609 viral/serializers.py:699
+#: viral/serializers.py:1138
+msgid "The two password fields didn't match."
+msgstr ""
+
+#: viral/serializers.py:582
+msgid "User account is disabled."
+msgstr ""
+
+#: viral/serializers.py:585
+msgid "Unable to log in with provided credentials."
+msgstr ""
+
+#: viral/serializers.py:595
+msgid "E-mail is not verified."
+msgstr ""
+
+#: viral/serializers.py:608 viral/serializers.py:644 viral/serializers.py:697
+#: viral/serializers.py:755
+msgid "Invalid key."
+msgstr ""
+
+#: viral/serializers.py:645
+msgid "No assessment for this user was found."
+msgstr ""
+
+#: viral/serializers.py:698 viral/serializers.py:756
+msgid "Invalid key for the given user."
+msgstr ""
+
+#: viral/serializers.py:826 viral/serializers.py:892 viral/serializers.py:1016
+#: viral/serializers.py:1140 viral/serializers.py:1393
+#: viral/serializers.py:1442
+msgid "User is not valid."
+msgstr ""
+
+#: viral/serializers.py:893 viral/serializers.py:1394
+#, python-brace-format
+msgid "Invalid category '{0}' for level group: {1}"
+msgstr ""
+
+#: viral/serializers.py:1018
+msgid "Missing self-assessment."
+msgstr ""
+
+#: viral/serializers.py:1146
+msgid "Account awaiting confirmation. Please check your email."
+msgstr ""
+
+#: viral/serializers.py:1253
+msgid "Vendor is not valid."
+msgstr ""
+
+#: viral/views.py:787
+msgid "Profile not found"
+msgstr ""

@@ -1,0 +1,874 @@
+[
+  {
+    "model": "matching.question",
+    "pk": 5,
+    "fields": {
+      "created_at": "2019-02-19T08:27:58.049",
+      "updated_at": "2020-01-07T12:17:48.647",
+      "entrepreneur_question": "What business model are you using?",
+      "resource_question": "What business models do you prefer?",
+      "ttl": "365 00:00:00",
+      "slug": "Business_Model_Type",
+      "short_name": "Business_Model_Type",
+      "question_type": 2,
+      "question_category": 6
+    }
+  },
+  {
+    "model": "matching.question",
+    "pk": 6,
+    "fields": {
+      "created_at": "2019-02-19T08:30:14.668",
+      "updated_at": "2020-02-04T08:40:55.948",
+      "entrepreneur_question": "How much funding are you aiming to raise in this round?",
+      "resource_question": "What size funding round are you looking for?",
+      "ttl": "365 00:00:00",
+      "slug": "Currently_Raising_Amount",
+      "short_name": "Currently_Raising_Amount",
+      "question_type": 1,
+      "question_category": 4
+    }
+  },
+  {
+    "model": "matching.question",
+    "pk": 7,
+    "fields": {
+      "created_at": "2019-02-19T08:31:44.484",
+      "updated_at": "2020-01-07T12:17:08.475",
+      "entrepreneur_question": "Do you have any intellectual property?",
+      "resource_question": "What intellectual property do you expect a company to have?",
+      "ttl": "365 00:00:00",
+      "slug": "IP",
+      "short_name": "IP",
+      "question_type": 3,
+      "question_category": 3
+    }
+  },
+  {
+    "model": "matching.question",
+    "pk": 8,
+    "fields": {
+      "created_at": "2019-02-19T08:33:52.915",
+      "updated_at": "2020-01-07T12:16:53.048",
+      "entrepreneur_question": "Which of these best describes your company?",
+      "resource_question": "Which types of companies do you look for?",
+      "ttl": "365 00:00:00",
+      "slug": "Tech",
+      "short_name": "Tech",
+      "question_type": 2,
+      "question_category": 3
+    }
+  },
+  {
+    "model": "matching.question",
+    "pk": 9,
+    "fields": {
+      "created_at": "2019-02-19T08:38:01.538",
+      "updated_at": "2020-01-07T12:16:18.054",
+      "entrepreneur_question": "Which of these do you sell and are an important part of your business model?",
+      "resource_question": "What product types do you look for?",
+      "ttl": "365 00:00:00",
+      "slug": "Product_Type",
+      "short_name": "Product_Type",
+      "question_type": 3,
+      "question_category": 3
+    }
+  },
+  {
+    "model": "matching.question",
+    "pk": 10,
+    "fields": {
+      "created_at": "2019-02-19T10:27:41.193",
+      "updated_at": "2020-01-07T12:15:54.417",
+      "entrepreneur_question": "Do any of your founders belong to the following census categories? (US)",
+      "resource_question": "Are you specifically looking for founders with any of the following ethnic/racial backgrounds? (US)",
+      "ttl": "365 00:00:00",
+      "slug": "Ethnicity_US",
+      "short_name": "Ethnicity_US",
+      "question_type": 3,
+      "question_category": 2
+    }
+  },
+  {
+    "model": "matching.question",
+    "pk": 11,
+    "fields": {
+      "created_at": "2019-02-19T10:34:49.264",
+      "updated_at": "2020-01-07T12:15:36.653",
+      "entrepreneur_question": "Are any of your founders female?",
+      "resource_question": "Are you looking for female founders?",
+      "ttl": "500 00:00:00",
+      "slug": "Female",
+      "short_name": "Female",
+      "question_type": 2,
+      "question_category": 2
+    }
+  },
+  {
+    "model": "matching.question",
+    "pk": 13,
+    "fields": {
+      "created_at": "2019-02-25T14:34:03.361",
+      "updated_at": "2020-01-07T12:15:24.368",
+      "entrepreneur_question": "Are you motivated by impact?",
+      "resource_question": "Are you looking for mission driven companies?",
+      "ttl": "365 00:00:00",
+      "slug": "Impact_Motive",
+      "short_name": "Impact_Motive",
+      "question_type": 3,
+      "question_category": 8
+    }
+  },
+  {
+    "model": "matching.question",
+    "pk": 15,
+    "fields": {
+      "created_at": "2019-02-25T15:42:58.589",
+      "updated_at": "2020-01-07T12:15:06.353",
+      "entrepreneur_question": "Are any of your founders immigrants?",
+      "resource_question": "Are you specifically looking to invest in immigrants?",
+      "ttl": "500 00:00:00",
+      "slug": "Immigrants",
+      "short_name": "Immigrants",
+      "question_type": 2,
+      "question_category": 2
+    }
+  },
+  {
+    "model": "matching.question",
+    "pk": 16,
+    "fields": {
+      "created_at": "2019-02-25T20:34:39.212",
+      "updated_at": "2020-01-07T12:14:53.530",
+      "entrepreneur_question": "Are the founding team members currently students?",
+      "resource_question": "Do you work with student lead companies?",
+      "ttl": "500 00:00:00",
+      "slug": "Students",
+      "short_name": "Students",
+      "question_type": 2,
+      "question_category": 2
+    }
+  },
+  {
+    "model": "matching.question",
+    "pk": 17,
+    "fields": {
+      "created_at": "2019-02-26T09:18:29.848",
+      "updated_at": "2020-01-07T09:48:15.652",
+      "entrepreneur_question": "Does your business primarily serve low-income customers?",
+      "resource_question": "Do you look for businesses that focus on serving low-income populations?",
+      "ttl": "365 00:00:00",
+      "slug": "Low-Income",
+      "short_name": "Low-Income",
+      "question_type": 2,
+      "question_category": 7
+    }
+  },
+  {
+    "model": "matching.question",
+    "pk": 19,
+    "fields": {
+      "created_at": "2019-06-13T09:01:05.776",
+      "updated_at": "2020-01-07T09:48:14.646",
+      "entrepreneur_question": "Does your company focus on refugees in one or more of the following ways?",
+      "resource_question": "Do you focus on companies impacting refugees in one or more of the following ways?",
+      "ttl": "365 00:00:00",
+      "slug": "Refugee",
+      "short_name": "Refugee",
+      "question_type": 3,
+      "question_category": 8
+    }
+  },
+  {
+    "model": "matching.question",
+    "pk": 20,
+    "fields": {
+      "created_at": "2020-01-03T12:09:15.548",
+      "updated_at": "2020-01-07T09:48:13.044",
+      "entrepreneur_question": "Is your company incorporated (legally registered)?",
+      "resource_question": "Do you require a company to be incorporated?",
+      "ttl": "700 00:00:00",
+      "slug": "Incorporation",
+      "short_name": "Incorporation",
+      "question_type": 2,
+      "question_category": 6
+    }
+  },
+  {
+    "model": "matching.question",
+    "pk": 21,
+    "fields": {
+      "created_at": "2020-01-03T12:17:59.586",
+      "updated_at": "2020-01-03T12:17:59.586",
+      "entrepreneur_question": "How many full-time team members do you have (if any)?",
+      "resource_question": "How many full-time team members do you expect the company to have?",
+      "ttl": "360 00:00:00",
+      "slug": "Team_Size",
+      "short_name": "Team_Size",
+      "question_type": 4,
+      "question_category": 2
+    }
+  },
+  {
+    "model": "matching.question",
+    "pk": 22,
+    "fields": {
+      "created_at": "2020-01-03T12:20:12.101",
+      "updated_at": "2020-01-27T15:23:22.282",
+      "entrepreneur_question": "What strengths does your team bring? Include skills and personal experience with the problem.",
+      "resource_question": "What strengths does your team bring? Include skills and personal experience with the problem.",
+      "ttl": "365 00:00:00",
+      "slug": "Team_Strengths",
+      "short_name": "Team_Strengths",
+      "question_type": 5,
+      "question_category": 2
+    }
+  },
+  {
+    "model": "matching.question",
+    "pk": 23,
+    "fields": {
+      "created_at": "2020-01-03T12:26:12.589",
+      "updated_at": "2020-01-03T12:26:12.589",
+      "entrepreneur_question": "Run through the customer journey. How does a customer use your product?",
+      "resource_question": "Describe a good answer to a customer journey.",
+      "ttl": "365 00:00:00",
+      "slug": "Customer_Journey",
+      "short_name": "Customer_Journey",
+      "question_type": 5,
+      "question_category": 3
+    }
+  },
+  {
+    "model": "matching.question",
+    "pk": 24,
+    "fields": {
+      "created_at": "2020-01-03T12:27:33.831",
+      "updated_at": "2020-01-14T13:09:01.418",
+      "entrepreneur_question": "Describe your product/service and how it solves the problem.",
+      "resource_question": "What does a good product description look like?",
+      "ttl": "365 00:00:00",
+      "slug": "Product_Description",
+      "short_name": "Product_Description",
+      "question_type": 5,
+      "question_category": 3
+    }
+  },
+  {
+    "model": "matching.question",
+    "pk": 25,
+    "fields": {
+      "created_at": "2020-01-07T09:34:42.635",
+      "updated_at": "2020-01-07T09:34:42.635",
+      "entrepreneur_question": "Who is your target customer? Be specific and list who is or will be paying for your product/service.",
+      "resource_question": "What is an example of a good customer description?",
+      "ttl": "365 00:00:00",
+      "slug": "Customer",
+      "short_name": "Customer",
+      "question_type": 5,
+      "question_category": 7
+    }
+  },
+  {
+    "model": "matching.question",
+    "pk": 26,
+    "fields": {
+      "created_at": "2020-01-07T09:44:58.404",
+      "updated_at": "2020-01-07T09:44:58.404",
+      "entrepreneur_question": "What is the problem your company is trying to solve?",
+      "resource_question": "What is a good example of a problem description?",
+      "ttl": "365 00:00:00",
+      "slug": "Problem",
+      "short_name": "Problem",
+      "question_type": 5,
+      "question_category": 7
+    }
+  },
+  {
+    "model": "matching.question",
+    "pk": 27,
+    "fields": {
+      "created_at": "2020-01-07T09:47:37.334",
+      "updated_at": "2020-01-07T09:47:37.334",
+      "entrepreneur_question": "What is your business model? Describe your primary revenue streams and distribution channels.",
+      "resource_question": "Provide an example of a good description of a business model.",
+      "ttl": "365 00:00:00",
+      "slug": "Busines_Model",
+      "short_name": "Busines_Model",
+      "question_type": 5,
+      "question_category": 6
+    }
+  },
+  {
+    "model": "matching.question",
+    "pk": 28,
+    "fields": {
+      "created_at": "2020-01-07T09:54:48.543",
+      "updated_at": "2020-01-07T09:54:48.543",
+      "entrepreneur_question": "Who are your primary competitors and how is your business unique and/or better?",
+      "resource_question": "Example competitors description.",
+      "ttl": "365 00:00:00",
+      "slug": "Competition",
+      "short_name": "Competition",
+      "question_type": 5,
+      "question_category": 9
+    }
+  },
+  {
+    "model": "matching.question",
+    "pk": 29,
+    "fields": {
+      "created_at": "2020-01-07T09:58:26.625",
+      "updated_at": "2020-01-07T09:58:26.625",
+      "entrepreneur_question": "Describe your traction. Include: Number of customers, users, market feedback, partnerships, etc.",
+      "resource_question": "Describe your traction. Include: Number of customers, users, market feedback, partnerships, etc.",
+      "ttl": "100 00:00:00",
+      "slug": "Traction",
+      "short_name": "Traction",
+      "question_type": 5,
+      "question_category": 5
+    }
+  },
+  {
+    "model": "matching.question",
+    "pk": 30,
+    "fields": {
+      "created_at": "2020-01-07T10:31:42.432",
+      "updated_at": "2020-01-14T13:29:04.181",
+      "entrepreneur_question": "Is your company pre- or post-revenue? (Have you made any sales?)",
+      "resource_question": "Are you interested in companies that are pre- or post-revenue or both?",
+      "ttl": "365 00:00:00",
+      "slug": "Revenue_Stage",
+      "short_name": "Revenue_Stage",
+      "question_type": 2,
+      "question_category": 6
+    }
+  },
+  {
+    "model": "matching.question",
+    "pk": 31,
+    "fields": {
+      "created_at": "2020-01-07T12:19:07.453",
+      "updated_at": "2020-01-27T12:23:19.903",
+      "entrepreneur_question": "Describe your investor exit strategy. How will you generate returns for investors?",
+      "resource_question": "Describe your investor exit strategy. How will you generate returns for investors?",
+      "ttl": "365 00:00:00",
+      "slug": "Exit_Strategy",
+      "short_name": "Exit_Strategy",
+      "question_type": 5,
+      "question_category": 4
+    }
+  },
+  {
+    "model": "matching.question",
+    "pk": 32,
+    "fields": {
+      "created_at": "2020-01-07T12:21:14.779",
+      "updated_at": "2020-01-07T12:21:14.779",
+      "entrepreneur_question": "What is your plan to scale? Include any milestones you're targeting or a broad overview.",
+      "resource_question": "What is your plan to scale? Include any milestones you're targeting or a broad overview.",
+      "ttl": "365 00:00:00",
+      "slug": "Scale_Strategy",
+      "short_name": "Scale_Strategy",
+      "question_type": 5,
+      "question_category": 5
+    }
+  },
+  {
+    "model": "matching.question",
+    "pk": 33,
+    "fields": {
+      "created_at": "2020-01-07T12:25:38.789",
+      "updated_at": "2020-01-07T12:25:38.789",
+      "entrepreneur_question": "What impact will your company have on the wold? How are you measuring this?",
+      "resource_question": "What impact will your company have on the wold? How are you measuring this?",
+      "ttl": "365 00:00:00",
+      "slug": "Impact_Description",
+      "short_name": "Impact_Description",
+      "question_type": 5,
+      "question_category": 7
+    }
+  },
+  {
+    "model": "matching.question",
+    "pk": 34,
+    "fields": {
+      "created_at": "2020-01-21T11:15:24.246",
+      "updated_at": "2020-01-21T11:15:24.246",
+      "entrepreneur_question": "Is your company 50% or more female-owned?",
+      "resource_question": "Do you want a company to be at least 50% female owned?",
+      "ttl": "365 00:00:00",
+      "slug": "Female_Ownership",
+      "short_name": "Female_Ownership",
+      "question_type": 2,
+      "question_category": 2
+    }
+  },
+  {
+    "model": "matching.question",
+    "pk": 35,
+    "fields": {
+      "created_at": "2020-01-21T11:22:38.653",
+      "updated_at": "2020-01-27T15:49:18.271",
+      "entrepreneur_question": "Where are you incorporated? Write NA if not incorporated.",
+      "resource_question": "Where would you prefer entrepreneurs to be incorporated?",
+      "ttl": "1000 00:00:00",
+      "slug": "Incorporation_Location",
+      "short_name": "Incorporation_Location",
+      "question_type": 5,
+      "question_category": 6
+    }
+  },
+  {
+    "model": "matching.question",
+    "pk": 36,
+    "fields": {
+      "created_at": "2020-01-21T11:26:19.715",
+      "updated_at": "2020-01-21T11:26:19.715",
+      "entrepreneur_question": "Describe your team, including C-suite member, their name, gender, ethnicity, title, and LinkedIn.",
+      "resource_question": "Describe your team, including C-suite member, their name, gender, ethnicity, title, and LinkedIn.",
+      "ttl": "365 00:00:00",
+      "slug": "Team_Description",
+      "short_name": "Team_Description",
+      "question_type": 5,
+      "question_category": 2
+    }
+  },
+  {
+    "model": "matching.question",
+    "pk": 37,
+    "fields": {
+      "created_at": "2020-01-21T11:28:39.003",
+      "updated_at": "2020-01-21T11:28:39.003",
+      "entrepreneur_question": "What plans do you have to make strategic hires in the next six to twelve months?",
+      "resource_question": "What plans do you have to make strategic hires in the next six to twelve months?",
+      "ttl": "365 00:00:00",
+      "slug": "Team_Hires",
+      "short_name": "Team_Hires",
+      "question_type": 5,
+      "question_category": 2
+    }
+  },
+  {
+    "model": "matching.question",
+    "pk": 38,
+    "fields": {
+      "created_at": "2020-01-21T11:30:19.441",
+      "updated_at": "2020-02-25T08:55:45.173",
+      "entrepreneur_question": "Is anyone on your founding team the first generation in their family to attend college?",
+      "resource_question": "Are you looking for teams with first generation college graduates?",
+      "ttl": "365 00:00:00",
+      "slug": "Team_1stGenCollege",
+      "short_name": "Team_1stGenCollege",
+      "question_type": 2,
+      "question_category": 2
+    }
+  },
+  {
+    "model": "matching.question",
+    "pk": 39,
+    "fields": {
+      "created_at": "2020-01-21T11:32:32.752",
+      "updated_at": "2020-01-21T11:32:32.752",
+      "entrepreneur_question": "How do customers hear about your product and decide to purchase it?",
+      "resource_question": "How do customers hear about your product and decide to purchase it?",
+      "ttl": "365 00:00:00",
+      "slug": "ValueProp_PurchaseDecision",
+      "short_name": "ValueProp_PurchaseDecision",
+      "question_type": 5,
+      "question_category": 9
+    }
+  },
+  {
+    "model": "matching.question",
+    "pk": 40,
+    "fields": {
+      "created_at": "2020-01-21T11:34:13.229",
+      "updated_at": "2020-02-25T09:41:29.358",
+      "entrepreneur_question": "Which best describes the stage of development of your product or service?",
+      "resource_question": "Which stages of development of their product or service are you looking for?",
+      "ttl": "365 00:00:00",
+      "slug": "Product_Stage",
+      "short_name": "Product_Stage",
+      "question_type": 2,
+      "question_category": 3
+    }
+  },
+  {
+    "model": "matching.question",
+    "pk": 41,
+    "fields": {
+      "created_at": "2020-01-21T11:36:56.657",
+      "updated_at": "2020-01-21T11:36:56.657",
+      "entrepreneur_question": "Who pays you, how much, and why they are paying for your service?",
+      "resource_question": "Who pays you, how much, and why they are paying for your service?",
+      "ttl": "365 00:00:00",
+      "slug": "BusinessModel_Payer",
+      "short_name": "BusinessModel_Payer",
+      "question_type": 5,
+      "question_category": 6
+    }
+  },
+  {
+    "model": "matching.question",
+    "pk": 42,
+    "fields": {
+      "created_at": "2020-01-21T11:42:18.268",
+      "updated_at": "2020-01-27T15:25:21.856",
+      "entrepreneur_question": "Please list founders and their respective equity percentages.",
+      "resource_question": "Please list founders and their respective equity percentages.",
+      "ttl": "365 00:00:00",
+      "slug": "Exit_Founder_Equity",
+      "short_name": "Exit_Founder_Equity",
+      "question_type": 5,
+      "question_category": 4
+    }
+  },
+  {
+    "model": "matching.question",
+    "pk": 43,
+    "fields": {
+      "created_at": "2020-01-21T11:47:00.691",
+      "updated_at": "2020-01-27T13:48:37.951",
+      "entrepreneur_question": "Please list any startup programs that you have participated in (accelerators, competitions, etc.)",
+      "resource_question": "Please list any startup programs that you have participated in (accelerators, competitions, etc.)",
+      "ttl": "365 00:00:00",
+      "slug": "Team_Programs",
+      "short_name": "Team_Programs",
+      "question_type": 5,
+      "question_category": 2
+    }
+  },
+  {
+    "model": "matching.question",
+    "pk": 44,
+    "fields": {
+      "created_at": "2020-01-21T11:48:08.374",
+      "updated_at": "2020-01-21T11:48:08.374",
+      "entrepreneur_question": "Is there anything else you\u2019d like us to know about your company?",
+      "resource_question": "Is there anything else you\u2019d like us to know about your company?",
+      "ttl": "365 00:00:00",
+      "slug": "AdditionalInfo",
+      "short_name": "AdditionalInfo",
+      "question_type": 5,
+      "question_category": 9
+    }
+  },
+  {
+    "model": "matching.question",
+    "pk": 46,
+    "fields": {
+      "created_at": "2020-01-21T12:44:47.829",
+      "updated_at": "2020-01-27T15:39:05.033",
+      "entrepreneur_question": "How much funding have you raised to date? List investments, debt, and grants by rounds and amounts.",
+      "resource_question": "How much funding have you raised to date? List investments, debt, and grants by rounds and amounts.",
+      "ttl": "365 00:00:00",
+      "slug": "Exit_Funding_Description",
+      "short_name": "Exit_Funding_Description",
+      "question_type": 5,
+      "question_category": 4
+    }
+  },
+  {
+    "model": "matching.question",
+    "pk": 47,
+    "fields": {
+      "created_at": "2020-01-21T12:46:43.366",
+      "updated_at": "2020-02-25T08:50:40.972",
+      "entrepreneur_question": "How much revenue have you earned to date? (USD)",
+      "resource_question": "How much revenue is it ideal for the company to have earned to date?",
+      "ttl": "365 00:00:00",
+      "slug": "BusinessModel_Revenue_ToDate",
+      "short_name": "BusinessModel_Revenue_ToDate",
+      "question_type": 6,
+      "question_category": 6
+    }
+  },
+  {
+    "model": "matching.question",
+    "pk": 48,
+    "fields": {
+      "created_at": "2020-01-27T12:18:00.810",
+      "updated_at": "2020-01-27T15:34:17.857",
+      "entrepreneur_question": "What do you and your team want to achieve as a result of  participating in this program?",
+      "resource_question": "What do you and your team want to achieve as a result of  participating in this program?",
+      "ttl": "1000 00:00:00",
+      "slug": "Custom_UBS_Program_Benefit",
+      "short_name": "Custom_UBS_Program_Benefit",
+      "question_type": 5,
+      "question_category": 2
+    }
+  },
+  {
+    "model": "matching.question",
+    "pk": 49,
+    "fields": {
+      "created_at": "2020-01-27T12:30:09.873",
+      "updated_at": "2020-01-27T12:30:09.873",
+      "entrepreneur_question": "Describe your total addressable market (the total market you can address in the next 5 - 10 years).",
+      "resource_question": "Describe your total addressable market (the total market you can address in the next 5 - 10 years).",
+      "ttl": "365 00:00:00",
+      "slug": "Market_TAM",
+      "short_name": "Market_TAM",
+      "question_type": 5,
+      "question_category": 10
+    }
+  },
+  {
+    "model": "matching.question",
+    "pk": 50,
+    "fields": {
+      "created_at": "2020-01-27T12:35:02.265",
+      "updated_at": "2020-01-27T12:37:57.548",
+      "entrepreneur_question": "Describe your current market and its size (the market you can target over the next 2 years).",
+      "resource_question": "Describe your current market and its size (the market you can target over the next 2 years).",
+      "ttl": "365 00:00:00",
+      "slug": "Market_CurrentMarket_Description",
+      "short_name": "Market_CurrentMarket_Description",
+      "question_type": 5,
+      "question_category": 10
+    }
+  },
+  {
+    "model": "matching.question",
+    "pk": 51,
+    "fields": {
+      "created_at": "2020-01-27T12:45:39.656",
+      "updated_at": "2020-01-27T15:54:49.900",
+      "entrepreneur_question": "Upload your pitch deck at the following URL & include your file name below. http://bit.ly/37yHtCq",
+      "resource_question": "Upload your pitch deck at the following URL & include your file name below. http://bit.ly/37yHtCq",
+      "ttl": "365 00:00:00",
+      "slug": "Documents_Pitch_Deck",
+      "short_name": "Documents_Pitch_Deck",
+      "question_type": 5,
+      "question_category": 11
+    }
+  },
+  {
+    "model": "matching.question",
+    "pk": 52,
+    "fields": {
+      "created_at": "2020-01-27T12:55:52.051",
+      "updated_at": "2020-01-27T12:56:04.438",
+      "entrepreneur_question": "(Optional) Upload a pitch or demo video. Paste the filename or write N/A. http://bit.ly/2GqRbeh",
+      "resource_question": "(Optional) Upload a pitch or demo video. Paste the filename or write N/A. http://bit.ly/2GqRbeh",
+      "ttl": "1000 00:00:00",
+      "slug": "Documents_Pitch_Video",
+      "short_name": "Documents_Pitch_Video",
+      "question_type": 5,
+      "question_category": 11
+    }
+  },
+  {
+    "model": "matching.question",
+    "pk": 53,
+    "fields": {
+      "created_at": "2020-01-27T13:00:07.815",
+      "updated_at": "2020-02-04T09:16:03.340",
+      "entrepreneur_question": "Please enter your phone number.",
+      "resource_question": "Please enter your phone number.",
+      "ttl": "1000 00:00:00",
+      "slug": "Phone",
+      "short_name": "Phone",
+      "question_type": 5,
+      "question_category": 11
+    }
+  },
+  {
+    "model": "matching.question",
+    "pk": 54,
+    "fields": {
+      "created_at": "2020-01-27T13:49:26.133",
+      "updated_at": "2020-01-27T13:49:26.134",
+      "entrepreneur_question": "How did you hear about Project Entrepreneur?",
+      "resource_question": "How did you hear about Project Entrepreneur?",
+      "ttl": "10000 00:00:00",
+      "slug": "Custom_UBS_Source",
+      "short_name": "Custom_UBS_Source",
+      "question_type": 5,
+      "question_category": 11
+    }
+  },
+  {
+    "model": "matching.question",
+    "pk": 55,
+    "fields": {
+      "created_at": "2020-01-27T13:57:40.901",
+      "updated_at": "2020-01-27T13:57:40.901",
+      "entrepreneur_question": "When was your company founded?",
+      "resource_question": "When was your company founded?",
+      "ttl": "1000 00:00:00",
+      "slug": "General_FoundingDate",
+      "short_name": "General_FoundingDate",
+      "question_type": 7,
+      "question_category": 11,
+      "profile_field": 1
+    }
+  },
+  {
+    "model": "matching.question",
+    "pk": 56,
+    "fields": {
+      "created_at": "2020-01-27T15:36:16.570",
+      "updated_at": "2020-01-27T15:36:16.571",
+      "entrepreneur_question": "Why is training on access to capital and investment readiness crucial to your company's success now?",
+      "resource_question": "Why is training on access to capital and investment readiness crucial to your company's success now?",
+      "ttl": "1000 00:00:00",
+      "slug": "Team_Training_Need",
+      "short_name": "Team_Training_Need",
+      "question_type": 5,
+      "question_category": 2
+    }
+  },
+  {
+    "model": "matching.question",
+    "pk": 57,
+    "fields": {
+      "created_at": "2020-01-27T15:42:25.478",
+      "updated_at": "2020-02-25T08:49:21.351",
+      "entrepreneur_question": "How much revenue do you project to earn in the next 12 months?  (USD)",
+      "resource_question": "How much revenue should the company project to earn in the next 12 months?",
+      "ttl": "365 00:00:00",
+      "slug": "BusinessModel_Revenue_12MonthProjections",
+      "short_name": "BusinessModel_Revenue_12MonthProjections",
+      "question_type": 6,
+      "question_category": 6
+    }
+  },
+  {
+    "model": "matching.question",
+    "pk": 58,
+    "fields": {
+      "created_at": "2020-01-27T15:44:57.034",
+      "updated_at": "2020-01-27T15:44:57.034",
+      "entrepreneur_question": "Describe your market opportunity, how many customers are there and what is the market worth?",
+      "resource_question": "Describe your market opportunity, how many customers are there and what is the market worth?",
+      "ttl": "365 00:00:00",
+      "slug": "Market_Opportunity",
+      "short_name": "Market_Opportunity",
+      "question_type": 5,
+      "question_category": 10
+    }
+  },
+  {
+    "model": "matching.question",
+    "pk": 59,
+    "fields": {
+      "created_at": "2020-01-28T12:40:22.161",
+      "updated_at": "2020-01-28T12:40:22.161",
+      "entrepreneur_question": "Please provide a one sentence description of your company.",
+      "resource_question": "Please provide a one sentence description of your company.",
+      "ttl": "365 00:00:00",
+      "slug": "General_ShortDescription",
+      "short_name": "General_ShortDescription",
+      "question_type": 5,
+      "question_category": 11,
+      "profile_field": 2
+    }
+  },
+  {
+    "model": "matching.question",
+    "pk": 60,
+    "fields": {
+      "created_at": "2020-01-28T12:46:11.454",
+      "updated_at": "2020-02-10T12:09:09.036",
+      "entrepreneur_question": "How much capital have you raised to date? (USD)",
+      "resource_question": "How much capital would you like them to have raised to date?",
+      "ttl": "365 00:00:00",
+      "slug": "Exit_CapitalRaised",
+      "short_name": "Exit_CapitalRaised",
+      "question_type": 6,
+      "question_category": 4
+    }
+  },
+  {
+    "model": "matching.question",
+    "pk": 61,
+    "fields": {
+      "created_at": "2020-01-28T13:16:31.528",
+      "updated_at": "2020-01-28T13:16:31.528",
+      "entrepreneur_question": "How did you hear about this program?",
+      "resource_question": "How did you hear about this program?",
+      "ttl": "1000 00:00:00",
+      "slug": "Custom_VilCap_Source",
+      "short_name": "Custom_VilCap_Source",
+      "question_type": 5,
+      "question_category": 11
+    }
+  },
+  {
+    "model": "matching.question",
+    "pk": 62,
+    "fields": {
+      "created_at": "2020-01-28T13:26:27.133",
+      "updated_at": "2020-01-28T13:26:27.133",
+      "entrepreneur_question": "For any additional info you\u2019d like to share (e.g. pitch deck, demo video) include a link or write NA",
+      "resource_question": "For any additional info you\u2019d like to share (e.g. pitch deck, demo video) include a link or write NA",
+      "ttl": "365 00:00:00",
+      "slug": "General_DocumentLink",
+      "short_name": "General_DocumentLink",
+      "question_type": 5,
+      "question_category": 11
+    }
+  },
+  {
+    "model": "matching.question",
+    "pk": 63,
+    "fields": {
+      "created_at": "2020-02-24T08:46:30.091",
+      "updated_at": "2020-02-24T08:46:30.091",
+      "entrepreneur_question": "What countries do you operate in?",
+      "resource_question": "What countries are you interested in them operating in?",
+      "ttl": "365 00:00:00",
+      "slug": "Scale_Countries_of_Operation",
+      "short_name": "Scale_Countries_of_Operation",
+      "question_type": 5,
+      "question_category": 5
+    }
+  },
+  {
+    "model": "matching.question",
+    "pk": 64,
+    "fields": {
+      "created_at": "2020-02-24T08:58:26.851",
+      "updated_at": "2020-02-24T08:58:26.851",
+      "entrepreneur_question": "Type of organization",
+      "resource_question": "What types of organizations are you interested in?",
+      "ttl": "1000 00:00:00",
+      "slug": "BM_Organization_Type",
+      "short_name": "BM_Organization_Type",
+      "question_type": 2,
+      "question_category": 6
+    }
+  },
+  {
+    "model": "matching.question",
+    "pk": 65,
+    "fields": {
+      "created_at": "2020-03-04T15:28:26.240",
+      "updated_at": "2020-03-04T15:28:26.240",
+      "entrepreneur_question": "Are any of your founders military veterans?",
+      "resource_question": "Are you looking for founders that are military veterans?",
+      "ttl": "1000 00:00:00",
+      "slug": "Team_Veterans",
+      "short_name": "Team_Veterans",
+      "question_type": 2,
+      "question_category": 2
+    }
+  },
+  {
+    "model": "matching.question",
+    "pk": 66,
+    "fields": {
+      "created_at": "2020-03-31T09:24:12.282",
+      "updated_at": "2020-03-31T09:26:30.304",
+      "entrepreneur_question": "How is your business helping to solve the health, social, or economic challenges created by COVID19?",
+      "resource_question": "What kinds of solutions related to COVID 19 are you interested in?",
+      "ttl": "120 00:00:00",
+      "slug": "COVID19_Description",
+      "short_name": "COVID19_Description",
+      "question_type": 5,
+      "question_category": 7
+    }
+  }
+]

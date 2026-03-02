@@ -1,0 +1,40 @@
+# OS generated
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*~
+
+# Package manager
+/node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE
+.idea/
+*.iml
+
+# Python
+*.pyc
+*.pyo
+venv/
+.venv/
+
+# Aldryn
+/.env
+/.env-local
+.aldryn
+/data
+/data.tar.gz
+/static_collected
+
+# Django all-auth emails
+/tmp
+
+# Fixture save point
+database_savepoint.json
+client_secret_development.json client_secret.json

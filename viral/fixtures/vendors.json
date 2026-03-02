@@ -1,0 +1,12 @@
+[
+  {
+    "model": "viral.vendor",
+    "pk": 1,
+    "fields": {
+      "created_at": "2019-05-31T12:21:59.005",
+      "updated_at": "2019-05-31T12:21:59.005",
+      "name": "Pixelmatters Vendor",
+      "uuid": 12345678
+    }
+  }
+]

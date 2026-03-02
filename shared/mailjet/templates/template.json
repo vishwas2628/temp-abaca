@@ -1,0 +1,45 @@
+{
+    "website": "https://my.abaca.app",
+    "copyright": "COPYRIGHT",
+    "assets": "http://assets.abaca.app",
+    
+    "receiverTip": {
+      "start": "This message was sent to",
+      "end": "If this email isn’t yours, simply ignore this message."
+    },
+  
+    "logo": {
+      "src": "logo--white@2x.png",
+      "alt": ""
+    },
+    
+    "social": [
+      {
+        "link": "https://www.linkedin.com/company/village-capital",
+        "icon": {
+          "src": "icon-linkedin@2x.png",
+          "alt": "Linkedin icon"
+        }
+      },
+      {
+        "link": "https://www.facebook.com/villagecapital",
+        "icon": {
+          "src": "icon-facebook@2x.png",
+          "alt": "Facebook icon"
+        }
+      }
+    ],
+  
+    "legal": [
+      {
+        "index": 0,
+        "link": "https://vilcap.com/privacy/",
+        "copy": "Privacy Policy"
+      },
+      {
+        "index": 1,
+        "link": "https://vilcap.com/terms-and-conditions/",
+        "copy": "Terms of Service"
+      }
+    ]
+  }

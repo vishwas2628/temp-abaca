@@ -1,0 +1,110 @@
+[
+  {
+    "model": "matching.supporteroffering",
+    "pk": 3,
+    "fields": {
+      "created_at": "2019-05-31T15:41:02.877",
+      "updated_at": "2019-05-31T15:47:11.932",
+      "description": "We invest in companies that participate in our accelerator program via our affiliated fund VilCap Investments. We invest via convertible debt, equity, debt, and revenue share depending on what best suits the company and local regulations.",
+      "category": 2,
+      "supporter": 1,
+      "types": [
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  },
+  {
+    "model": "matching.supporteroffering",
+    "pk": 4,
+    "fields": {
+      "created_at": "2019-05-31T15:52:23.166",
+      "updated_at": "2019-05-31T15:52:23.166",
+      "description": "We offer a venture development and investment readiness program which trains entrepreneurs to think like an investor and attract capital.",
+      "category": 1,
+      "supporter": 1,
+      "types": []
+    }
+  },
+  {
+    "model": "matching.supporteroffering",
+    "pk": 31,
+    "fields": {
+      "created_at": "2019-08-08T13:02:47.264",
+      "updated_at": "2019-08-08T13:02:47.264",
+      "description": "Free Business Advising to people interested in starting or growing a business in Maine.",
+      "category": 3,
+      "supporter": 2,
+      "types": []
+    }
+  },
+  {
+    "model": "matching.supporteroffering",
+    "pk": 32,
+    "fields": {
+      "created_at": "2019-08-08T13:04:21.053",
+      "updated_at": "2019-08-08T13:04:21.053",
+      "description": "Term loans from $1,000-$500,000 and equity investments (see profile of CEI Ventures Inc.",
+      "category": 2,
+      "supporter": 2,
+      "types": [
+        2,
+        3
+      ]
+    }
+  },
+  {
+    "model": "matching.supporteroffering",
+    "pk": 33,
+    "fields": {
+      "created_at": "2019-08-08T13:04:51.222",
+      "updated_at": "2019-08-08T13:04:51.222",
+      "description": "Workshops for entrepreneurs, see listing at www.ceimaine.org",
+      "category": 1,
+      "supporter": 2,
+      "types": []
+    }
+  },
+  {
+    "model": "matching.supporteroffering",
+    "pk": 38,
+    "fields": {
+      "created_at": "2019-08-17T20:16:26.391",
+      "updated_at": "2019-08-17T20:16:51.005",
+      "description": "",
+      "category": 1,
+      "supporter": 3,
+      "types": [
+        5
+      ]
+    }
+  },
+  {
+    "model": "matching.supporteroffering",
+    "pk": 39,
+    "fields": {
+      "created_at": "2019-08-17T20:16:27.829",
+      "updated_at": "2019-08-17T20:16:27.829",
+      "description": "",
+      "category": 3,
+      "supporter": 3,
+      "types": []
+    }
+  },
+  {
+    "model": "matching.supporteroffering",
+    "pk": 40,
+    "fields": {
+      "created_at": "2019-08-17T20:16:30.652",
+      "updated_at": "2019-08-17T20:16:30.652",
+      "description": "",
+      "category": 2,
+      "supporter": 3,
+      "types": [
+        6
+      ]
+    }
+  }
+]

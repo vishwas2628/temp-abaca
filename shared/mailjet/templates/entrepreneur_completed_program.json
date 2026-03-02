@@ -1,0 +1,73 @@
+{
+  "subject": "Completed Affiliate Program",
+  "content": {
+    "title": "Thanks for Submitting!",
+    "message": "Hi {company_name}, thanks for submitting your information to <b>{affiliate_name}</b> via Abaca!",
+    "subtitle": "We'd love to invite you to join Abaca as a member.",
+    "teaser": "Abaca is <b>100% free for entrepreneurs!</b>",
+    "features": {
+      "title": "On Abaca you can:",
+      "list": [
+        {
+          "icon": {
+            "src": "green-check@2x.png",
+            "alt": "Green check"
+          },
+          "content": {
+            "text": "Get a detailed report on your company's investment readiness"
+          }
+        },
+        {
+          "icon": {
+            "src": "green-check@2x.png",
+            "alt": "Green check"
+          },
+          "content": {
+            "text": "Plan your next milestones to unlock more capital"
+          }
+        },
+        {
+          "icon": {
+            "src": "green-check@2x.png",
+            "alt": "Green check"
+          },
+          "content": {
+            "text": "Learn to speak investor and break down barriers"
+          }
+        },
+        {
+          "icon": {
+            "src": "green-check@2x.png",
+            "alt": "Green check"
+          },
+          "content": {
+            "text": "Match with investors and support organizations that are a good fit for you"
+          }
+        }
+      ]
+    },
+    "farewell": "Can't wait to have you onboard!",
+    "signature": "Best regards,<br> <i>The Abaca Team</i>",
+    "modules": {
+      "company": {
+        "title": "Your Investment Readiness Summary",
+        "sector": "Sector",
+        "viralLevel": "Your Venture Investment Level:"
+      },
+      "assessment": {
+        "title": "Assessment Details"
+      }
+    }
+  },
+
+  "button": {
+    "join": {
+      "text": "Join us for free",
+      "link": "URL_WITH_HASH_TO_SIGNUP_A_RECOVERED_USER"
+    },
+    "submission": {
+      "text": "Review your submission",
+      "link": "URL_WITH_HASH_TO_SIGNUP_A_RECOVERED_USER"
+    }
+  }
+}

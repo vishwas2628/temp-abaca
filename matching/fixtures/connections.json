@@ -1,0 +1,80 @@
+[
+  {
+    "model": "matching.interestedcta",
+    "pk": 1,
+    "fields": {
+      "created_at": "2019-02-19T08:38:23.122",
+      "updated_at": "2019-02-19T08:38:23.122",
+      "supporter": 42,
+      "entrepreneur": 1,
+      "supporter_is_interested": 0,
+      "entrepreneur_is_interested": 1,
+      "state_of_interest": 1
+    }
+  },
+  {
+    "model": "matching.interestedcta",
+    "pk": 2,
+    "fields": {
+      "created_at": "2019-02-20T08:38:23.122",
+      "updated_at": "2019-02-20T08:38:23.122",
+      "supporter": 43,
+      "entrepreneur": 1,
+      "supporter_is_interested": 0,
+      "entrepreneur_is_interested": 1,
+      "state_of_interest": 1
+    }
+  },
+  {
+    "model": "matching.interestedcta",
+    "pk": 3,
+    "fields": {
+      "created_at": "2019-02-21T08:38:23.122",
+      "updated_at": "2019-02-21T08:38:23.122",
+      "supporter": 44,
+      "entrepreneur": 1,
+      "supporter_is_interested": 1,
+      "entrepreneur_is_interested": 0,
+      "state_of_interest": 1
+    }
+  },
+  {
+    "model": "matching.interestedcta",
+    "pk": 4,
+    "fields": {
+      "created_at": "2019-02-22T08:38:23.122",
+      "updated_at": "2019-02-22T08:38:23.122",
+      "supporter": 45,
+      "entrepreneur": 1,
+      "supporter_is_interested": 1,
+      "entrepreneur_is_interested": 0,
+      "state_of_interest": 1
+    }
+  },
+  {
+    "model": "matching.interestedcta",
+    "pk": 5,
+    "fields": {
+      "created_at": "2019-02-23T08:38:23.122",
+      "updated_at": "2019-02-23T08:38:23.122",
+      "supporter": 46,
+      "entrepreneur": 1,
+      "supporter_is_interested": 1,
+      "entrepreneur_is_interested": 1,
+      "state_of_interest": 2
+    }
+  },
+  {
+    "model": "matching.interestedcta",
+    "pk": 6,
+    "fields": {
+      "created_at": "2019-02-24T08:38:23.122",
+      "updated_at": "2019-02-24T08:38:23.122",
+      "supporter": 47,
+      "entrepreneur": 1,
+      "supporter_is_interested": 1,
+      "entrepreneur_is_interested": 1,
+      "state_of_interest": 2
+    }
+  }
+]

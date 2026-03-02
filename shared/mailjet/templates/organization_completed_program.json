@@ -1,0 +1,51 @@
+{
+  "subject": "Completed Affiliate Program",
+  "content": {
+    "title": "Thanks for Submitting!",
+    "message": "Hi {company_name}, thanks for sharing more about your organisation!",
+    "subtitle": "We are reviewing all interested organisations and will be in touch with next steps.",
+    "teaser": "",
+    "features": {
+      "title": "On Small Foundation you can:",
+      "list": [
+        {
+          "icon": {
+            "src": "green-check@2x.png",
+            "alt": "Green check"
+          },
+          "content": {
+            "text": "Get a detailed report on your company's investment readiness"
+          }
+        },
+        {
+          "icon": {
+            "src": "green-check@2x.png",
+            "alt": "Green check"
+          },
+          "content": {
+            "text": "Plan your next milestones to unlock more capital"
+          }
+        },
+        {
+          "icon": {
+            "src": "green-check@2x.png",
+            "alt": "Green check"
+          },
+          "content": {
+            "text": "Learn to speak investor and break down barriers"
+          }
+        },
+        {
+          "icon": {
+            "src": "green-check@2x.png",
+            "alt": "Green check"
+          },
+          "content": {
+            "text": "Match with investors and support organizations that are a good fit for you"
+          }
+        }
+      ]
+    },
+    "signature": "Kind regards,<br> <i>Small Foundation</i>"
+  }
+}

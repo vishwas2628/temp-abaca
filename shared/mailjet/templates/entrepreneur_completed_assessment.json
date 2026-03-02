@@ -1,0 +1,31 @@
+{
+  "subject": "Your Venture Investment Level COMPANY_ASSESSMENT_LEVEL - LEVEL_NAME",
+  "content": {
+    "titleStart": "Assessment",
+    "titleEnd": "Completed",
+    "message": "Congrats <b>COMPANY_NAME</b>! Your assessment was submitted successfully.<br> You are a <b>Level COMPANY_ASSESSMENT_LEVEL</b> company!",
+    "modules": {
+      "company": {
+        "title": "Your Company Info",
+        "sector": "Sector",
+        "website": "Website",
+        "email": "Email",
+        "foundedDate": "Founded Date",
+        "about": "About",
+        "viralLevel": "Your Viral Level:"
+      },
+      "assessment": {
+        "title": "Assessment Details",
+        "button": {
+          "text": "See Assessment",
+          "link": "COMPANY_PROFILE_LINK"
+        }
+      }
+    }
+  },
+
+  "button": {
+    "text": "Check your profile",
+    "link": "COMPANY_PROFILE_LINK"
+  }
+}

@@ -1,0 +1,13 @@
+[
+  {
+    "model": "viral.userguest",
+    "pk": 1,
+    "fields": {
+      "uid": "r0w3rp6m",
+      "created_at": "2021-03-15T05:01:52",
+      "updated_at": "2021-03-15T05:01:52",
+      "name": "Andrew Hoobs",
+      "email": "hello@andrew.com"
+    }
+  }
+]

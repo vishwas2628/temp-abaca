@@ -1,0 +1,76 @@
+version: "2.1"
+
+services:
+  web:
+    build: "."
+    container_name: viral-api
+    depends_on:
+      postgres:
+        condition: service_healthy
+      rabbitmq:
+        condition: service_started
+      celeryworker:
+        condition: service_started
+      celerybeat:
+        condition: service_started
+    links:
+      - "postgres"
+    ports:
+      - "8080:80"
+    volumes:
+      - ".:/app:rw"
+      - "./data:/data:rw"
+      - "./docker/nginx.conf.template:/etc/nginx/nginx.conf.template:rw"
+    # command: start web # only for Divio debugging purposes
+    command: python manage.py runserver 0.0.0.0:80 # only for development purposes
+    env_file: .env-local
+
+  postgres:
+    image: postgres:13-alpine
+    container_name: viral-db
+    environment:
+      POSTGRES_DB: "db"
+      POSTGRES_HOST_AUTH_METHOD: trust
+      PGDATA: "/var/lib/postgresql/data/pgdata"
+    ports:
+      - "5432:5432"
+    volumes:
+      - "./data/db:/var/lib/postgresql/data:rw"
+    healthcheck:
+      test: nc -z localhost 5432
+
+  rabbitmq:
+    image: rabbitmq:3.9
+    hostname: rabbitmq
+    ports:
+      - "15672:15672"
+    expose:
+      - "15672"
+    environment:
+      DEBUG: False
+
+  celeryworker:
+    build: "."
+    links:
+      - "postgres:postgres"  # the actual value will depend on your project's database
+      - "rabbitmq:rabbitmq"
+    volumes:
+      - ".:/app:rw"
+      - "./data:/data:rw"
+    command: aldryn-celery worker
+    environment:
+      DEBUG: False
+    env_file: .env-local
+
+  celerybeat:
+    build: "."
+    links:
+      - "postgres:postgres"  # the actual value will depend on your project's database
+      - "rabbitmq:rabbitmq"
+    volumes:
+      - ".:/app:rw"
+      - "./data:/data:rw"
+    command: aldryn-celery beat
+    environment:
+      DEBUG: False
+    env_file: .env-local

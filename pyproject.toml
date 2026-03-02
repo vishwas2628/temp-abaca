@@ -1,0 +1,56 @@
+[tool.poetry]
+name = "abaca-api"
+version = "1.29.3"
+package-mode = false
+description = "poetry file for packages dependencies"
+authors = ["João Bernardino <joaobernardino@wearepixelmatters.com>"]
+
+[tool.poetry.dependencies]
+python = "3.9.6"
+aldryn-addons = "2.1.0"
+aldryn-django = "2.2.27.0"
+python-dotenv = "^0.21.0"
+django-modeltranslation = "^0.17"
+django-cors-headers = "^2"
+djangorestframework = "~3.10.0"
+django-allauth = "^0.52.0"
+django-rest-auth = "^0.9.5"
+django-admin-sortable = "2.1.18"
+django-watson = "^1.6.2"
+django-markdownx = "^2"
+gspread = "^5.7.2"
+oauth2client = "^4.1.3"
+django-tinymce4-lite = "^1.8.0"
+django-sortedm2m = "^2"
+django-better-admin-arrayfield = "^1.4.2"
+django-easy-select2 = "^1.5.8"
+python-slugify = "^7.0.0"
+django-simple-history = "~3.0"
+bugsnag = "^4.3.0"
+jsonschema = "^4.17.3"
+mailjet-rest = "^1.3.4"
+coreapi = "^2.3.3"
+django-weasyprint = "^0"
+djangorestframework-csv = "^2.1.1"
+jet-django = "^1.5.6"
+chargebee = "^2"
+factory-boy = "^3.3.0"
+
+[tool.poetry.group.dev.dependencies]
+django-debug-toolbar = "~3.2"
+faker = "^16.3.0"
+django-silk = "^4"
+ipython = "7.34.0"
+django-extensions = "^3.1"
+black = "^22.12.0"
+isort = "^5.11.4"
+
+[tool.black]
+line-length = 120
+skip-string-normalization = true
+
+[tool.pyright]
+venvPath = "."
+venv = "venv"
+typechecking-mode = "strict"
+ignore = ["static", "addons", "addons-dev"]

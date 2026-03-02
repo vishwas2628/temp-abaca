@@ -1,0 +1,113 @@
+<input type="text" id="google-places" placeholder="Search for location...">
+
+<script>
+// Get an address components based on the given types. 
+const getAddressComponent = (components, types) => {
+  const addressComponents = {
+    // Helper method to fetch address props
+    get(prop, key) {
+      return prop in this && !!this[prop]
+        ? this[prop][key || "long_name"]
+        : "";
+    },
+  };
+
+  types.forEach((type) => {
+    const component = components.find((e) => e.types.includes(type));
+    addressComponents[type] = component || null;
+  });
+
+  return addressComponents;
+};
+
+// Map continents list from context 
+// since Google Places does not provide continents 
+const GEO_COUNTRIES_CONTINENTS = {{ continents }};
+const getContinentByCountry = components => {
+  const country = components.find((e) => e.types.includes("country"));
+
+  return country.short_name in GEO_COUNTRIES_CONTINENTS
+    ? GEO_COUNTRIES_CONTINENTS[country.short_name]
+    : "";
+};
+
+// Format result from Google Place to Location fields
+const formatGooglePlace = place => {
+  const address = getAddressComponent(place.address_components, [
+    "continent",
+    "country",
+    "administrative_area_level_1",
+    "administrative_area_level_2",
+    "locality",
+  ]);
+  const addressRegion =
+    address.get("administrative_area_level_1") ||
+    address.get("administrative_area_level_2");
+  const addressRegionAbbreviation =
+    address.get("administrative_area_level_1", "short_name") ||
+    address.get("administrative_area_level_2", "short_name");
+
+  return {
+    formatted_address: place.formatted_address,
+    latitude: place.geometry.location.lat(),
+    longitude: place.geometry.location.lng(),
+    continent:
+      address.get("continent") ||
+      getContinentByCountry(place.address_components),
+    country: address.get("country"),
+    region: addressRegion,
+    region_abbreviation:
+      addressRegionAbbreviation !== addressRegion
+        ? addressRegionAbbreviation
+        : "",
+    city: address.get("locality"),
+  };
+};
+
+var onLoaded = function() {
+  const populating_fields = [
+    'formatted_address', 
+    'latitude', 
+    'longitude', 
+    'city', 
+    'region', 
+    'region_abbreviation', 
+    'country', 
+    'continent'
+  ];
+  const location_form = document.getElementById('location_form');
+  const location_input = document.getElementById('google-places');
+  const autocomplete = new google.maps.places.Autocomplete(location_input);
+
+  autocomplete.addListener('place_changed', () => {
+    const place = autocomplete.getPlace();
+
+    // When the place lacks geometry or address components
+    // it means the place doesn't exist.
+    if (!place.geometry || !place.address_components) {
+      return;
+    }
+
+    // Get formatted results for location fields
+    const location = formatGooglePlace(place);
+    
+    // Populate location fields
+    populating_fields.forEach(field => {
+      if (field in location) {
+        document.getElementById('id_' + field).value = location[field];
+      }
+    });
+    
+    // Empty search after selection
+    location_input.value = '';
+  });
+
+  // Disable form submission when pressing enter
+  location_form.addEventListener("keydown", event => {
+    if (event.keyCode === 13) {
+      event.preventDefault();
+    }
+  });
+}
+</script>
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key={{ key }}&libraries=places&callback=onLoaded" async defer></script>

@@ -1,0 +1,30 @@
+{
+  "subject": "Recover user",
+  "content": {
+    "title": "Hello,",
+    "message": "It’s been a while since we don’t hear from you! We’ve got good news!<br> You can now <b>create your account to save your level</b> and <b>get connected with Investors!</b>",
+    "farewell": "Can't wait to have you onboard!",
+    "signature": "Best regards,<br> <i>The Abaca Team</i>",
+    "modules": {
+      "company": {
+        "title": "Your Company Info",
+        "sector": "Sector",
+        "viralLevel": "Your Viral Level:"
+      },
+      "assessment": {
+        "title": "Assessment Details"
+      }
+    }
+  },
+
+  "button": {
+    "join": {
+      "text": "Join us for free",
+      "link": "URL_WITH_HASH_TO_SIGNUP_A_RECOVERED_USER"
+    },
+    "sign": {
+      "text": "Sign up to save your company info",
+      "link": "URL_WITH_HASH_TO_SIGNUP_A_RECOVERED_USER"
+    }
+  }
+  }

@@ -1,0 +1,52 @@
+[
+  {
+    "model": "matching.criteriaweight",
+    "pk": 1,
+    "fields": {
+      "created_at": "2019-02-08T10:36:15.653",
+      "updated_at": "2019-02-08T10:36:15.653",
+      "name": "Irrelevant",
+      "value": 0
+    }
+  },
+  {
+    "model": "matching.criteriaweight",
+    "pk": 2,
+    "fields": {
+      "created_at": "2019-02-08T10:36:37.546",
+      "updated_at": "2019-02-08T10:36:37.546",
+      "name": "A Little Important",
+      "value": 1
+    }
+  },
+  {
+    "model": "matching.criteriaweight",
+    "pk": 3,
+    "fields": {
+      "created_at": "2019-02-08T10:36:54.916",
+      "updated_at": "2019-02-08T10:36:54.916",
+      "name": "Somewhat Important",
+      "value": 10
+    }
+  },
+  {
+    "model": "matching.criteriaweight",
+    "pk": 4,
+    "fields": {
+      "created_at": "2019-02-08T10:37:12.028",
+      "updated_at": "2019-02-08T10:37:12.028",
+      "name": "Very Important",
+      "value": 50
+    }
+  },
+  {
+    "model": "matching.criteriaweight",
+    "pk": 5,
+    "fields": {
+      "created_at": "2019-02-08T10:37:23.002",
+      "updated_at": "2019-02-08T10:37:23.002",
+      "name": "Extremely Important",
+      "value": 250
+    }
+  }
+]

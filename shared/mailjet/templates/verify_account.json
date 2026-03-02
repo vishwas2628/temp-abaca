@@ -1,0 +1,14 @@
+{
+  "subject": "Verify Account",
+  "content": {
+    "title": "One last step!",
+    "welcome": "Welcome",
+    "advice": "To start using your account, we just need you to verify your account.",
+    "goodbye": "See you on Abaca!",
+    "signature": "Best regards,<br> <i>The Abaca Team</i>"
+  },
+  "button": {
+    "text": "Verify Account",
+    "link": "URL_TO_VERIFY_ACCOUNT"
+  }
+}

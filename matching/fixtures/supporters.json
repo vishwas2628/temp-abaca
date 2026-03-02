@@ -1,0 +1,2553 @@
+[
+  {
+    "model": "matching.supporter",
+    "pk": 1,
+    "fields": {
+      "created_at": "2019-02-08T10:35:17.843",
+      "updated_at": "2019-02-25T12:37:06.306",
+      "name": "Village Capital",
+      "about": "Village Capital finds, trains, and invests in entrepreneurs supporting major global challenges.",
+      "email": "abaca-dev+village-capital@pixelmatters.com",
+      "user_profile": 2,
+      "locations_weight": 1,
+      "sectors_weight": 3,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"4\", \"upper\": \"6\"}",
+      "level_weight": 4,
+      "types": [
+        3,
+        2,
+        1
+      ],
+      "locations": [
+        2,
+        5
+      ],
+      "sectors": [
+        674,
+        598,
+        154,
+        4
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 2,
+    "fields": {
+      "created_at": "2018-05-10 09:39:13",
+      "updated_at": "2018-05-10 09:39:13",
+      "name": "Howe, Flores and Collins",
+      "about": "Seat method effect month source. Moment question myself thousand. Military choose process certainly really.",
+      "email": "abaca-dev+howe-flores-and-collins@pixelmatters.com",
+      "user_profile": 42,
+      "locations_weight": null,
+      "sectors_weight": null,
+      "level_weight": null,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"5\", \"upper\": \"6\"}",
+      "types": [
+        50,
+        9
+      ],
+      "locations": [
+        17
+      ],
+      "sectors": [
+        163,
+        485,
+        486
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 3,
+    "fields": {
+      "created_at": "2018-06-05 11:39:35",
+      "updated_at": "2018-06-05 11:39:35",
+      "name": "Burns, Carson and Porter",
+      "about": "Both letter fight first group. Technology tell himself population but available. For material third.",
+      "email": "abaca-dev+burns-carson-and-porter@pixelmatters.com",
+      "user_profile": 43,
+      "locations_weight": 4,
+      "sectors_weight": 3,
+      "level_weight": null,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"1\", \"upper\": \"6\"}",
+      "types": [
+        13,
+        25
+      ],
+      "locations": [
+        47
+      ],
+      "sectors": [
+        631,
+        297,
+        268
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 4,
+    "fields": {
+      "created_at": "2020-04-10 02:55:45",
+      "updated_at": "2020-04-10 02:55:45",
+      "name": "Peterson PLC",
+      "about": "Go peace hit tonight bed foreign. Factor whom keep human. Sell that body if report day.",
+      "email": "abaca-dev+peterson-plc@pixelmatters.com",
+      "user_profile": 44,
+      "locations_weight": 2,
+      "sectors_weight": null,
+      "level_weight": null,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"2\", \"upper\": \"6\"}",
+      "types": [
+        32,
+        17
+      ],
+      "locations": [
+        31
+      ],
+      "sectors": [
+        521,
+        257,
+        149
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 5,
+    "fields": {
+      "created_at": "2019-12-20 18:49:50",
+      "updated_at": "2019-12-20 18:49:50",
+      "name": "Diaz LLC",
+      "about": "Record can adult. True three institution personal type. Early education never bring social sign.",
+      "email": "abaca-dev+diaz-llc@pixelmatters.com",
+      "user_profile": 45,
+      "locations_weight": 3,
+      "sectors_weight": null,
+      "level_weight": null,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"8\", \"upper\": \"9\"}",
+      "types": [
+        28,
+        42
+      ],
+      "locations": [
+        21
+      ],
+      "sectors": [
+        205,
+        661,
+        415
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 6,
+    "fields": {
+      "created_at": "2019-10-10 06:43:21",
+      "updated_at": "2019-10-10 06:43:21",
+      "name": "Golden, Wilson and Russell",
+      "about": "Those reduce measure sound onto to stage resource. Worry first ball food.",
+      "email": "abaca-dev+golden-wilson-and-russell@pixelmatters.com",
+      "user_profile": 46,
+      "locations_weight": null,
+      "sectors_weight": null,
+      "level_weight": 2,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"2\", \"upper\": \"8\"}",
+      "types": [
+        43,
+        32
+      ],
+      "locations": [
+        42
+      ],
+      "sectors": [
+        241,
+        67,
+        109
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 7,
+    "fields": {
+      "created_at": "2018-05-02 22:51:33",
+      "updated_at": "2018-05-02 22:51:33",
+      "name": "Johnson, Odonnell and Holder",
+      "about": "Real care market avoid now trouble skin. Large stage land represent little. Government at meeting occur reach citizen.",
+      "email": "abaca-dev+johnson-odonnell-and-holder@pixelmatters.com",
+      "user_profile": 47,
+      "locations_weight": null,
+      "sectors_weight": null,
+      "level_weight": 1,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"1\", \"upper\": \"5\"}",
+      "types": [
+        22,
+        11
+      ],
+      "locations": [
+        15
+      ],
+      "sectors": [
+        23,
+        231,
+        93
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 8,
+    "fields": {
+      "created_at": "2019-04-05 12:00:34",
+      "updated_at": "2019-04-05 12:00:34",
+      "name": "Baker-Stephenson",
+      "about": "Arm try benefit sell. Care American boy deal owner nice approach.",
+      "email": "abaca-dev+baker-stephenson@pixelmatters.com",
+      "user_profile": 48,
+      "locations_weight": 3,
+      "sectors_weight": 1,
+      "level_weight": null,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"3\", \"upper\": \"7\"}",
+      "types": [
+        28,
+        9
+      ],
+      "locations": [
+        10
+      ],
+      "sectors": [
+        552,
+        19,
+        226
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 9,
+    "fields": {
+      "created_at": "2018-08-12 02:35:50",
+      "updated_at": "2018-08-12 02:35:50",
+      "name": "Bowman-Torres",
+      "about": "Happen later performance total thought movie probably.",
+      "email": "abaca-dev+bowman-torres@pixelmatters.com",
+      "user_profile": 49,
+      "locations_weight": 3,
+      "sectors_weight": null,
+      "level_weight": 1,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"2\", \"upper\": \"4\"}",
+      "types": [
+        30,
+        13
+      ],
+      "locations": [
+        7
+      ],
+      "sectors": [
+        102,
+        169,
+        545
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 10,
+    "fields": {
+      "created_at": "2019-09-29 09:05:33",
+      "updated_at": "2019-09-29 09:05:33",
+      "name": "Morris Ltd",
+      "about": "Learn piece everyone reflect thought.",
+      "email": "abaca-dev+morris-ltd@pixelmatters.com",
+      "user_profile": 50,
+      "locations_weight": null,
+      "sectors_weight": null,
+      "level_weight": null,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"2\", \"upper\": \"6\"}",
+      "types": [
+        41,
+        6
+      ],
+      "locations": [
+        48
+      ],
+      "sectors": [
+        642,
+        25,
+        487
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 11,
+    "fields": {
+      "created_at": "2018-11-05 21:35:08",
+      "updated_at": "2018-11-05 21:35:08",
+      "name": "Lopez PLC",
+      "about": "American worry tend pick under. Director although court run agreement. Career officer line push man.",
+      "email": "abaca-dev+lopez-plc@pixelmatters.com",
+      "user_profile": 51,
+      "locations_weight": null,
+      "sectors_weight": 3,
+      "level_weight": 4,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"7\", \"upper\": \"9\"}",
+      "types": [
+        35,
+        12
+      ],
+      "locations": [
+        25
+      ],
+      "sectors": [
+        282,
+        240,
+        617
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 12,
+    "fields": {
+      "created_at": "2019-04-08 13:36:42",
+      "updated_at": "2019-04-08 13:36:42",
+      "name": "Jacobs LLC",
+      "about": "Last city benefit feel project help this. Return game citizen open imagine occur face.",
+      "email": "abaca-dev+jacobs-llc@pixelmatters.com",
+      "user_profile": 52,
+      "locations_weight": null,
+      "sectors_weight": null,
+      "level_weight": null,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"5\", \"upper\": \"8\"}",
+      "types": [
+        17,
+        38
+      ],
+      "locations": [
+        32
+      ],
+      "sectors": [
+        367,
+        53,
+        437
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 13,
+    "fields": {
+      "created_at": "2019-12-15 14:10:32",
+      "updated_at": "2019-12-15 14:10:32",
+      "name": "Coleman Inc",
+      "about": "Walk me inside everything. Choice low share authority.",
+      "email": "abaca-dev+coleman-inc@pixelmatters.com",
+      "user_profile": 53,
+      "locations_weight": 1,
+      "sectors_weight": 4,
+      "level_weight": 4,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"8\", \"upper\": \"9\"}",
+      "types": [
+        7,
+        5
+      ],
+      "locations": [
+        3
+      ],
+      "sectors": [
+        468,
+        514,
+        484
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 14,
+    "fields": {
+      "created_at": "2018-08-15 08:49:12",
+      "updated_at": "2018-08-15 08:49:12",
+      "name": "Rivers-Reed",
+      "about": "Security here today value. Animal particular whom.",
+      "email": "abaca-dev+rivers-reed@pixelmatters.com",
+      "user_profile": 54,
+      "locations_weight": null,
+      "sectors_weight": null,
+      "level_weight": null,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"3\", \"upper\": \"5\"}",
+      "types": [
+        34,
+        13
+      ],
+      "locations": [
+        14
+      ],
+      "sectors": [
+        448,
+        556,
+        351
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 15,
+    "fields": {
+      "created_at": "2018-04-30 05:14:12",
+      "updated_at": "2018-04-30 05:14:12",
+      "name": "Lewis, Stevens and Wilson",
+      "about": "Old life economic friend rate. Bank environmental during executive factor talk candidate result.",
+      "email": "abaca-dev+lewis-stevens-and-wilson@pixelmatters.com",
+      "user_profile": 55,
+      "locations_weight": 4,
+      "sectors_weight": null,
+      "level_weight": 4,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"8\", \"upper\": \"9\"}",
+      "types": [
+        50,
+        43
+      ],
+      "locations": [
+        35
+      ],
+      "sectors": [
+        125,
+        225,
+        561
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 16,
+    "fields": {
+      "created_at": "2019-01-17 05:46:20",
+      "updated_at": "2019-01-17 05:46:20",
+      "name": "Mullins, Mercado and Thompson",
+      "about": "Son learn relate movie long. Nation this significant live since particularly century most.",
+      "email": "abaca-dev+mullins-mercado-and-thompson@pixelmatters.com",
+      "user_profile": 56,
+      "locations_weight": null,
+      "sectors_weight": null,
+      "level_weight": 1,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"6\", \"upper\": \"8\"}",
+      "types": [
+        1,
+        39
+      ],
+      "locations": [
+        32
+      ],
+      "sectors": [
+        590,
+        456,
+        299
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 17,
+    "fields": {
+      "created_at": "2018-11-05 22:53:03",
+      "updated_at": "2018-11-05 22:53:03",
+      "name": "Becker, Collins and Love",
+      "about": "Yourself end want of. Along grow red.",
+      "email": "abaca-dev+becker-collins-and-love@pixelmatters.com",
+      "user_profile": 57,
+      "locations_weight": 4,
+      "sectors_weight": null,
+      "level_weight": null,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"4\", \"upper\": \"6\"}",
+      "types": [
+        31,
+        37
+      ],
+      "locations": [
+        6
+      ],
+      "sectors": [
+        530,
+        512,
+        619
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 18,
+    "fields": {
+      "created_at": "2019-07-16 15:44:13",
+      "updated_at": "2019-07-16 15:44:13",
+      "name": "Noble Inc",
+      "about": "Choose short skill billion situation wear. Run eat military against.",
+      "email": "abaca-dev+noble-inc@pixelmatters.com",
+      "user_profile": 58,
+      "locations_weight": 4,
+      "sectors_weight": null,
+      "level_weight": 2,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"5\", \"upper\": \"9\"}",
+      "types": [
+        26,
+        7
+      ],
+      "locations": [
+        42
+      ],
+      "sectors": [
+        472,
+        33,
+        401
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 19,
+    "fields": {
+      "created_at": "2020-04-04 10:43:08",
+      "updated_at": "2020-04-04 10:43:08",
+      "name": "Jacobs-Ramirez",
+      "about": "Score while rich model guess could simple. Foot individual trouble soldier system.",
+      "email": "abaca-dev+jacobs-ramirez@pixelmatters.com",
+      "user_profile": 59,
+      "locations_weight": 4,
+      "sectors_weight": 2,
+      "level_weight": 3,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"3\", \"upper\": \"9\"}",
+      "types": [
+        25,
+        53
+      ],
+      "locations": [
+        46
+      ],
+      "sectors": [
+        462,
+        246,
+        467
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 20,
+    "fields": {
+      "created_at": "2018-09-21 14:33:10",
+      "updated_at": "2018-09-21 14:33:10",
+      "name": "Boyd Group",
+      "about": "Build month their note pick. Bag impact design skill begin trial. Natural administration expect development.",
+      "email": "abaca-dev+boyd-group@pixelmatters.com",
+      "user_profile": 60,
+      "locations_weight": 4,
+      "sectors_weight": null,
+      "level_weight": 4,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"4\", \"upper\": \"5\"}",
+      "types": [
+        45,
+        28
+      ],
+      "locations": [
+        29
+      ],
+      "sectors": [
+        128,
+        397,
+        264
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 21,
+    "fields": {
+      "created_at": "2019-06-10 21:59:36",
+      "updated_at": "2019-06-10 21:59:36",
+      "name": "Phelps-Garcia",
+      "about": "Manage current during course letter today. Land indicate role evening use goal here our. Character shake among rule own manager move. Commercial cause writer task between.",
+      "email": "abaca-dev+phelps-garcia@pixelmatters.com",
+      "user_profile": 61,
+      "locations_weight": null,
+      "sectors_weight": 3,
+      "level_weight": 1,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"7\", \"upper\": \"9\"}",
+      "types": [
+        35,
+        43
+      ],
+      "locations": [
+        41
+      ],
+      "sectors": [
+        252,
+        3,
+        214
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 22,
+    "fields": {
+      "created_at": "2018-12-08 02:35:45",
+      "updated_at": "2018-12-08 02:35:45",
+      "name": "Franco Inc",
+      "about": "Change grow standard occur report simple. Beat hope it through really.",
+      "email": "abaca-dev+franco-inc@pixelmatters.com",
+      "user_profile": 62,
+      "locations_weight": null,
+      "sectors_weight": null,
+      "level_weight": null,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"8\", \"upper\": \"9\"}",
+      "types": [
+        13,
+        35
+      ],
+      "locations": [
+        24
+      ],
+      "sectors": [
+        460,
+        188,
+        465
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 23,
+    "fields": {
+      "created_at": "2018-12-07 15:12:27",
+      "updated_at": "2018-12-07 15:12:27",
+      "name": "Woods, Weber and Edwards",
+      "about": "Hand thousand them year sit return. From huge air wind detail determine art.",
+      "email": "abaca-dev+woods-weber-and-edwards@pixelmatters.com",
+      "user_profile": 63,
+      "locations_weight": null,
+      "sectors_weight": 3,
+      "level_weight": null,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"3\", \"upper\": \"5\"}",
+      "types": [
+        35,
+        43
+      ],
+      "locations": [
+        24
+      ],
+      "sectors": [
+        220,
+        562,
+        304
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 24,
+    "fields": {
+      "created_at": "2019-05-02 11:48:02",
+      "updated_at": "2019-05-02 11:48:02",
+      "name": "Perry Inc",
+      "about": "Media medical interesting population defense class law bar. Sing receive side city look generation.",
+      "email": "abaca-dev+perry-inc@pixelmatters.com",
+      "user_profile": 64,
+      "locations_weight": 1,
+      "sectors_weight": null,
+      "level_weight": 3,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"6\", \"upper\": \"9\"}",
+      "types": [
+        44,
+        35
+      ],
+      "locations": [
+        16
+      ],
+      "sectors": [
+        441,
+        131,
+        241
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 25,
+    "fields": {
+      "created_at": "2019-08-22 16:26:01",
+      "updated_at": "2019-08-22 16:26:01",
+      "name": "Wallace, Richard and Moore",
+      "about": "Attack from study activity. Child medical since space. Leg brother son west single second site speech. Economy people next sport within.",
+      "email": "abaca-dev+wallace-richard-and-moore@pixelmatters.com",
+      "user_profile": 65,
+      "locations_weight": 2,
+      "sectors_weight": null,
+      "level_weight": null,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"5\", \"upper\": \"8\"}",
+      "types": [
+        2,
+        17
+      ],
+      "locations": [
+        3
+      ],
+      "sectors": [
+        82,
+        340,
+        271
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 26,
+    "fields": {
+      "created_at": "2019-08-24 12:26:39",
+      "updated_at": "2019-08-24 12:26:39",
+      "name": "Moore Inc",
+      "about": "Lay policy top trade what middle share. Rock hot team anything. Water protect war care two among.",
+      "email": "abaca-dev+moore-inc@pixelmatters.com",
+      "user_profile": 66,
+      "locations_weight": null,
+      "sectors_weight": null,
+      "level_weight": null,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"5\", \"upper\": \"9\"}",
+      "types": [
+        13,
+        10
+      ],
+      "locations": [
+        10
+      ],
+      "sectors": [
+        298,
+        24,
+        28
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 27,
+    "fields": {
+      "created_at": "2018-08-31 12:57:53",
+      "updated_at": "2018-08-31 12:57:53",
+      "name": "Simon-Rogers",
+      "about": "Movement Democrat term really. Manager produce economy station red discuss. Personal thought focus. Ahead tree fine worry serve hold edge will.",
+      "email": "abaca-dev+simon-rogers@pixelmatters.com",
+      "user_profile": 67,
+      "locations_weight": null,
+      "sectors_weight": 2,
+      "level_weight": 4,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"2\", \"upper\": \"3\"}",
+      "types": [
+        16,
+        34
+      ],
+      "locations": [
+        9
+      ],
+      "sectors": [
+        530,
+        100,
+        381
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 28,
+    "fields": {
+      "created_at": "2018-07-30 14:29:23",
+      "updated_at": "2018-07-30 14:29:23",
+      "name": "Lopez-Ruiz",
+      "about": "Pass measure trouble hope right full. Whom share prove. Senior give operation.",
+      "email": "abaca-dev+lopez-ruiz@pixelmatters.com",
+      "user_profile": 68,
+      "locations_weight": 4,
+      "sectors_weight": null,
+      "level_weight": null,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"4\", \"upper\": \"5\"}",
+      "types": [
+        17,
+        42
+      ],
+      "locations": [
+        40
+      ],
+      "sectors": [
+        188,
+        626,
+        643
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 29,
+    "fields": {
+      "created_at": "2019-03-10 03:19:25",
+      "updated_at": "2019-03-10 03:19:25",
+      "name": "Jones-Wallace",
+      "about": "Born color game structure. Lot different not boy win score. Very imagine model operation effort level it small.",
+      "email": "abaca-dev+jones-wallace@pixelmatters.com",
+      "user_profile": 69,
+      "locations_weight": null,
+      "sectors_weight": 1,
+      "level_weight": 2,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"6\", \"upper\": \"9\"}",
+      "types": [
+        41,
+        10
+      ],
+      "locations": [
+        7
+      ],
+      "sectors": [
+        461,
+        170,
+        414
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 30,
+    "fields": {
+      "created_at": "2018-09-15 17:27:16",
+      "updated_at": "2018-09-15 17:27:16",
+      "name": "Clark and Sons",
+      "about": "Property maybe break economic want experience. Agreement right tell pretty their best adult fact. Carry eight keep figure more. Suffer customer born think learn start my color.",
+      "email": "abaca-dev+clark-and-sons@pixelmatters.com",
+      "user_profile": 70,
+      "locations_weight": null,
+      "sectors_weight": 1,
+      "level_weight": null,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"5\", \"upper\": \"9\"}",
+      "types": [
+        9,
+        31
+      ],
+      "locations": [
+        22
+      ],
+      "sectors": [
+        318,
+        293,
+        486
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 31,
+    "fields": {
+      "created_at": "2018-07-22 15:44:31",
+      "updated_at": "2018-07-22 15:44:31",
+      "name": "Durham PLC",
+      "about": "Outside little national local study. Consider ground down agent check notice voice computer. Loss affect talk. Beyond country soldier nice able morning treat.",
+      "email": "abaca-dev+durham-plc@pixelmatters.com",
+      "user_profile": 71,
+      "locations_weight": 3,
+      "sectors_weight": null,
+      "level_weight": null,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"4\", \"upper\": \"5\"}",
+      "types": [
+        15,
+        51
+      ],
+      "locations": [
+        4
+      ],
+      "sectors": [
+        400,
+        418,
+        296
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 32,
+    "fields": {
+      "created_at": "2019-08-03 04:58:37",
+      "updated_at": "2019-08-03 04:58:37",
+      "name": "Austin PLC",
+      "about": "Final simply actually item week. Clear small ground reduce bring.",
+      "email": "abaca-dev+austin-plc@pixelmatters.com",
+      "user_profile": 183,
+      "locations_weight": null,
+      "sectors_weight": null,
+      "level_weight": null,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"7\", \"upper\": \"8\"}",
+      "types": [
+        10,
+        44
+      ],
+      "locations": [
+        21
+      ],
+      "sectors": [
+        396,
+        38,
+        480
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 33,
+    "fields": {
+      "created_at": "2020-01-14 01:38:27",
+      "updated_at": "2020-01-14 01:38:27",
+      "name": "Richardson-Moore",
+      "about": "Everything scientist cup including agree their spend. Environmental include learn concern.",
+      "email": "abaca-dev+richardson-moore@pixelmatters.com",
+      "user_profile": 184,
+      "locations_weight": 2,
+      "sectors_weight": 3,
+      "level_weight": 3,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"8\", \"upper\": \"9\"}",
+      "types": [
+        20,
+        11
+      ],
+      "locations": [
+        41
+      ],
+      "sectors": [
+        242,
+        413,
+        284
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 34,
+    "fields": {
+      "created_at": "2019-12-25 22:41:01",
+      "updated_at": "2019-12-25 22:41:01",
+      "name": "Bradford Inc",
+      "about": "Doctor figure year former. Similar federal party store development north project. Several store hear yes tell.",
+      "email": "abaca-dev+bradford-inc@pixelmatters.com",
+      "user_profile": 185,
+      "locations_weight": null,
+      "sectors_weight": null,
+      "level_weight": null,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"7\", \"upper\": \"8\"}",
+      "types": [
+        14,
+        33
+      ],
+      "locations": [
+        9
+      ],
+      "sectors": [
+        23,
+        387,
+        327
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 35,
+    "fields": {
+      "created_at": "2019-02-02 08:08:17",
+      "updated_at": "2019-02-02 08:08:17",
+      "name": "Hansen, Smith and Watkins",
+      "about": "Walk trouble edge approach floor factor.",
+      "email": "abaca-dev+hansen-smith-and-watkins@pixelmatters.com",
+      "user_profile": 186,
+      "locations_weight": 1,
+      "sectors_weight": 1,
+      "level_weight": null,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"1\", \"upper\": \"3\"}",
+      "types": [
+        52,
+        36
+      ],
+      "locations": [
+        22
+      ],
+      "sectors": [
+        241,
+        165,
+        9
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 36,
+    "fields": {
+      "created_at": "2020-04-11 00:06:05",
+      "updated_at": "2020-04-11 00:06:05",
+      "name": "Matthews-Carpenter",
+      "about": "Mrs dinner religious assume role physical wear. School Mrs box middle past military action. Case artist contain picture now data.",
+      "email": "abaca-dev+matthews-carpenter@pixelmatters.com",
+      "user_profile": 187,
+      "locations_weight": null,
+      "sectors_weight": null,
+      "level_weight": 4,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"4\", \"upper\": \"7\"}",
+      "types": [
+        13,
+        50
+      ],
+      "locations": [
+        18
+      ],
+      "sectors": [
+        374,
+        569,
+        640
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 37,
+    "fields": {
+      "created_at": "2019-01-01 02:49:33",
+      "updated_at": "2019-01-01 02:49:33",
+      "name": "Henson-Manning",
+      "about": "Shoulder ready else above a. Along staff trip choice compare much.",
+      "email": "abaca-dev+henson-manning@pixelmatters.com",
+      "user_profile": 188,
+      "locations_weight": 2,
+      "sectors_weight": 1,
+      "level_weight": null,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"7\", \"upper\": \"9\"}",
+      "types": [
+        45,
+        51
+      ],
+      "locations": [
+        34
+      ],
+      "sectors": [
+        86,
+        95,
+        213
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 38,
+    "fields": {
+      "created_at": "2019-08-28 19:52:15",
+      "updated_at": "2019-08-28 19:52:15",
+      "name": "Salazar-Houston",
+      "about": "Else glass soldier on six give window thought.",
+      "email": "abaca-dev+salazar-houston@pixelmatters.com",
+      "user_profile": 189,
+      "locations_weight": null,
+      "sectors_weight": 3,
+      "level_weight": null,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"2\", \"upper\": \"6\"}",
+      "types": [
+        45,
+        9
+      ],
+      "locations": [
+        1
+      ],
+      "sectors": [
+        524,
+        532,
+        598
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 39,
+    "fields": {
+      "created_at": "2020-02-23 20:30:58",
+      "updated_at": "2020-02-23 20:30:58",
+      "name": "Morales-Robertson",
+      "about": "Guy begin address need.",
+      "email": "abaca-dev+morales-robertson@pixelmatters.com",
+      "user_profile": 190,
+      "locations_weight": null,
+      "sectors_weight": 3,
+      "level_weight": 1,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"6\", \"upper\": \"9\"}",
+      "types": [
+        1,
+        51
+      ],
+      "locations": [
+        26
+      ],
+      "sectors": [
+        513,
+        251,
+        642
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 40,
+    "fields": {
+      "created_at": "2018-08-23 05:58:23",
+      "updated_at": "2018-08-23 05:58:23",
+      "name": "Davenport, Chan and Anderson",
+      "about": "Interview third present. Trip interview public build push discussion reduce.",
+      "email": "abaca-dev+davenport-chan-and-anderson@pixelmatters.com",
+      "user_profile": 191,
+      "locations_weight": 1,
+      "sectors_weight": 2,
+      "level_weight": 2,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"4\", \"upper\": \"7\"}",
+      "types": [
+        41,
+        50
+      ],
+      "locations": [
+        12
+      ],
+      "sectors": [
+        321,
+        141,
+        360
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 41,
+    "fields": {
+      "created_at": "2019-02-15 19:57:24",
+      "updated_at": "2019-02-15 19:57:24",
+      "name": "Nguyen Inc",
+      "about": "Couple our goal recent quite fear nor. Break pull man perform various recognize relationship.",
+      "email": "abaca-dev+nguyen-inc@pixelmatters.com",
+      "user_profile": 192,
+      "locations_weight": null,
+      "sectors_weight": 3,
+      "level_weight": null,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"1\", \"upper\": \"6\"}",
+      "types": [
+        22,
+        47
+      ],
+      "locations": [
+        6
+      ],
+      "sectors": [
+        487,
+        647,
+        631
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 42,
+    "fields": {
+      "created_at": "2020-03-24 23:01:24",
+      "updated_at": "2020-03-24 23:01:24",
+      "name": "Burgess PLC",
+      "about": "Outside hope speech security carry these nature develop. Or message professor read. Or wind operation yet ball hope performance.",
+      "email": "abaca-dev+burgess-plc@pixelmatters.com",
+      "user_profile": 193,
+      "locations_weight": null,
+      "sectors_weight": 1,
+      "level_weight": null,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"2\", \"upper\": \"4\"}",
+      "types": [
+        24,
+        48
+      ],
+      "locations": [
+        30
+      ],
+      "sectors": [
+        150,
+        38,
+        349
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 43,
+    "fields": {
+      "created_at": "2019-07-13 16:21:30",
+      "updated_at": "2019-07-13 16:21:30",
+      "name": "Saunders, Hernandez and Harrington",
+      "about": "Window alone whose gun treat put. Style along fly especially wear question create.",
+      "email": "abaca-dev+saunders-hernandez-and-harrington@pixelmatters.com",
+      "user_profile": 194,
+      "locations_weight": 4,
+      "sectors_weight": 1,
+      "level_weight": null,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"7\", \"upper\": \"8\"}",
+      "types": [
+        22,
+        5
+      ],
+      "locations": [
+        32
+      ],
+      "sectors": [
+        622,
+        435,
+        103
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 44,
+    "fields": {
+      "created_at": "2019-12-13 08:35:58",
+      "updated_at": "2019-12-13 08:35:58",
+      "name": "Wallace, Beasley and Gates",
+      "about": "Travel perform drive carry exactly point. Threat because movie speech question book practice.",
+      "email": "abaca-dev+wallace-beasley-and-gates@pixelmatters.com",
+      "user_profile": 195,
+      "locations_weight": 4,
+      "sectors_weight": null,
+      "level_weight": null,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"7\", \"upper\": \"9\"}",
+      "types": [
+        28,
+        48
+      ],
+      "locations": [
+        5
+      ],
+      "sectors": [
+        562,
+        575,
+        343
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 45,
+    "fields": {
+      "created_at": "2019-01-19 15:12:21",
+      "updated_at": "2019-01-19 15:12:21",
+      "name": "Tucker, Myers and Russell",
+      "about": "Strong from carry leave because finally listen generation. Whatever push fill onto plan. Mind smile wonder serve. Base baby response show thus wrong.",
+      "email": "abaca-dev+tucker-myers-and-russell@pixelmatters.com",
+      "user_profile": 196,
+      "locations_weight": null,
+      "sectors_weight": null,
+      "level_weight": null,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"8\", \"upper\": \"9\"}",
+      "types": [
+        32,
+        18
+      ],
+      "locations": [
+        38
+      ],
+      "sectors": [
+        143,
+        28,
+        421
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 46,
+    "fields": {
+      "created_at": "2019-10-05 10:12:49",
+      "updated_at": "2019-10-05 10:12:49",
+      "name": "Sullivan and Sons",
+      "about": "Again during read discuss herself friend. Feeling source ever. Model garden eight impact writer note.",
+      "email": "abaca-dev+sullivan-and-sons@pixelmatters.com",
+      "user_profile": 197,
+      "locations_weight": 2,
+      "sectors_weight": null,
+      "level_weight": null,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"3\", \"upper\": \"7\"}",
+      "types": [
+        34,
+        43
+      ],
+      "locations": [
+        26
+      ],
+      "sectors": [
+        127,
+        425,
+        174
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 47,
+    "fields": {
+      "created_at": "2018-10-09 05:32:08",
+      "updated_at": "2018-10-09 05:32:08",
+      "name": "Johnston and Sons",
+      "about": "Return state fact couple. Crime all point open situation list.",
+      "email": "abaca-dev+johnston-and-sons@pixelmatters.com",
+      "user_profile": 198,
+      "locations_weight": 2,
+      "sectors_weight": 4,
+      "level_weight": null,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"8\", \"upper\": \"9\"}",
+      "types": [
+        24,
+        52
+      ],
+      "locations": [
+        28
+      ],
+      "sectors": [
+        188,
+        100,
+        81
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 48,
+    "fields": {
+      "created_at": "2020-05-26 17:05:43",
+      "updated_at": "2020-05-26 17:05:43",
+      "name": "Ward, Mason and West",
+      "about": "Them sport itself figure father. Either cold main attorney two along practice.",
+      "email": "abaca-dev+ward-mason-and-west@pixelmatters.com",
+      "user_profile": 199,
+      "locations_weight": 1,
+      "sectors_weight": 3,
+      "level_weight": null,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"5\", \"upper\": \"7\"}",
+      "types": [
+        39,
+        50
+      ],
+      "locations": [
+        22
+      ],
+      "sectors": [
+        309,
+        109,
+        14
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 49,
+    "fields": {
+      "created_at": "2018-09-03 18:27:02",
+      "updated_at": "2018-09-03 18:27:02",
+      "name": "Potter, Anderson and Morris",
+      "about": "Policy entire thought oil accept time method. Above firm important just. Area forward matter one miss break live.",
+      "email": "abaca-dev+potter-anderson-and-morris@pixelmatters.com",
+      "user_profile": 200,
+      "locations_weight": null,
+      "sectors_weight": 4,
+      "level_weight": null,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"4\", \"upper\": \"8\"}",
+      "types": [
+        30,
+        7
+      ],
+      "locations": [
+        42
+      ],
+      "sectors": [
+        31,
+        13,
+        398
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 50,
+    "fields": {
+      "created_at": "2019-02-22 19:17:39",
+      "updated_at": "2019-02-22 19:17:39",
+      "name": "Freeman-Davis",
+      "about": "Contain politics administration very same Republican instead. Weight rather effect move. Energy matter various attack clearly.",
+      "email": "abaca-dev+freeman-davis@pixelmatters.com",
+      "user_profile": 201,
+      "locations_weight": null,
+      "sectors_weight": 3,
+      "level_weight": null,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"4\", \"upper\": \"5\"}",
+      "types": [
+        45,
+        46
+      ],
+      "locations": [
+        28
+      ],
+      "sectors": [
+        438,
+        290,
+        447
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 51,
+    "fields": {
+      "created_at": "2020-03-29 15:20:07",
+      "updated_at": "2020-03-29 15:20:07",
+      "name": "Smith-Jones",
+      "about": "Green such management trial part.",
+      "email": "abaca-dev+smith-jones@pixelmatters.com",
+      "user_profile": 202,
+      "locations_weight": null,
+      "sectors_weight": null,
+      "level_weight": 1,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"2\", \"upper\": \"3\"}",
+      "types": [
+        20,
+        46
+      ],
+      "locations": [
+        46
+      ],
+      "sectors": [
+        61,
+        342,
+        282
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 52,
+    "fields": {
+      "created_at": "2018-09-07 07:20:58",
+      "updated_at": "2018-09-07 07:20:58",
+      "name": "Campbell Group",
+      "about": "Upon arrive tonight before. Loss wind reach benefit herself hold fly. Send it thing personal stop.",
+      "email": "abaca-dev+campbell-group@pixelmatters.com",
+      "user_profile": 203,
+      "locations_weight": null,
+      "sectors_weight": null,
+      "level_weight": 4,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"6\", \"upper\": \"9\"}",
+      "types": [
+        22,
+        6
+      ],
+      "locations": [
+        6
+      ],
+      "sectors": [
+        53,
+        231,
+        44
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 53,
+    "fields": {
+      "created_at": "2020-05-17 14:08:23",
+      "updated_at": "2020-05-17 14:08:23",
+      "name": "Brown, Hughes and Frost",
+      "about": "Throw speak star. Business recent sense maybe attack all school.",
+      "email": "abaca-dev+brown-hughes-and-frost@pixelmatters.com",
+      "user_profile": 204,
+      "locations_weight": 1,
+      "sectors_weight": null,
+      "level_weight": null,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"2\", \"upper\": \"8\"}",
+      "types": [
+        52,
+        38
+      ],
+      "locations": [
+        14
+      ],
+      "sectors": [
+        551,
+        385,
+        45
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 54,
+    "fields": {
+      "created_at": "2019-04-05 16:09:33",
+      "updated_at": "2019-04-05 16:09:33",
+      "name": "Bullock, Rice and Burgess",
+      "about": "Film resource laugh deep free article send. Expert son central. See business remember stock fly.",
+      "email": "abaca-dev+bullock-rice-and-burgess@pixelmatters.com",
+      "user_profile": 205,
+      "locations_weight": 4,
+      "sectors_weight": null,
+      "level_weight": null,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"7\", \"upper\": \"9\"}",
+      "types": [
+        24,
+        53
+      ],
+      "locations": [
+        29
+      ],
+      "sectors": [
+        581,
+        8,
+        129
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 55,
+    "fields": {
+      "created_at": "2019-12-15 04:59:27",
+      "updated_at": "2019-12-15 04:59:27",
+      "name": "Schneider-Good",
+      "about": "Choose fund fly recognize. Finish radio glass party sister special.",
+      "email": "abaca-dev+schneider-good@pixelmatters.com",
+      "user_profile": 206,
+      "locations_weight": null,
+      "sectors_weight": 4,
+      "level_weight": null,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"6\", \"upper\": \"7\"}",
+      "types": [
+        53,
+        14
+      ],
+      "locations": [
+        14
+      ],
+      "sectors": [
+        351,
+        308,
+        81
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 56,
+    "fields": {
+      "created_at": "2020-03-03 10:46:12",
+      "updated_at": "2020-03-03 10:46:12",
+      "name": "Morrison-Rodriguez",
+      "about": "Candidate possible military. Field practice hospital throw.",
+      "email": "abaca-dev+morrison-rodriguez@pixelmatters.com",
+      "user_profile": 207,
+      "locations_weight": null,
+      "sectors_weight": null,
+      "level_weight": 2,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"8\", \"upper\": \"9\"}",
+      "types": [
+        47,
+        25
+      ],
+      "locations": [
+        18
+      ],
+      "sectors": [
+        16,
+        498,
+        400
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 57,
+    "fields": {
+      "created_at": "2019-07-20 01:36:39",
+      "updated_at": "2019-07-20 01:36:39",
+      "name": "Allen, Barber and Glover",
+      "about": "Have position country glass body degree prevent. Service alone night rather. Employee treatment entire decision.",
+      "email": "abaca-dev+allen-barber-and-glover@pixelmatters.com",
+      "user_profile": 208,
+      "locations_weight": null,
+      "sectors_weight": 2,
+      "level_weight": null,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"7\", \"upper\": \"8\"}",
+      "types": [
+        39,
+        18
+      ],
+      "locations": [
+        43
+      ],
+      "sectors": [
+        599,
+        152,
+        117
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 58,
+    "fields": {
+      "created_at": "2020-01-17 16:41:36",
+      "updated_at": "2020-01-17 16:41:36",
+      "name": "Green-Tate",
+      "about": "Themselves benefit dog civil possible three low. Education mean bad field stay film read. Describe require black development.",
+      "email": "abaca-dev+green-tate@pixelmatters.com",
+      "user_profile": 209,
+      "locations_weight": null,
+      "sectors_weight": 3,
+      "level_weight": null,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"8\", \"upper\": \"9\"}",
+      "types": [
+        45,
+        14
+      ],
+      "locations": [
+        38
+      ],
+      "sectors": [
+        671,
+        582,
+        130
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 59,
+    "fields": {
+      "created_at": "2019-12-15 02:06:37",
+      "updated_at": "2019-12-15 02:06:37",
+      "name": "Medina, Rodriguez and Kelley",
+      "about": "Throw bar concern choice wonder. Mission upon hear baby require house economic miss. Upon people day stuff.",
+      "email": "abaca-dev+medina-rodriguez-and-kelley@pixelmatters.com",
+      "user_profile": 210,
+      "locations_weight": null,
+      "sectors_weight": null,
+      "level_weight": 1,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"1\", \"upper\": \"7\"}",
+      "types": [
+        8,
+        36
+      ],
+      "locations": [
+        44
+      ],
+      "sectors": [
+        174,
+        623,
+        616
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 60,
+    "fields": {
+      "created_at": "2019-10-11 05:09:35",
+      "updated_at": "2019-10-11 05:09:35",
+      "name": "Leach-Hunt",
+      "about": "Bring edge according hour our go. Gun rate add themselves team almost head. Method term teach everybody newspaper deep.",
+      "email": "abaca-dev+leach-hunt@pixelmatters.com",
+      "user_profile": 211,
+      "locations_weight": null,
+      "sectors_weight": null,
+      "level_weight": null,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"6\", \"upper\": \"9\"}",
+      "types": [
+        27,
+        15
+      ],
+      "locations": [
+        41
+      ],
+      "sectors": [
+        367,
+        290,
+        496
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 61,
+    "fields": {
+      "created_at": "2019-03-06 01:22:36",
+      "updated_at": "2019-03-06 01:22:36",
+      "name": "Swanson, Hayes and Roberts",
+      "about": "Technology open since once. Lose policy able perhaps produce house anything. To wonder knowledge read.",
+      "email": "abaca-dev+swanson-hayes-and-roberts@pixelmatters.com",
+      "user_profile": 212,
+      "locations_weight": null,
+      "sectors_weight": null,
+      "level_weight": null,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"2\", \"upper\": \"7\"}",
+      "types": [
+        51,
+        46
+      ],
+      "locations": [
+        15
+      ],
+      "sectors": [
+        86,
+        286,
+        376
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 62,
+    "fields": {
+      "created_at": "2018-08-15 21:47:48",
+      "updated_at": "2018-08-15 21:47:48",
+      "name": "Walter, Reynolds and Harris",
+      "about": "Whole practice after tonight future arrive.",
+      "email": "abaca-dev+walter-reynolds-and-harris@pixelmatters.com",
+      "user_profile": 213,
+      "locations_weight": null,
+      "sectors_weight": 3,
+      "level_weight": 4,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"1\", \"upper\": \"2\"}",
+      "types": [
+        31,
+        42
+      ],
+      "locations": [
+        2
+      ],
+      "sectors": [
+        304,
+        572,
+        312
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 63,
+    "fields": {
+      "created_at": "2019-08-31 08:25:37",
+      "updated_at": "2019-08-31 08:25:37",
+      "name": "Acosta-Rice",
+      "about": "Hot long could Congress actually thank million. Few authority its stand. Then film amount imagine put follow.",
+      "email": "abaca-dev+acosta-rice@pixelmatters.com",
+      "user_profile": 214,
+      "locations_weight": 1,
+      "sectors_weight": null,
+      "level_weight": 2,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"7\", \"upper\": \"8\"}",
+      "types": [
+        46,
+        13
+      ],
+      "locations": [
+        14
+      ],
+      "sectors": [
+        43,
+        525,
+        530
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 64,
+    "fields": {
+      "created_at": "2020-05-16 17:53:15",
+      "updated_at": "2020-05-16 17:53:15",
+      "name": "Cortez-Dixon",
+      "about": "Sound capital people. Each whom sometimes country agree. Himself million water general.",
+      "email": "abaca-dev+cortez-dixon@pixelmatters.com",
+      "user_profile": 215,
+      "locations_weight": null,
+      "sectors_weight": null,
+      "level_weight": 1,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"1\", \"upper\": \"6\"}",
+      "types": [
+        45,
+        4
+      ],
+      "locations": [
+        4
+      ],
+      "sectors": [
+        652,
+        482,
+        632
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 65,
+    "fields": {
+      "created_at": "2019-12-09 16:08:53",
+      "updated_at": "2019-12-09 16:08:53",
+      "name": "Chen, Richardson and Alvarado",
+      "about": "History table effect true nothing little far. Another seven guess attack establish culture fight. Debate whom decision film deal administration matter.",
+      "email": "abaca-dev+chen-richardson-and-alvarado@pixelmatters.com",
+      "user_profile": 216,
+      "locations_weight": null,
+      "sectors_weight": null,
+      "level_weight": 2,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"8\", \"upper\": \"9\"}",
+      "types": [
+        49,
+        24
+      ],
+      "locations": [
+        44
+      ],
+      "sectors": [
+        489,
+        416,
+        451
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 66,
+    "fields": {
+      "created_at": "2020-04-19 15:01:45",
+      "updated_at": "2020-04-19 15:01:45",
+      "name": "Butler-Smith",
+      "about": "Catch suggest person miss conference money rate. Else poor avoid young according instead.",
+      "email": "abaca-dev+butler-smith@pixelmatters.com",
+      "user_profile": 217,
+      "locations_weight": null,
+      "sectors_weight": 3,
+      "level_weight": null,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"7\", \"upper\": \"8\"}",
+      "types": [
+        47,
+        17
+      ],
+      "locations": [
+        48
+      ],
+      "sectors": [
+        48,
+        299,
+        217
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 67,
+    "fields": {
+      "created_at": "2019-10-31 04:23:59",
+      "updated_at": "2019-10-31 04:23:59",
+      "name": "Saunders-Harrison",
+      "about": "Event case could foreign day number really. Whether visit write area throughout yeah skill.",
+      "email": "abaca-dev+saunders-harrison@pixelmatters.com",
+      "user_profile": 218,
+      "locations_weight": null,
+      "sectors_weight": null,
+      "level_weight": 4,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"4\", \"upper\": \"6\"}",
+      "types": [
+        31,
+        15
+      ],
+      "locations": [
+        1
+      ],
+      "sectors": [
+        19,
+        346,
+        335
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 68,
+    "fields": {
+      "created_at": "2020-02-10 02:38:06",
+      "updated_at": "2020-02-10 02:38:06",
+      "name": "Buchanan-Washington",
+      "about": "Even let represent pattern. Meeting item close pick project could. Will bill determine create.",
+      "email": "abaca-dev+buchanan-washington@pixelmatters.com",
+      "user_profile": 219,
+      "locations_weight": null,
+      "sectors_weight": null,
+      "level_weight": 3,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"4\", \"upper\": \"6\"}",
+      "types": [
+        19,
+        1
+      ],
+      "locations": [
+        35
+      ],
+      "sectors": [
+        287,
+        194,
+        440
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 69,
+    "fields": {
+      "created_at": "2020-06-10 16:46:13",
+      "updated_at": "2020-06-10 16:46:13",
+      "name": "Perez-Caldwell",
+      "about": "Box hear apply argue. Price growth place eat life include how.",
+      "email": "abaca-dev+perez-caldwell@pixelmatters.com",
+      "user_profile": 220,
+      "locations_weight": null,
+      "sectors_weight": 3,
+      "level_weight": 2,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"8\", \"upper\": \"9\"}",
+      "types": [
+        4,
+        51
+      ],
+      "locations": [
+        35
+      ],
+      "sectors": [
+        135,
+        629,
+        16
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 70,
+    "fields": {
+      "created_at": "2018-12-03 04:23:28",
+      "updated_at": "2018-12-03 04:23:28",
+      "name": "Lewis-Davis",
+      "about": "Deep three high huge two animal. Find change not just weight sister finally. News best hospital dinner.",
+      "email": "abaca-dev+lewis-davis@pixelmatters.com",
+      "user_profile": 221,
+      "locations_weight": null,
+      "sectors_weight": 1,
+      "level_weight": 4,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"5\", \"upper\": \"7\"}",
+      "types": [
+        12,
+        2
+      ],
+      "locations": [
+        45
+      ],
+      "sectors": [
+        511,
+        659,
+        216
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 71,
+    "fields": {
+      "created_at": "2019-02-11 18:46:07",
+      "updated_at": "2019-02-11 18:46:07",
+      "name": "Ray, Contreras and Orozco",
+      "about": "Meet cultural strategy health top. History something space activity stay site. Open special run to art.",
+      "email": "abaca-dev+ray-contreras-and-orozco@pixelmatters.com",
+      "user_profile": 222,
+      "locations_weight": null,
+      "sectors_weight": 1,
+      "level_weight": null,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"1\", \"upper\": \"9\"}",
+      "types": [
+        46,
+        7
+      ],
+      "locations": [
+        48
+      ],
+      "sectors": [
+        528,
+        134,
+        228
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 72,
+    "fields": {
+      "created_at": "2019-01-20 19:25:26",
+      "updated_at": "2019-01-20 19:25:26",
+      "name": "Williams-Weaver",
+      "about": "Employee five just fall hot. Mind attention enjoy law bank value do argue. Raise account enter often contain.",
+      "email": "abaca-dev+williams-weaver@pixelmatters.com",
+      "user_profile": 223,
+      "locations_weight": 2,
+      "sectors_weight": null,
+      "level_weight": null,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"5\", \"upper\": \"8\"}",
+      "types": [
+        16,
+        5
+      ],
+      "locations": [
+        49
+      ],
+      "sectors": [
+        106,
+        161,
+        341
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 73,
+    "fields": {
+      "created_at": "2020-03-26 23:46:19",
+      "updated_at": "2020-03-26 23:46:19",
+      "name": "Melton-Hess",
+      "about": "Get race deep least must mouth. Fight particularly everybody after consumer with. Nothing focus material bill money now. Easy fast difference three.",
+      "email": "abaca-dev+melton-hess@pixelmatters.com",
+      "user_profile": 224,
+      "locations_weight": 4,
+      "sectors_weight": 4,
+      "level_weight": null,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"2\", \"upper\": \"7\"}",
+      "types": [
+        1,
+        48
+      ],
+      "locations": [
+        43
+      ],
+      "sectors": [
+        679,
+        116,
+        101
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 74,
+    "fields": {
+      "created_at": "2020-01-07 21:56:27",
+      "updated_at": "2020-01-07 21:56:27",
+      "name": "Kennedy-Medina",
+      "about": "Company process power thank detail. Value far my these through me. Feeling share phone.",
+      "email": "abaca-dev+kennedy-medina@pixelmatters.com",
+      "user_profile": 225,
+      "locations_weight": 4,
+      "sectors_weight": 4,
+      "level_weight": 1,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"8\", \"upper\": \"9\"}",
+      "types": [
+        9,
+        45
+      ],
+      "locations": [
+        36
+      ],
+      "sectors": [
+        556,
+        396,
+        648
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 75,
+    "fields": {
+      "created_at": "2018-09-25 12:44:34",
+      "updated_at": "2018-09-25 12:44:34",
+      "name": "Wagner, Lane and Perez",
+      "about": "Or either picture prevent. Relate look ask fund grow clear growth Democrat. Fly last both year protect total.",
+      "email": "abaca-dev+wagner-lane-and-perez@pixelmatters.com",
+      "user_profile": 226,
+      "locations_weight": null,
+      "sectors_weight": null,
+      "level_weight": 4,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"8\", \"upper\": \"9\"}",
+      "types": [
+        31,
+        7
+      ],
+      "locations": [
+        16
+      ],
+      "sectors": [
+        506,
+        544,
+        101
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 76,
+    "fields": {
+      "created_at": "2019-04-02 10:45:32",
+      "updated_at": "2019-04-02 10:45:32",
+      "name": "Armstrong and Sons",
+      "about": "Idea score region outside each beat seven the. Treat old computer impact. Right election these action. Garden until police bed later fish success.",
+      "email": "abaca-dev+armstrong-and-sons@pixelmatters.com",
+      "user_profile": 227,
+      "locations_weight": null,
+      "sectors_weight": 1,
+      "level_weight": 4,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"6\", \"upper\": \"9\"}",
+      "types": [
+        18,
+        20
+      ],
+      "locations": [
+        44
+      ],
+      "sectors": [
+        26,
+        158,
+        371
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 77,
+    "fields": {
+      "created_at": "2019-12-18 21:44:40",
+      "updated_at": "2019-12-18 21:44:40",
+      "name": "Wong-Castillo",
+      "about": "Society choose close. Threat issue born where bar city bank character. Let any whom this thought.",
+      "email": "abaca-dev+wong-castillo@pixelmatters.com",
+      "user_profile": 228,
+      "locations_weight": null,
+      "sectors_weight": null,
+      "level_weight": 1,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"5\", \"upper\": \"8\"}",
+      "types": [
+        40,
+        23
+      ],
+      "locations": [
+        38
+      ],
+      "sectors": [
+        268,
+        483,
+        581
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 78,
+    "fields": {
+      "created_at": "2019-10-04 11:35:13",
+      "updated_at": "2019-10-04 11:35:13",
+      "name": "Flores, Anderson and Stewart",
+      "about": "Let represent maybe social no. Physical morning assume sport past clearly water.",
+      "email": "abaca-dev+flores-anderson-and-stewart@pixelmatters.com",
+      "user_profile": 229,
+      "locations_weight": 4,
+      "sectors_weight": null,
+      "level_weight": null,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"8\", \"upper\": \"9\"}",
+      "types": [
+        21,
+        48
+      ],
+      "locations": [
+        22
+      ],
+      "sectors": [
+        369,
+        645,
+        233
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 79,
+    "fields": {
+      "created_at": "2019-11-30 23:17:20",
+      "updated_at": "2019-11-30 23:17:20",
+      "name": "Peterson PLC 2",
+      "about": "Together worry morning quality how both factor all. Well TV adult.",
+      "email": "abaca-dev+peterson-plc-2@pixelmatters.com",
+      "user_profile": 230,
+      "locations_weight": null,
+      "sectors_weight": null,
+      "level_weight": null,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"6\", \"upper\": \"8\"}",
+      "types": [
+        48,
+        33
+      ],
+      "locations": [
+        31
+      ],
+      "sectors": [
+        146,
+        163,
+        365
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 80,
+    "fields": {
+      "created_at": "2019-12-27 14:00:45",
+      "updated_at": "2019-12-27 14:00:45",
+      "name": "Scott, Underwood and Woods",
+      "about": "Give concern draw size near. Congress pattern firm bank buy data.",
+      "email": "abaca-dev+scott-underwood-and-woods@pixelmatters.com",
+      "user_profile": 231,
+      "locations_weight": null,
+      "sectors_weight": null,
+      "level_weight": null,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"7\", \"upper\": \"9\"}",
+      "types": [
+        13,
+        25
+      ],
+      "locations": [
+        8
+      ],
+      "sectors": [
+        460,
+        439,
+        618
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 81,
+    "fields": {
+      "created_at": "2019-05-03 11:29:02",
+      "updated_at": "2019-05-03 11:29:02",
+      "name": "Rodriguez, Rivera and Cole",
+      "about": "Government station act treatment rise the rate. Be ready eight rather.",
+      "email": "abaca-dev+rodriguez-rivera-and-cole@pixelmatters.com",
+      "user_profile": 232,
+      "locations_weight": 2,
+      "sectors_weight": 4,
+      "level_weight": 3,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"7\", \"upper\": \"8\"}",
+      "types": [
+        47,
+        39
+      ],
+      "locations": [
+        7
+      ],
+      "sectors": [
+        531,
+        382,
+        630
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 82,
+    "fields": {
+      "created_at": "2020-01-09 15:43:48",
+      "updated_at": "2020-01-09 15:43:48",
+      "name": "Gonzalez, Woods and Rodriguez",
+      "about": "Herself child leader plan detail.",
+      "email": "abaca-dev+gonzalez-woods-and-rodriguez@pixelmatters.com",
+      "user_profile": 233,
+      "locations_weight": null,
+      "sectors_weight": 3,
+      "level_weight": null,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"8\", \"upper\": \"9\"}",
+      "types": [
+        7,
+        19
+      ],
+      "locations": [
+        43
+      ],
+      "sectors": [
+        281,
+        378,
+        114
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 83,
+    "fields": {
+      "created_at": "2019-03-24 07:54:47",
+      "updated_at": "2019-03-24 07:54:47",
+      "name": "Brown PLC",
+      "about": "Market clear type rate fund can. Easy perhaps skill address.",
+      "email": "abaca-dev+brown-plc@pixelmatters.com",
+      "user_profile": 234,
+      "locations_weight": 1,
+      "sectors_weight": 1,
+      "level_weight": 1,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"8\", \"upper\": \"9\"}",
+      "types": [
+        32,
+        50
+      ],
+      "locations": [
+        7
+      ],
+      "sectors": [
+        238,
+        171,
+        87
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 84,
+    "fields": {
+      "created_at": "2019-09-20 23:52:59",
+      "updated_at": "2019-09-20 23:52:59",
+      "name": "Garcia-Hicks",
+      "about": "Way send travel development window military. Chair son reality nearly smile fall. Herself truth responsibility.",
+      "email": "abaca-dev+garcia-hicks@pixelmatters.com",
+      "user_profile": 235,
+      "locations_weight": 2,
+      "sectors_weight": null,
+      "level_weight": null,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"7\", \"upper\": \"8\"}",
+      "types": [
+        29,
+        5
+      ],
+      "locations": [
+        22
+      ],
+      "sectors": [
+        210,
+        541,
+        400
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 85,
+    "fields": {
+      "created_at": "2020-06-14 22:37:35",
+      "updated_at": "2020-06-14 22:37:35",
+      "name": "Walls-Poole",
+      "about": "From small cover open hit. Purpose education next result relate stock.",
+      "email": "abaca-dev+walls-poole@pixelmatters.com",
+      "user_profile": 236,
+      "locations_weight": 2,
+      "sectors_weight": 4,
+      "level_weight": 4,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"7\", \"upper\": \"8\"}",
+      "types": [
+        8,
+        37
+      ],
+      "locations": [
+        21
+      ],
+      "sectors": [
+        132,
+        599,
+        450
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 86,
+    "fields": {
+      "created_at": "2019-06-22 07:10:44",
+      "updated_at": "2019-06-22 07:10:44",
+      "name": "Cummings, Potter and Perez",
+      "about": "Support can current grow media century hair. None reveal that staff method occur. Else fly walk least third beautiful.",
+      "email": "abaca-dev+cummings-potter-and-perez@pixelmatters.com",
+      "user_profile": 237,
+      "locations_weight": null,
+      "sectors_weight": null,
+      "level_weight": 4,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"6\", \"upper\": \"9\"}",
+      "types": [
+        36,
+        14
+      ],
+      "locations": [
+        41
+      ],
+      "sectors": [
+        575,
+        184,
+        268
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 87,
+    "fields": {
+      "created_at": "2019-12-23 03:30:26",
+      "updated_at": "2019-12-23 03:30:26",
+      "name": "Baker, Schmitt and Clarke",
+      "about": "Brother citizen sing must shoulder everyone. Popular later wear accept kind.",
+      "email": "abaca-dev+baker-schmitt-and-clarke@pixelmatters.com",
+      "user_profile": 238,
+      "locations_weight": null,
+      "sectors_weight": 2,
+      "level_weight": null,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"7\", \"upper\": \"8\"}",
+      "types": [
+        42,
+        38
+      ],
+      "locations": [
+        11
+      ],
+      "sectors": [
+        379,
+        622,
+        233
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 88,
+    "fields": {
+      "created_at": "2020-04-07 08:57:34",
+      "updated_at": "2020-04-07 08:57:34",
+      "name": "Orr-Walsh",
+      "about": "Tell mouth culture.",
+      "email": "abaca-dev+orr-walsh@pixelmatters.com",
+      "user_profile": 239,
+      "locations_weight": 3,
+      "sectors_weight": null,
+      "level_weight": null,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"4\", \"upper\": \"9\"}",
+      "types": [
+        26,
+        34
+      ],
+      "locations": [
+        42
+      ],
+      "sectors": [
+        333,
+        320,
+        641
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 89,
+    "fields": {
+      "created_at": "2019-01-31 04:27:54",
+      "updated_at": "2019-01-31 04:27:54",
+      "name": "Nguyen-Calhoun",
+      "about": "Suffer player half anything them. Once you necessary partner kind whole past. Subject rise court no son admit.",
+      "email": "abaca-dev+nguyen-calhoun@pixelmatters.com",
+      "user_profile": 240,
+      "locations_weight": 1,
+      "sectors_weight": null,
+      "level_weight": 3,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"2\", \"upper\": \"5\"}",
+      "types": [
+        10,
+        52
+      ],
+      "locations": [
+        11
+      ],
+      "sectors": [
+        477,
+        262,
+        365
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 90,
+    "fields": {
+      "created_at": "2020-05-13 03:55:43",
+      "updated_at": "2020-05-13 03:55:43",
+      "name": "Williams-Garner",
+      "about": "Life appear cut green team include. Name live federal. Figure color and bag why grow.",
+      "email": "abaca-dev+williams-garner@pixelmatters.com",
+      "user_profile": 241,
+      "locations_weight": 3,
+      "sectors_weight": 4,
+      "level_weight": 2,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"4\", \"upper\": \"7\"}",
+      "types": [
+        36,
+        45
+      ],
+      "locations": [
+        1
+      ],
+      "sectors": [
+        35,
+        350,
+        339
+      ]
+    }
+  },
+  {
+    "model": "matching.supporter",
+    "pk": 91,
+    "fields": {
+      "created_at": "2019-09-20 20:20:48",
+      "updated_at": "2019-09-20 20:20:48",
+      "name": "Hodges, Payne and Collins",
+      "about": "Opportunity work voice leave. Staff form size political marriage structure really.",
+      "email": "abaca-dev+hodges-payne-and-collins@pixelmatters.com",
+      "user_profile": 242,
+      "locations_weight": 4,
+      "sectors_weight": null,
+      "level_weight": null,
+      "investing_level_range": "{\"bounds\": \"[)\", \"lower\": \"2\", \"upper\": \"8\"}",
+      "types": [
+        2,
+        4
+      ],
+      "locations": [
+        21
+      ],
+      "sectors": [
+        206,
+        253,
+        409
+      ]
+    }
+  }
+]
