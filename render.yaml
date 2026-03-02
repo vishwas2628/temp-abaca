@@ -1,0 +1,158 @@
+# Render Blueprint for Abaca API
+# https://render.com/docs/blueprint-spec
+
+services:
+  # Main Django Web Service
+  - type: web
+    name: abaca-api
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    healthCheckPath: /api/health/
+    envVars:
+      - key: DEBUG
+        value: "False"
+      - key: STAGE
+        value: production
+      - key: APP_ENV
+        value: production
+      - key: SECRET_KEY
+        generateValue: true
+      - key: DATABASE_URL
+        fromDatabase:
+          name: abaca-db
+          property: connectionString
+      - key: ALLOWED_HOSTS
+        value: ".onrender.com"
+      - key: APP_DOMAIN
+        sync: false
+      - key: APP_BASE_URL
+        sync: false
+      - key: API_DOMAIN
+        sync: false
+      - key: ACCOUNT_EMAIL_VERIFICATION
+        value: optional
+      - key: SPREADSHEET_EMAIL
+        sync: false
+      - key: GOOGLE_PLACES_KEY
+        sync: false
+      - key: MJ_APIKEY
+        sync: false
+      - key: MJ_APISECRET
+        sync: false
+      - key: NO_REPLY_EMAIL
+        sync: false
+      - key: PRIMARY_EMAIL
+        sync: false
+      - key: ADMIN_EMAIL
+        sync: false
+      - key: EMAIL_TEMPLATES
+        sync: false
+      - key: CHARGEBEE_KEY
+        sync: false
+      - key: CHARGEBEE_SITE
+        sync: false
+      - key: RABBITMQ_URL
+        fromService:
+          type: pserv
+          name: rabbitmq
+          property: hostport
+      - key: CELERY_BROKER_URL
+        value: "amqp://guest:guest@rabbitmq:5672//"
+
+  # Celery Worker Service
+  - type: worker
+    name: celery-worker
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    dockerCommand: aldryn-celery worker
+    envVars:
+      - key: DEBUG
+        value: "False"
+      - key: STAGE
+        value: production
+      - key: APP_ENV
+        value: production
+      - key: SECRET_KEY
+        fromService:
+          type: web
+          name: abaca-api
+          envVarKey: SECRET_KEY
+      - key: DATABASE_URL
+        fromDatabase:
+          name: abaca-db
+          property: connectionString
+      - key: RABBITMQ_URL
+        fromService:
+          type: pserv
+          name: rabbitmq
+          property: hostport
+      - key: CELERY_BROKER_URL
+        value: "amqp://guest:guest@rabbitmq:5672//"
+      - key: MJ_APIKEY
+        sync: false
+      - key: MJ_APISECRET
+        sync: false
+      - key: NO_REPLY_EMAIL
+        sync: false
+      - key: PRIMARY_EMAIL
+        sync: false
+      - key: ADMIN_EMAIL
+        sync: false
+      - key: EMAIL_TEMPLATES
+        sync: false
+      - key: CHARGEBEE_KEY
+        sync: false
+      - key: CHARGEBEE_SITE
+        sync: false
+
+  # Celery Beat Scheduler Service
+  - type: worker
+    name: celery-beat
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    dockerCommand: aldryn-celery beat
+    envVars:
+      - key: DEBUG
+        value: "False"
+      - key: STAGE
+        value: production
+      - key: APP_ENV
+        value: production
+      - key: SECRET_KEY
+        fromService:
+          type: web
+          name: abaca-api
+          envVarKey: SECRET_KEY
+      - key: DATABASE_URL
+        fromDatabase:
+          name: abaca-db
+          property: connectionString
+      - key: RABBITMQ_URL
+        fromService:
+          type: pserv
+          name: rabbitmq
+          property: hostport
+      - key: CELERY_BROKER_URL
+        value: "amqp://guest:guest@rabbitmq:5672//"
+
+  # RabbitMQ Private Service (for Celery)
+  - type: pserv
+    name: rabbitmq
+    runtime: image
+    image:
+      url: rabbitmq:3.9-management
+    disk:
+      name: rabbitmq-data
+      mountPath: /var/lib/rabbitmq
+      sizeGB: 1
+
+# PostgreSQL Database
+databases:
+  - name: abaca-db
+    databaseName: abaca
+    user: abaca
+    plan: starter
+    postgresMajorVersion: "13"
