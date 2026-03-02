@@ -52,13 +52,6 @@ INSTALLED_ADDONS = [
 
 aldryn_addons.settings.load(locals())
 
-# Explicitly override DATABASE_URL and other critical settings if provided by Render environment
-import dj_database_url
-if os.environ.get('DATABASE_URL'):
-    DATABASES['default'] = dj_database_url.config(conn_max_age=600, ssl_require=True)
-elif os.environ.get('DEFAULT_DATABASE_URL'):
-    DATABASES['default'] = dj_database_url.parse(os.environ.get('DEFAULT_DATABASE_URL'))
-
 # Installed applications
 INSTALLED_APPS.extend(
     [
@@ -170,7 +163,7 @@ DEBUG_TOOLBAR_CONFIG = {
 }
 
 # Celery Configuration Options
-CELERY_BROKER_URL = os.environ.get('CELERY_BROKER_URL', os.environ.get('DEFAULT_AMQP_BROKER_URL', 'amqp://guest:guest@rabbitmq:5672/'))
+CELERY_BROKER_URL = os.environ.get('DEFAULT_AMQP_BROKER_URL', 'amqp://guest:guest@rabbitmq:5672/')
 
 # Configure Chargebee integration
 if CHARGEBEE := CHARGEBEE_KEY and CHARGEBEE_SITE:
